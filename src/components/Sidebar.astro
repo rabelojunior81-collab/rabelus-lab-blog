@@ -1,0 +1,30 @@
+---
+interface Props {
+  lang: string;
+  currentPath: string;
+}
+
+const { lang, currentPath } = Astro.props;
+const isEn = lang === 'en';
+const prefix = isEn ? '/en' : '';
+---
+<aside class="sidebar">
+  <div class="sidebar-section">
+    <div class="sidebar-label">{isEn ? 'Navigation' : 'Navegação'}</div>
+    <nav class="sidebar-nav">
+      <a href={prefix + '/'} class={currentPath === prefix + '/' || currentPath === prefix ? 'active' : ''}>
+        {isEn ? '[ home ]' : '[ início ]'}
+      </a>
+      <a href={prefix + '/tags'} class={currentPath.startsWith(prefix + '/tags') ? 'active' : ''}>
+        {isEn ? '[ tags ]' : '[ tags ]'}
+      </a>
+      <a href="/rss.xml">[ RSS ]</a>
+    </nav>
+  </div>
+  <div class="sidebar-section">
+    <div class="sidebar-label">Rabelus Lab</div>
+    <nav class="sidebar-nav">
+      <a href="https://rabelus.com.br" target="_blank" rel="noopener">rabelus.com.br ↗</a>
+    </nav>
+  </div>
+</aside>

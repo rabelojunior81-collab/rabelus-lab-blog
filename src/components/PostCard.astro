@@ -1,0 +1,27 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  date: string;
+  slug: string;
+  tags: string[];
+  lang: string;
+  readingTime: number;
+}
+
+const { title, subtitle, date, slug, tags, lang, readingTime } = Astro.props;
+const prefix = lang === 'en' ? '/en' : '';
+const href = `${prefix}/blog/${slug}`;
+---
+<a href={href} class="post-card">
+  <div class="post-card-meta">
+    <span class="post-card-date">{date}</span>
+    <span>&mdash;</span>
+    <span>{readingTime} min</span>
+  </div>
+  <div class="post-card-title">{title}</div>
+  {subtitle && <div class="post-card-subtitle">{subtitle}</div>}
+  <div class="post-card-tags">
+    {tags.map(tag => <span class="tag">#{tag}</span>)}
+  </div>
+</a>

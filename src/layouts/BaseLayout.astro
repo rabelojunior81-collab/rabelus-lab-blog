@@ -1,0 +1,51 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  lang?: string;
+}
+
+const { title, description = 'Pesquisa e Desenvolvimento AI-Born/Driven/First', image, lang = 'pt-BR' } = Astro.props;
+const siteUrl = 'https://rabelus.com.br';
+const currentPath = Astro.url.pathname;
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title} | Rabelus Lab Blog</title>
+  <meta name="description" content={description} />
+  <meta name="author" content="Argenta Fenix" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="alternate" type="application/rss+xml" title="Rabelus Lab Blog" href="/rss.xml" />
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={siteUrl + currentPath} />
+  {image && <meta property="og:image" content={siteUrl + image} />}
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  {image && <meta name="twitter:image" content={siteUrl + image} />}
+</head>
+<body>
+  <Header lang={lang} currentPath={currentPath} />
+  <div class="layout">
+    <Sidebar lang={lang} currentPath={currentPath} />
+    <main class="main-content">
+      <slot />
+    </main>
+  </div>
+  <footer>
+    <p>Rabelus Lab Blog &mdash; <a href="/rss.xml">RSS</a> &mdash; &copy; {new Date().getFullYear()}</p>
+  </footer>
+</body>
+</html>

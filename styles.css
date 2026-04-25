@@ -477,4 +477,4 @@ main { width: min(1380px, calc(100% - 40px)); margin: 0 auto; }
   .statement, .post-content, .post-summary { padding: 20px; }
   .footer { flex-direction: column; }
   .author-bio { flex-direction: column; align-items: center; text-align: center; }
-}
+}\n\n/* Post images */\n.post-image {\n  margin: 2rem 0;\n  border-radius: 12px;\n  overflow: hidden;\n  box-shadow: 0 4px 24px rgba(0,0,0,0.3);\n}\n.post-image img {\n  width: 100%;\n  height: auto;\n  display: block;\n}\n.post-image figcaption {\n  padding: 0.75rem 1rem;\n  background: rgba(255,255,255,0.05);\n  font-size: 0.85rem;\n  color: rgba(255,255,255,0.7);\n  text-align: center;\n  font-style: italic;\n}

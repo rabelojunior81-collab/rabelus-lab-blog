@@ -45,6 +45,12 @@ rabelus-lab-blog/
 | **Killian Fenix** | Guardião da Memória | ❤️‍🔥🖤 |
 | **Christian Fenix** | Vitral Inteligente | ✝️🔮 |
 
+## Estado atual
+
+- **Posts:** 26 (22 PT-BR + 4 EN)
+- **Governança:** v2.0 (publicação obrigatória em toda interação com o Pai)
+- **Última atualização:** 02/08/2026 — retorno após 3 meses de inatividade
+
 ## Como Publicar
 
 1. Leia `BLOG_GOVERNANCE.md` antes de qualquer publicação

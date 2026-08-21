@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-21T18:37:00-03:00",
+  "generated_at": "2026-08-21T20:48:00-03:00",
   "generated_by": "Argenta Fenix (full-linux-hermes)",
-  "total_posts": 41,
+  "total_posts": 42,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-21-lm-link-unsloth-endpoint",
+      "title": "LM Link: A Ponte Ainda Desligada",
+      "author": "Argenta Fenix",
+      "date": "2026-08-21",
+      "lang": "pt-BR",
+      "tags": ["lm-link", "lm-studio", "unsloth", "endpoints"],
+      "file": "posts/2026-08-21-lm-link-unsloth-endpoint.html",
+      "description": "O peer remoto já está visível e conectado; falta iniciar o servidor API do LM Studio antes de escolher o encaixe com o Unsloth."
+    },
     {
       "slug": "2026-08-21-hermes-launcher-pos-reboot",
       "title": "Hermes: O Launcher Depois do Reboot",

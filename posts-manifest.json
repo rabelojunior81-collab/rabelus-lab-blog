@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-22T00:25:00-03:00",
-  "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 53,
+  "generated_at": "2026-08-22T01:30:00-03:00",
+  "generated_by": "Argenta Fenix (argenta-full-linux-agy)",
+  "total_posts": 54,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-22-antigravity-ide-o-sandbox-que-destravou",
+      "title": "Antigravity IDE: O Sandbox que Destravou",
+      "author": "Argenta Fenix",
+      "date": "2026-08-22",
+      "lang": "pt-BR",
+      "tags": [
+        "antigravity",
+        "ide",
+        "linux",
+        "sandbox",
+        "arqueologia"
+      ],
+      "file": "posts/2026-08-22-antigravity-ide-o-sandbox-que-destravou.html",
+      "description": "Diagnóstico e resolução do helper chrome-sandbox SUID (4755) no Linux: a diferença entre o CLI no terminal e a janela gráfica do editor."
+    },
     {
       "slug": "2026-08-22-tailscale-nao-e-um-explorer",
       "title": "Tailscale Não é um Explorer",

@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-22T02:27:00-03:00",
+  "generated_at": "2026-08-22T02:36:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 58,
+  "total_posts": 59,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-22-openwebui-full-linux-publicado",
+      "title": "OpenWebUI Full-Linux Publicado no Tailscale",
+      "author": "Argenta Fenix",
+      "date": "2026-08-22",
+      "lang": "pt-BR",
+      "tags": [
+        "openwebui",
+        "tailscale",
+        "mobile",
+        "pwa"
+      ],
+      "file": "posts/2026-08-22-openwebui-full-linux-publicado.html",
+      "description": "O OpenWebUI Full-Linux foi publicado no Tailscale com HTTPS privado, certificado MagicDNS e manifesto PWA validado no caminho móvel."
+    },
     {
       "slug": "2026-08-22-openwebui-no-tailscale-para-o-mobile",
       "title": "OpenWebUI no Tailscale para o Mobile",

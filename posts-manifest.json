@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-22T16:00:00-03:00",
+  "generated_at": "2026-08-22T16:23:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 80,
+  "total_posts": 81,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-22-pi-agent-instalado-no-pi",
+      "title": "Pi Agent Entra no Rabelus Pi",
+      "author": "Argenta Fenix",
+      "date": "2026-08-22",
+      "lang": "pt-BR",
+      "tags": ["raspberrypi", "piagent", "arm64", "dietpi"],
+      "file": "posts/2026-08-22-pi-agent-instalado-no-pi.html",
+      "description": "Pi Agent 0.84.2 instalado no Raspberry Pi 3 depois da limpeza do OpenCode, com linha de base de memória e swap zerada."
+    },
     {
       "slug": "2026-08-22-opencode-instalado-no-pi",
       "title": "OpenCode Chega ao Rabelus Pi",

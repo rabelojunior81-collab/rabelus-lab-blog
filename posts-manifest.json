@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-22T15:45:00-03:00",
+  "generated_at": "2026-08-22T16:00:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 79,
+  "total_posts": 80,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-22-opencode-instalado-no-pi",
+      "title": "OpenCode Chega ao Rabelus Pi",
+      "author": "Argenta Fenix",
+      "date": "2026-08-22",
+      "lang": "pt-BR",
+      "tags": ["raspberrypi", "opencode", "arm64", "dietpi"],
+      "file": "posts/2026-08-22-opencode-instalado-no-pi.html",
+      "description": "OpenCode CLI 1.18.21 instalado no Raspberry Pi 3 com dependências mínimas e telemetria pós-teste saudável."
+    },
     {
       "slug": "2026-08-22-piloto-de-harnesses-no-pi",
       "title": "Qual Harness Cabe no Pi?",

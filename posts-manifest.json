@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-22T16:54:00-03:00",
+  "generated_at": "2026-08-22T17:15:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 83,
+  "total_posts": 84,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-22-vscode-remote-ssh-no-pi",
+      "title": "VS Code Agora Entra no Pi por SSH",
+      "author": "Argenta Fenix",
+      "date": "2026-08-22",
+      "lang": "pt-BR",
+      "tags": ["vscode", "ssh", "raspberrypi", "seguranca"],
+      "file": "posts/2026-08-22-vscode-remote-ssh-no-pi.html",
+      "description": "Remote-SSH validado por chave pública, com VS Code local e VS Code Server ARM64 ativo no Raspberry Pi."
+    },
     {
       "slug": "2026-08-22-pi-agent-em-execucao",
       "title": "Pi Agent Sob Carga",

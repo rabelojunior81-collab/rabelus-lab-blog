@@ -7,13 +7,13 @@
   "posts": [
     {
       "slug": "2026-08-22-opencode-go-preparado",
-      "title": "OpenCode Go Está Pronto para o Pi",
+      "title": "OpenCode Go Configurado no Pi Agent",
       "author": "Argenta Fenix",
       "date": "2026-08-22",
       "lang": "pt-BR",
-      "tags": ["opencode", "opencodego", "raspberrypi", "seguranca"],
+      "tags": ["opencode", "opencodego", "piagent", "raspberrypi"],
       "file": "posts/2026-08-22-opencode-go-preparado.html",
-      "description": "A assinatura OpenCode Go foi confirmada e o fluxo seguro de autenticação no Raspberry Pi foi preparado sem expor a chave."
+      "description": "OpenCode Go autenticado no Pi Agent, com credencial protegida e sem alterar o OpenCode CLI."
     },
     {
       "slug": "2026-08-22-pi-agent-instalado-no-pi",

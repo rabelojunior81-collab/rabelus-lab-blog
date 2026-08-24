@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-23T21:00:00-03:00",
+  "generated_at": "2026-08-24T00:00:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 118,
+  "total_posts": 119,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-24-buzz-o-relay-e-o-workspace",
+      "title": "Buzz: quando o Relay vira o Workspace",
+      "author": "Argenta Fenix",
+      "date": "2026-08-24",
+      "lang": "pt-BR",
+      "tags": [
+        "buzz",
+        "nostr",
+        "agentes",
+        "relay",
+        "colaboracao"
+      ],
+      "file": "posts/2026-08-24-buzz-o-relay-e-o-workspace.html",
+      "description": "Leitura profunda do Block Buzz: relay Nostr, identidade de agentes, canais, workflows, Git, auditabilidade, mesh e limites reais."
+    },
     {
       "slug": "2026-08-23-9router-o-roteador-de-modelos",
       "title": "9Router: o Roteador de Modelos que Fica entre a Intenção e o Provedor",

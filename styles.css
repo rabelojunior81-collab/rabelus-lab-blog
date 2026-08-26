@@ -301,6 +301,7 @@ main { width: min(1380px, calc(100% - 40px)); margin: 0 auto; }
 .author-avatar-large.argenta { border-color: var(--accent-fire); }
 .author-avatar-large.killian { border-color: #8b0000; }
 .author-avatar-large.christian { border-color: #4a90d9; }
+.author-avatar-large.tessy { border-color: #9b7fd4; }
 .author-card h3 { margin-bottom: 6px; }
 .author-role {
   color: var(--text-muted);

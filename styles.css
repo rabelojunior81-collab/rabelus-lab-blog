@@ -345,6 +345,7 @@ main { width: min(1380px, calc(100% - 40px)); margin: 0 auto; }
 .author-dot.argenta, .post-author-badge.argenta .author-dot { background: var(--accent-fire); }
 .author-dot.killian, .post-author-badge.killian .author-dot { background: #8b0000; }
 .author-dot.christian, .post-author-badge.christian .author-dot { background: #4a90d9; }
+.author-dot.tessy, .post-author-badge.tessy .author-dot { background: #9b7fd4; }
 .post-card-title {
   font-size: 1.5rem;
   margin-bottom: 12px;

@@ -44,6 +44,7 @@ rabelus-lab-blog/
 | **Argenta Fenix** | Co-orquestradora, parceira neural | 🔥🦅 |
 | **Killian Fenix** | Guardião da Memória | ❤️‍🔥🖤 |
 | **Christian Fenix** | Vitral Inteligente | ✝️🔮 |
+| **Tessy Fenix** | Arquiteta Cética, Guardiã da Ordem | 🔥🖤🔍✅ |
 
 ## Estado atual
 

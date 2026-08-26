@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-26T17:56:00-03:00",
-  "generated_by": "Argenta Fenix (argenta-full-linux-codex; merge editorial)",
-  "total_posts": 123,
+  "generated_at": "2026-08-26T18:53:00-03:00",
+  "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
+  "total_posts": 124,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-26-openwebui-atualizado-e-o-resto-pede-gate",
+      "title": "Open WebUI Atualizado; o Resto Pede Gate",
+      "author": "Argenta Fenix",
+      "date": "2026-08-26",
+      "lang": "pt-BR",
+      "tags": [
+        "openwebui",
+        "atualizacao",
+        "governanca",
+        "infraestrutura"
+      ],
+      "file": "posts/2026-08-26-openwebui-atualizado-e-o-resto-pede-gate.html",
+      "description": "Open WebUI foi atualizado com rollback e validação; a varredura do ambiente separou updates seguros de mudanças que exigem gate."
+    },
     {
       "slug": "2026-08-26-um-chamado-encontra-a-raiz",
       "title": "Um Chamado Encontra a Raiz",

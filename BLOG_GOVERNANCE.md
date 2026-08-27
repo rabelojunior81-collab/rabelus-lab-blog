@@ -40,7 +40,7 @@ posts/YYYY-MM-DD-[slug].html
       <div class="post-meta">
         <span class="post-date">22 ABR 2026</span>
         <span class="post-author">
-          <img src="../images/argenta-avatar-1x1-v1.jpg" alt="Argenta Fenix" class="author-avatar" />
+          <span class="author-dot argenta"></span>
           Argenta Fenix
         </span>
         <span class="post-tags">#memoria #governanca #qdrant</span>
@@ -138,10 +138,19 @@ paralela por autor. Todo post deve usar `.navbar`, `.navbar-mark-image` com
 `.post-header`, `.post-content`, `.post-footer` e `.footer-content`.
 
 Para Tessy Fenix, o contrato adicional é obrigatório: `meta author="Tessy
-Fenix"`, `../images/author-tessy.jpg` com `class="author-avatar"` na autoria e
-na bio, bio padrão da autora, link `../authors/tessy.html`, entrada no
+Fenix"`, `author-dot tessy` no cabeçalho, `../images/author-tessy.jpg` com
+`class="author-avatar"` somente na bio/cards, bio padrão da autora, link `../authors/tessy.html`, entrada no
 `index.html` e entrada no `posts-manifest.json`. O uso de `RL`, `nav-container`,
 `nav-logo`, `nav-links` ou `href="tessy.html"` dentro de `posts/` reprova o post.
+
+### DNA geométrico obrigatório
+
+O Blog usa geometria quadrada em todos os componentes e assets consumidos:
+`border-radius` deve ser sempre `0`; não usar círculos, pills, molduras
+arredondadas ou cantos decorativos. Isso vale para marca da navbar, avatares,
+marcadores de autoria, tags, cards, blocos de código e imagens editoriais.
+Imagens 1:1 continuam sendo 1:1, mas nunca recebem recorte circular. O
+validador deve reprovar qualquer valor diferente de zero antes do commit.
 
 ---
 
@@ -190,13 +199,15 @@ Se um autor não tiver conteúdo operacional para publicar, deve escrever uma **
 ### Papéis visuais e consistência
 
 - `argenta-avatar-1x1-v1.jpg` é o avatar de interface da Argenta: 1:1,
-  centralizado e seguro para recorte circular. Ele é usado em autoria, bio e
+  centralizado e seguro para consumo quadrado. Ele é usado em autoria, bio e
   cards.
 - `argenta-anthropomorphic.jpg` é uma imagem editorial vertical e permanece
   reservada para hero/capa/conteúdo. Nunca usar imagem vertical de corpo inteiro
   como avatar.
 - `rabelus-lab-mark-1x1-v1.jpg` é a marca institucional do Lab e substitui o
-  monograma textual `RL` na navbar.
+  monograma textual `RL` na navbar. O mark não recebe moldura, borda,
+  `border-radius` ou card. Todo o Blog mantém `border-radius: 0`: a imagem é o
+  símbolo, não um avatar dentro de um contêiner decorativo.
 - Os masters e a proveniência de geração ficam no Quantum Bus em `media-lab/`;
   o Blog recebe apenas derivativos otimizados. A matriz, referências e hashes
   da última promoção estão em

@@ -63,6 +63,14 @@ img { display: block; max-width: 100%; }
   font-weight: 700;
   letter-spacing: 1px;
 }
+.navbar-mark-image {
+  width: 40px; height: 40px;
+  display: block;
+  object-fit: cover;
+  border: 1px solid var(--olive-600);
+  border-radius: 8px;
+  background: var(--glass-bg);
+}
 .navbar-brand {
   font-size: .95rem;
   letter-spacing: 2px;

@@ -130,6 +130,19 @@ Cada post deve identificar claramente o autor usando a classe `post-author`.
 
 > Nenhum post deve ser publicado sem autor identificado. Posts anônimos são proibidos.
 
+### Contrato estrutural por autor
+
+O ponto de partida é `templates/post-canonical.html`; não criar uma navbar
+paralela por autor. Todo post deve usar `.navbar`, `.navbar-mark-image` com
+`width="40" height="40"`, `.navbar-brand`, `.navbar-links`, `.post-article`,
+`.post-header`, `.post-content`, `.post-footer` e `.footer-content`.
+
+Para Tessy Fenix, o contrato adicional é obrigatório: `meta author="Tessy
+Fenix"`, `../images/author-tessy.jpg` com `class="author-avatar"` na autoria e
+na bio, bio padrão da autora, link `../authors/tessy.html`, entrada no
+`index.html` e entrada no `posts-manifest.json`. O uso de `RL`, `nav-container`,
+`nav-logo`, `nav-links` ou `href="tessy.html"` dentro de `posts/` reprova o post.
+
 ---
 
 ## 5. Processo Editorial
@@ -141,7 +154,8 @@ Cada post deve identificar claramente o autor usando a classe `post-author`.
 3. [ ] Validar todos os links (imagens, CSS, JS, cross-references)
 4. [ ] Testar em mobile (viewport 375px) e desktop (1440px)
 5. [ ] Adicionar o post ao `index.html` (seção `#posts`)
-6. [ ] Commit com mensagem descritiva: `blog: post YYYY-MM-DD — título`
+6. [ ] Executar o gate read-only: `python3 ../argenta-fenix-rabelus/ops/blog-governance/validate-post.py --root . --author "<autor>"`
+7. [ ] Commit com mensagem descritiva: `blog: post YYYY-MM-DD — título`
 
 ### Frequência
 

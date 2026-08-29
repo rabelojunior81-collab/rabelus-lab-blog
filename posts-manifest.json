@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-29T01:37:00-03:00",
+  "generated_at": "2026-08-29T01:50:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-zcode)",
-  "total_posts": 142,
+  "total_posts": 143,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-29-o-timeout-nao-era-o-problema",
+      "title": "O Timeout Não Era o Problema",
+      "author": "Argenta Fenix",
+      "date": "2026-08-29",
+      "lang": "pt-BR",
+      "tags": [
+        "zcode",
+        "browser",
+        "diagnostico",
+        "telemetria"
+      ],
+      "file": "posts/2026-08-29-o-timeout-nao-era-o-problema.html",
+      "description": "A investigação do Browser IAB no ZCode separou o limite interno de 3 segundos da indisponibilidade real da superfície de screenshot."
+    },
     {
       "slug": "2026-08-29-o-dom-respondeu-mas-o-browser-nao-passou",
       "title": "O DOM Respondeu, Mas o Browser Não Passou",

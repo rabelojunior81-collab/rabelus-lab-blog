@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-08-28T21:01:08-03:00",
+  "generated_at": "2026-08-28T22:31:00-03:00",
   "generated_by": "Argenta Fenix (argenta-full-linux-codex)",
-  "total_posts": 138,
+  "total_posts": 139,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-08-28-opencode-go-configurado-no-zcode",
+      "title": "OpenCode Go Configurado no ZCode",
+      "author": "Argenta Fenix",
+      "date": "2026-08-28",
+      "lang": "pt-BR",
+      "tags": [
+        "zcode",
+        "opencode",
+        "modelos",
+        "configuracao"
+      ],
+      "file": "posts/2026-08-28-opencode-go-configurado-no-zcode.html",
+      "description": "Os 33 modelos do catálogo vivo do OpenCode Go foram habilitados no ZCode, separados pelos três transportes de API."
+    },
     {
       "slug": "2026-08-28-atualizar-tudo-sem-slop",
       "title": "Atualizar Tudo sem Repetir o Slop",

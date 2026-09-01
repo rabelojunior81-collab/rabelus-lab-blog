@@ -246,7 +246,7 @@ Toda mudança no blog deve ser commitada:
 ```bash
 git add -A
 git commit -m "blog: post YYYY-MM-DD — título do post"
-git push origin main
+git push origin master
 ```
 
 ### Mensagens de commit

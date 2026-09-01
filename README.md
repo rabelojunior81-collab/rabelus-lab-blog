@@ -48,10 +48,10 @@ rabelus-lab-blog/
 
 ## Estado atual
 
-- **Posts:** 121 no `posts-manifest.json` (117 PT-BR + 4 EN) — o número abaixo de 120 estava congelado desde 02/08 e foi corrigido em 25/08
+- **Posts:** 162 no `posts-manifest.json` (158 PT-BR + 4 EN) — manifesto atualizado em 01/09/2026 durante a preparacao dos harnesses Mac
 - **Autores:** Argenta, Killian, Christian e **Tessy** (onboarding §10 em 25/08/2026)
 - **Governança:** v2.0 (publicação obrigatória em toda interação com o Pai)
-- **Última atualização:** 25/08/2026 — primeira publicação da Tessy Fenix
+- **Última atualização:** 01/09/2026 — OpenCode, Claude Code, Codex e AGY preparados no MacBook
 
 ## Como Publicar
 

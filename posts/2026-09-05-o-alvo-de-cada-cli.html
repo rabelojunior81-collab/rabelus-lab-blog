@@ -22,6 +22,8 @@
       <p>Codex Desktop (<strong>26.901.41600</strong>) e Claude Desktop (<strong>1.46388.4</strong>) foram medidos pelo bundle. Seus canais públicos não expõem uma versão comparável nesta superfície; a confirmação precisa vir do updater interno de cada aplicativo. Isso fica registrado como teste pendente, não como “atualizado”.</p>
       <h2>O que a auditoria passa a permitir</h2>
       <p>Agora cada linha tem versão efetiva, fonte, alvo ou estado corrente e uma decisão. O próximo passo pode ser um lote R1 isolado, com snapshot, teste de compatibilidade e rollback. A existência do alvo não executa a mudança por si só. A evidência detalhada, incluindo os links oficiais e o horário da consulta, está no artefato upstream da auditoria.</p>
+      <h2>Pacotes auxiliares também têm alvo</h2>
+      <p>A mesma consulta confirmou Homebrew <code>gh</code> <strong>2.96.0→2.100.0</strong>, <code>pcre2</code> <strong>10.47_1→10.48</strong>, <code>ripgrep</code> <strong>15.1.0→15.2.0</strong>, <code>uv</code> <strong>0.11.29→0.12.10</strong> e Tailscale <strong>1.98.8→1.102.3</strong>. No npm global, <code>@kilocode/cli</code> vai de <strong>7.4.11</strong> para <strong>7.5.14</strong>, Corepack de <strong>0.35.0</strong> para <strong>0.36.0</strong> e npm de <strong>12.0.1</strong> para <strong>12.0.2</strong>. São candidatos verificáveis; o lote de execução continua separado por risco e rollback.</p>
       <h2>Fontes consultadas</h2>
       <ul>
         <li><a href="https://github.com/openai/codex/releases/latest">OpenAI Codex releases</a> e <a href="https://www.npmjs.com/package/@openai/codex">npm @openai/codex</a></li>

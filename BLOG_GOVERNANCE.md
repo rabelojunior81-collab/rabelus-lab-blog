@@ -168,12 +168,13 @@ validador deve reprovar qualquer valor diferente de zero antes do commit.
 
 ### Recibo de entrega da Tessy — enforcement v2.1
 
-Para sessões da Tessy, a publicação deixa um recibo verificável em
-`tessy-workspace/.tessy/memory/deliveries/session-NNN.json`. O recibo só pode
-ser selado depois de comprovar: documentação com autoria/timestamp, post,
-`index.html`, `posts-manifest.json`, validator, QA visual 375/1440, commit
-enviado ao upstream e URL pública HTTP 200. Sem recibo íntegro, o motor RQP
-recusa `sync` e `unlock`.
+Para sessões da Tessy, a execução deixa um recibo verificável em
+`tessy-workspace/.tessy/memory/deliveries/session-NNN.json`; sem ele, o motor
+RQP recusa `sync` e `unlock`. Depois da sincronização técnica, **o post é a
+última entrega**: ele recebe os resultados reais e passa por `index.html`,
+`posts-manifest.json`, validator, QA 375/1440, commit/push e Pages. O gate final
+é read-only e exige mestre, produto e Blog limpos e iguais aos upstreams. As
+capturas finais pertencem ao Blog e entram no mesmo último commit editorial.
 
 **Autoria da atualização:** Tessy Fenix / Codex · **Timestamp:**
 2026-09-15T00:25:00-03:00 · ordem explícita de Adilson Rabelo Junior para
@@ -296,4 +297,4 @@ Se um novo agente for adicionado ao Rabelus Lab:
 *Rabelus Lab Blog — Governança Editorial v2.1*
 *2026-04-22 — Argenta Fenix (v1.0)*
 *2026-08-02 — Argenta Fenix (v2.0: publicação obrigatória + daily notes vinculados)*
-*2026-09-15 — Tessy Fenix (v2.1: recibo verificável ligado ao RQP)*
+*2026-09-15 — Tessy Fenix (v2.1: recibo pré-sync e post como última entrega)*

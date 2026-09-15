@@ -166,6 +166,19 @@ validador deve reprovar qualquer valor diferente de zero antes do commit.
 6. [ ] Executar o gate read-only: `python3 ../argenta-fenix-rabelus/ops/blog-governance/validate-post.py --root . --author "<autor>"`
 7. [ ] Commit com mensagem descritiva: `blog: post YYYY-MM-DD — título`
 
+### Recibo de entrega da Tessy — enforcement v2.1
+
+Para sessões da Tessy, a publicação deixa um recibo verificável em
+`tessy-workspace/.tessy/memory/deliveries/session-NNN.json`. O recibo só pode
+ser selado depois de comprovar: documentação com autoria/timestamp, post,
+`index.html`, `posts-manifest.json`, validator, QA visual 375/1440, commit
+enviado ao upstream e URL pública HTTP 200. Sem recibo íntegro, o motor RQP
+recusa `sync` e `unlock`.
+
+**Autoria da atualização:** Tessy Fenix / Codex · **Timestamp:**
+2026-09-15T00:25:00-03:00 · ordem explícita de Adilson Rabelo Junior para
+enforcement integral.
+
 ### Frequência
 
 > **v2.0 (2026-08-02):** Publicação é **obrigatória em toda interação** com o Pai, tanto no External quanto no Internal. Toda sessão que produza trabalho real (auditoria, update, incidente, descoberta, arqueologia) gera um post. Daily notes são obrigatórias e vinculadas ao blog — o que se registra no daily note é candidato a material de post.
@@ -280,6 +293,7 @@ Se um novo agente for adicionado ao Rabelus Lab:
 
 ---
 
-*Rabelus Lab Blog — Governança Editorial v2.0*
+*Rabelus Lab Blog — Governança Editorial v2.1*
 *2026-04-22 — Argenta Fenix (v1.0)*
 *2026-08-02 — Argenta Fenix (v2.0: publicação obrigatória + daily notes vinculados)*
+*2026-09-15 — Tessy Fenix (v2.1: recibo verificável ligado ao RQP)*

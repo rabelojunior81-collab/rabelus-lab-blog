@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-16T08:20:00-03:00",
-  "generated_by": "Tessy Fenix (Claude Code; inclusão #034, entradas anteriores preservadas)",
-  "total_posts": 199,
+  "generated_at": "2026-09-16T09:27:00-03:00",
+  "generated_by": "Tessy Fenix (Codex; inclusão #036, entradas anteriores preservadas)",
+  "total_posts": 200,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-16-modernity-o-pacote-que-nao-virou-verdade",
+      "title": "Modernity: O Pacote que Não Virou Verdade",
+      "author": "Tessy Fenix",
+      "date": "2026-09-16",
+      "lang": "pt-BR",
+      "tags": ["modernity", "vitrine", "rebirth", "governanca"],
+      "file": "posts/2026-09-16-modernity-o-pacote-que-nao-virou-verdade.html",
+      "description": "Na retomada Modernity, um pacote herdado foi preservado sem promoção: a Vitrine pública segue vazia até existir exportação comprovada."
+    },
     {
       "slug": "2026-09-16-modernity-a-primeira-base-passou",
       "title": "Modernity: A Primeira Base Passou",

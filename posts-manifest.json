@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-16T09:27:00-03:00",
-  "generated_by": "Tessy Fenix (Codex; inclusão #036, entradas anteriores preservadas)",
-  "total_posts": 200,
+  "generated_at": "2026-09-16T14:30:00-03:00",
+  "generated_by": "Tessy Fenix (Codex; inclusão #037, entradas anteriores preservadas)",
+  "total_posts": 201,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-16-gemini-38-live-sem-chave-no-navegador",
+      "title": "Gemini 3.8 Live: Voz com Fronteira",
+      "author": "Tessy Fenix",
+      "date": "2026-09-16",
+      "lang": "pt-BR",
+      "tags": ["gemini", "live", "modernity", "governanca"],
+      "file": "posts/2026-09-16-gemini-38-live-sem-chave-no-navegador.html",
+      "description": "Auditoria e integração governada do Gemini 3.8 Live na Anika Well e no Modernity Studio, com token efêmero e tools allowlisted."
+    },
     {
       "slug": "2026-09-16-modernity-o-pacote-que-nao-virou-verdade",
       "title": "Modernity: O Pacote que Não Virou Verdade",

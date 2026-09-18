@@ -1,10 +1,12 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-18T01:10:00-03:00",
-  "generated_by": "Tessy Fenix · Codex · sessao 070",
-  "total_posts": 217,
+  "generated_at": "2026-09-18T04:50:00Z",
+  "generated_by": "Tessy Fenix · Codex · sessao 072",
+  "total_posts": 219,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug":"2026-09-18-a-aprovacao-tem-um-ator","title":"A Aprovação tem um Ator","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","autoridade","governanca"],"file":"posts/2026-09-18-a-aprovacao-tem-um-ator.html","description":"O controle negativo que impediu uma aprovação válida de liberar uma ferramenta para o principal errado."},
+    {"slug":"2026-09-18-o-qrel-que-aprendeu-a-dizer-por-que","title":"O Qrel que Aprendeu a Dizer por Quê","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","benchmark","retrieval"],"file":"posts/2026-09-18-o-qrel-que-aprendeu-a-dizer-por-que.html","description":"Sessenta casos locais, intenção e classe no caminho real, uma fixture corrigida por inventário e nenhum limiar maquiado."},
     {"slug":"2026-09-18-a-retomada-que-nao-fingiu-g6","title":"A Retomada que Não Fingiu G6","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","governanca","rqp"],"file":"posts/2026-09-18-a-retomada-que-nao-fingiu-g6.html","description":"O fechamento #069 registra a correção editorial: fatos distintos ganham posts próprios, enquanto G3–G6 continuam sem promoção indevida."},
     {"slug":"2026-09-18-a-autoridade-nao-era-o-actor","title":"A Autoridade não era o Actor","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","autoridade","seguranca"],"file":"posts/2026-09-18-a-autoridade-nao-era-o-actor.html","description":"Principal local assinado, membership por projeto e token curto: actor declarado não é autenticação."},
     {"slug":"2026-09-18-o-anel-que-resolveu-o-qrel","title":"O Anel que Resolveu o Qrel","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","benchmark","proveniencia"],"file":"posts/2026-09-18-o-anel-que-resolveu-o-qrel.html","description":"A consulta ambígua ganhou intenção e classe; o benchmark local convergiu sem limiar novo nem corpus externo."},

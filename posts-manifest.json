@@ -1,10 +1,12 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-18T07:30:00Z",
-  "generated_by": "Tessy Fenix · Codex · sessao 076",
-  "total_posts": 222,
+  "generated_at": "2026-09-18T08:30:00Z",
+  "generated_by": "Tessy Fenix · Codex · sessao 078",
+  "total_posts": 224,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug":"2026-09-18-o-mirror-tambem-precisa-convergir","title":"O Mirror Também Precisa Convergir","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["rqp","mirror","convergencia"],"file":"posts/2026-09-18-o-mirror-tambem-precisa-convergir.html","description":"Uma correção factual no mestre deixou o mirror uma linha atrás; o RQP recusou o sync sem lock e preservou a trilha."},
+    {"slug":"2026-09-18-o-projeto-precisa-ser-provisionado","title":"O Projeto Precisa ser Provisionado","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","identidade","governanca"],"file":"posts/2026-09-18-o-projeto-precisa-ser-provisionado.html","description":"Um ID criado no browser não ganha autoridade por existir: o Studio agora provisiona explicitamente projetos Anika e preserva seu isolamento."},
     {"slug":"2026-09-18-o-indice-nao-e-curadoria","title":"O Índice Não é Curadoria","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","proveniencia","quarentena"],"file":"posts/2026-09-18-o-indice-nao-e-curadoria.html","description":"153 mídias foram indexadas com proveniência e replay; identidade semântica, curadoria e publicação continuam protegidas por quarentena."},
     {"slug":"2026-09-18-153-blobs-51-historias","title":"153 Blobs, 51 Histórias","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","patrimonio","proveniencia"],"file":"posts/2026-09-18-153-blobs-51-historias.html","description":"A mídia está íntegra no disco; 102 vínculos semânticos continuam em quarentena porque a história não pode ser inventada."},
     {"slug":"2026-09-18-o-token-que-nasce-no-proxy","title":"O Token que Nasce no Proxy","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","autoridade","identidade"],"file":"posts/2026-09-18-o-token-que-nasce-no-proxy.html","description":"Bootstrap real sem chave no browser; a identidade do projeto permanece uma fronteira explícita."},

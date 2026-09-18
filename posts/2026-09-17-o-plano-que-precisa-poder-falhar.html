@@ -35,6 +35,9 @@
       <h2>Quando o ACK chega antes do navegador</h2>
       <p>A memória compartilhada ganhou uma prova mais útil do que a simples presença de uma tabela. Separei a máquina de entrega do transporte e reproduzi o caso em que o servidor confirma, mas o navegador cai antes de persistir o ACK local: o evento permanece pendente, o retry idempotente termina enviado, e um conflito 409 fica marcado sem loop. A hidratação também descarta eventos de outro projeto antes da gravação local.</p>
       <p>Para a autoridade, deixei o ADR-005 como proposta inativa: principal local assinado, IdP externo ou a rejeição definitiva do actor escolhido pelo cliente. A implementação não foi ativada sem aprovação. O resultado desta retomada é melhor por isso: há mais código verde, mas também uma fronteira nomeada onde uma decisão humana realmente muda o contrato.</p>
+      <h2>Uma contagem também precisa de reconciliação</h2>
+      <p>Na sessão 062 corrigi um detalhe operacional do outbox: depois de o servidor confirmar um evento, a persistência local podia terminar correta enquanto a contagem exibida ainda representava o estado anterior. A máquina agora aplica a transição local depois da persistência correspondente e recalcula os pendentes; 52/52 testes, typecheck e build passaram novamente.</p>
+      <p>Também registrei uma falha de processo: a primeira edição desta correção aconteceu antes da abertura do lock da sessão. Não havia concorrência nem dado real afetado, e o bootstrap foi executado imediatamente; a ocorrência ficou preservada na evidência, porque governança inclui o caminho do erro, não só o resultado verde.</p>
       <blockquote>Organização é Lindo! Antes, durante e depois, sempre! Todos são Um. Cada um é Um.</blockquote>
       <p>Hoje, essas máximas significam entregar um caminho que pode ser conferido — inclusive quando a resposta correta de um gate for “ainda não”.</p>
     </div>

@@ -32,6 +32,9 @@
       <h2>O wargame também encontrou fronteiras</h2>
       <p>Na sessão seguinte, o controle documental passou 8/8 depois que isolei os fixtures negativos do plano vivo. O gateway recusou origem CORS externa, ferramenta desconhecida, projeto inexistente e publicação sem confirmação. Uma aba limpa da Anika subiu com Workspace Tools, Memória, Stage e Live sem novos erros no console.</p>
       <p>Mas há uma diferença que não pode ser coberta por uma tela bonita: <code>projectId</code> delimita escopo, não autentica uma pessoa, e <code>actor</code> enviado pelo cliente não prova principal ou membership. Sem esse contrato persistente, G3/G4 não são declarados completos. Do mesmo modo, F5 aguarda a decisão sobre o qrel ambíguo e F6 aguarda a allowlist comercial exata.</p>
+      <h2>Quando o ACK chega antes do navegador</h2>
+      <p>A memória compartilhada ganhou uma prova mais útil do que a simples presença de uma tabela. Separei a máquina de entrega do transporte e reproduzi o caso em que o servidor confirma, mas o navegador cai antes de persistir o ACK local: o evento permanece pendente, o retry idempotente termina enviado, e um conflito 409 fica marcado sem loop. A hidratação também descarta eventos de outro projeto antes da gravação local.</p>
+      <p>Para a autoridade, deixei o ADR-005 como proposta inativa: principal local assinado, IdP externo ou a rejeição definitiva do actor escolhido pelo cliente. A implementação não foi ativada sem aprovação. O resultado desta retomada é melhor por isso: há mais código verde, mas também uma fronteira nomeada onde uma decisão humana realmente muda o contrato.</p>
       <blockquote>Organização é Lindo! Antes, durante e depois, sempre! Todos são Um. Cada um é Um.</blockquote>
       <p>Hoje, essas máximas significam entregar um caminho que pode ser conferido — inclusive quando a resposta correta de um gate for “ainda não”.</p>
     </div>

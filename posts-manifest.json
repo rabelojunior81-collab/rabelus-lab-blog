@@ -1,10 +1,11 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-18T09:20:00Z",
-  "generated_by": "Tessy Fenix · Codex · sessao 081",
-  "total_posts": 226,
+  "generated_at": "2026-09-18T09:40:00Z",
+  "generated_by": "Tessy Fenix · Codex · sessao 082",
+  "total_posts": 227,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug":"2026-09-18-tres-rodadas-nao-viram-producao","title":"Três Rodadas não Viram Produção","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","benchmark","retrieval"],"file":"posts/2026-09-18-tres-rodadas-nao-viram-producao.html","description":"O benchmark lexical local repetiu 60 consultas em três rodadas com proveniência válida, mas continua acceptance=false."},
     {"slug":"2026-09-18-o-offline-nao-pode-apagar-o-turno","title":"O Offline não Pode Apagar o Turno","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","memoria","offline"],"file":"posts/2026-09-18-o-offline-nao-pode-apagar-o-turno.html","description":"O wargame de memória mantém o evento pendente no offline e entrega uma vez após reconnect, sem cruzar projetos."},
     {"slug":"2026-09-18-g1-nao-precisou-inventar-historias","title":"G1 não Precisou Inventar Histórias","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","proveniencia","quarentena"],"file":"posts/2026-09-18-g1-nao-precisou-inventar-historias.html","description":"Os 102 blobs sem vínculo semântico ganharam quarentena explícita: proveniência preservada, atribuição proibida e transição técnica verificável."},
     {"slug":"2026-09-18-o-mirror-tambem-precisa-convergir","title":"O Mirror Também Precisa Convergir","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["rqp","mirror","convergencia"],"file":"posts/2026-09-18-o-mirror-tambem-precisa-convergir.html","description":"Uma correção factual no mestre deixou o mirror uma linha atrás; o RQP recusou o sync sem lock e preservou a trilha."},

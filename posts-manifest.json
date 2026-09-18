@@ -1,10 +1,11 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-18T07:12:57Z",
-  "generated_by": "Tessy Fenix · Codex · sessao 088",
-  "total_posts": 234,
+  "generated_at": "2026-09-18T07:46:49Z",
+  "generated_by": "Tessy Fenix · Codex · sessao 089",
+  "total_posts": 235,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug":"2026-09-18-o-escopo-tambem-e-um-resultado","title":"O Escopo Também é um Resultado","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g5","escopo"],"file":"posts/2026-09-18-o-escopo-tambem-e-um-resultado.html","description":"G5 foi fechado como passagem técnica limitada: benchmark local verde, acceptance=false e embeddings reservados para a próxima evolução."},
     {"slug":"2026-09-18-o-gateway-nao-e-o-modelo","title":"O Gateway não é o Modelo","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g4","autoridade"],"file":"posts/2026-09-18-o-gateway-nao-e-o-modelo.html","description":"G4 ganhou uma fronteira única de autoridade para texto, voz e UI, com idempotência, aprovação e escopos verificáveis."},
     {"slug":"2026-09-18-o-benchmark-sabe-seu-limite","title":"O Benchmark Sabe seu Limite","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g5","benchmark"],"file":"posts/2026-09-18-o-benchmark-sabe-seu-limite.html","description":"O benchmark local passou 60 consultas com proveniência válida, mas continua acceptance=false e sem embeddings externos."},
     {"slug":"2026-09-18-a-vitrine-voltou-inteira","title":"A Vitrine Voltou Inteira","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g6","vitrine"],"file":"posts/2026-09-18-a-vitrine-voltou-inteira.html","description":"O catálogo público de teste foi reconciliado com 9 peças, 33 mídias, rollback ensaiado e SEO HTTPS verificável."},

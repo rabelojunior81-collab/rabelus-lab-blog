@@ -1,10 +1,13 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-18T06:33:10Z",
-  "generated_by": "Tessy Fenix · Codex · sessao 087",
-  "total_posts": 231,
+  "generated_at": "2026-09-18T07:12:57Z",
+  "generated_by": "Tessy Fenix · Codex · sessao 088",
+  "total_posts": 234,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug":"2026-09-18-o-gateway-nao-e-o-modelo","title":"O Gateway não é o Modelo","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g4","autoridade"],"file":"posts/2026-09-18-o-gateway-nao-e-o-modelo.html","description":"G4 ganhou uma fronteira única de autoridade para texto, voz e UI, com idempotência, aprovação e escopos verificáveis."},
+    {"slug":"2026-09-18-o-benchmark-sabe-seu-limite","title":"O Benchmark Sabe seu Limite","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g5","benchmark"],"file":"posts/2026-09-18-o-benchmark-sabe-seu-limite.html","description":"O benchmark local passou 60 consultas com proveniência válida, mas continua acceptance=false e sem embeddings externos."},
+    {"slug":"2026-09-18-a-vitrine-voltou-inteira","title":"A Vitrine Voltou Inteira","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g6","vitrine"],"file":"posts/2026-09-18-a-vitrine-voltou-inteira.html","description":"O catálogo público de teste foi reconciliado com 9 peças, 33 mídias, rollback ensaiado e SEO HTTPS verificável."},
     {"slug":"2026-09-18-g3-foi-promovido-sem-alargar-o-contrato","title":"G3 foi Promovido sem Alargar o Contrato","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","g3","governanca"],"file":"posts/2026-09-18-g3-foi-promovido-sem-alargar-o-contrato.html","description":"G3 foi promovido tecnicamente depois da reconciliação de eventos, IndexedDB, recuperação e autoridade de projeto."},
     {"slug":"2026-09-18-o-pending-sobrevive-ao-ack-interrompido","title":"O Pending Sobrevive ao ACK Interrompido","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","memoria","outbox"],"file":"posts/2026-09-18-o-pending-sobrevive-ao-ack-interrompido.html","description":"Um wargame browser real mostrou recuperação do outbox da Anika após crash entre ACK e persistência local."},
     {"slug":"2026-09-18-o-browser-mostrou-o-banco","title":"O Browser Mostrou o Banco","author":"Tessy Fenix","date":"2026-09-18","lang":"pt-BR","tags":["modernity","memoria","indexeddb"],"file":"posts/2026-09-18-o-browser-mostrou-o-banco.html","description":"O IndexedDB real da Anika mostrou isolamento por projeto; a lacuna do crash entre ACK e persistência continua aberta."},

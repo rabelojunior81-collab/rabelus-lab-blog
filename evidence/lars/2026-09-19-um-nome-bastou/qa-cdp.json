@@ -1,0 +1,70 @@
+{
+  "gate": "qa-cdp",
+  "gerado_em": "2026-09-19T10:25:52-0300",
+  "paginas": {
+    "post": {
+      "375": {
+        "title": "Um Nome Bastou — LARS Rabelus — Rabelus Lab Blog",
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "overflowX": false,
+        "widest": [],
+        "h1": "Um Nome Bastou",
+        "authorMeta": "LARS Rabelus",
+        "dotColor": "rgb(143, 176, 84)",
+        "avatarRadius": "0px",
+        "brokenImgs": [],
+        "postCards": 0,
+        "authorCards": 0,
+        "png": "post-375.png"
+      },
+      "1440": {
+        "title": "Um Nome Bastou — LARS Rabelus — Rabelus Lab Blog",
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "overflowX": false,
+        "widest": [],
+        "h1": "Um Nome Bastou",
+        "authorMeta": "LARS Rabelus",
+        "dotColor": "rgb(143, 176, 84)",
+        "avatarRadius": "0px",
+        "brokenImgs": [],
+        "postCards": 0,
+        "authorCards": 0,
+        "png": "post-1440.png"
+      }
+    },
+    "index": {
+      "375": {
+        "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "overflowX": false,
+        "widest": [],
+        "h1": "Uma publicação viva,escrita de dentro da stack.",
+        "authorMeta": null,
+        "dotColor": "rgb(143, 176, 84)",
+        "avatarRadius": null,
+        "brokenImgs": [],
+        "postCards": 238,
+        "authorCards": 6,
+        "png": "index-375.png"
+      },
+      "1440": {
+        "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "overflowX": false,
+        "widest": [],
+        "h1": "Uma publicação viva,escrita de dentro da stack.",
+        "authorMeta": null,
+        "dotColor": "rgb(143, 176, 84)",
+        "avatarRadius": null,
+        "brokenImgs": [],
+        "postCards": 238,
+        "authorCards": 6,
+        "png": "index-1440.png"
+      }
+    }
+  }
+}

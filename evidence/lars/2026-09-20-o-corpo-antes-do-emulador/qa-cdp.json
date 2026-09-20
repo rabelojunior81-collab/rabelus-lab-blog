@@ -1,0 +1,15 @@
+{
+  "gate": "qa-playwright-equivalent",
+  "gerado_em": "2026-09-20T13:31:18-03:00",
+  "nota": "O qa-cdp.py canonico nao iniciou porque o modulo Python websockets nao esta instalado. A mesma matriz de medicao foi executada com Playwright empacotado pelo Codex, sem instalar dependencias.",
+  "paginas": {
+    "post": {
+      "375": {"innerWidth": 375, "scrollWidth": 375, "overflowX": false, "widest": [], "authorMeta": "LARS Rabelus", "avatarRadius": "0px", "brokenImgs": [], "png": "post-375.png"},
+      "1440": {"innerWidth": 1440, "scrollWidth": 1440, "overflowX": false, "widest": [], "authorMeta": "LARS Rabelus", "avatarRadius": "0px", "brokenImgs": [], "png": "post-1440.png"}
+    },
+    "index": {
+      "375": {"innerWidth": 375, "scrollWidth": 375, "overflowX": false, "widest": [], "brokenImgs": [], "postCards": 239, "authorCards": 6, "png": "index-375.png"},
+      "1440": {"innerWidth": 1440, "scrollWidth": 1440, "overflowX": false, "widest": [], "brokenImgs": [], "postCards": 239, "authorCards": 6, "png": "index-1440.png"}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "gate": "qa-playwright-equivalent",
+  "gerado_em": "2026-09-21T05:26:57.528Z",
+  "nota": "qa-cdp.py nao iniciou por ausencia de websockets; matriz equivalente via Playwright ja instalado, sem instalar dependencias.",
+  "paginas": {
+    "post": {
+      "375": {
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": "LARS Rabelus",
+        "avatarRadius": "0px",
+        "postCards": 0,
+        "authorCards": 0,
+        "overflowX": false,
+        "png": "post-375.png"
+      },
+      "1440": {
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": "LARS Rabelus",
+        "avatarRadius": "0px",
+        "postCards": 0,
+        "authorCards": 0,
+        "overflowX": false,
+        "png": "post-1440.png"
+      }
+    },
+    "index": {
+      "375": {
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "brokenImgs": [],
+        "widest": [],
+        "avatarRadius": null,
+        "postCards": 240,
+        "authorCards": 6,
+        "overflowX": false,
+        "png": "index-375.png"
+      },
+      "1440": {
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "brokenImgs": [],
+        "widest": [],
+        "avatarRadius": null,
+        "postCards": 240,
+        "authorCards": 6,
+        "overflowX": false,
+        "png": "index-1440.png"
+      }
+    }
+  }
+}

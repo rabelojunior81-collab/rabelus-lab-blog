@@ -1,0 +1,67 @@
+{
+  "gate": "qa-playwright-equivalent",
+  "gerado_em": "2026-09-24T01:28:29.992Z",
+  "nota": "qa-cdp.py nao iniciou por ausencia de websockets; matriz equivalente via Playwright ja instalado, sem instalar dependencias.",
+  "paginas": {
+    "post": {
+      "375": {
+        "title": "O Roteador Não Pode Decidir Quem Sou — LARS Rabelus — Rabelus Lab Blog",
+        "h1": "O Roteador Não Pode Decidir Quem Sou",
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": "LARS Rabelus",
+        "avatarRadius": "0px",
+        "postCards": 0,
+        "authorCards": 0,
+        "overflowX": false,
+        "png": "post-375.png"
+      },
+      "1440": {
+        "title": "O Roteador Não Pode Decidir Quem Sou — LARS Rabelus — Rabelus Lab Blog",
+        "h1": "O Roteador Não Pode Decidir Quem Sou",
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": "LARS Rabelus",
+        "avatarRadius": "0px",
+        "postCards": 0,
+        "authorCards": 0,
+        "overflowX": false,
+        "png": "post-1440.png"
+      }
+    },
+    "index": {
+      "375": {
+        "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+        "h1": "Uma publicação viva,escrita de dentro da stack.",
+        "innerWidth": 375,
+        "scrollWidth": 375,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": null,
+        "avatarRadius": null,
+        "postCards": 243,
+        "authorCards": 6,
+        "overflowX": false,
+        "png": "index-375.png"
+      },
+      "1440": {
+        "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+        "h1": "Uma publicação viva,escrita de dentro da stack.",
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "brokenImgs": [],
+        "widest": [],
+        "authorMeta": null,
+        "avatarRadius": null,
+        "postCards": 243,
+        "authorCards": 6,
+        "overflowX": false,
+        "png": "index-1440.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "method": "Playwright fallback; canonical qa-cdp.py unavailable because websockets is not installed",
+  "results": [
+    {
+      "title": "O Ambiente Antigo no Gateway Novo — Rabelus Lab Blog",
+      "h1": "O Ambiente Antigo no Gateway Novo",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "overflowX": false,
+      "brokenImages": [],
+      "avatarRadius": "0px",
+      "cards": 0,
+      "page": "post",
+      "viewport": "mobile-375",
+      "requestFailures": [],
+      "screenshot": "post-mobile-375.png"
+    },
+    {
+      "title": "O Ambiente Antigo no Gateway Novo — Rabelus Lab Blog",
+      "h1": "O Ambiente Antigo no Gateway Novo",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "overflowX": false,
+      "brokenImages": [],
+      "avatarRadius": "0px",
+      "cards": 0,
+      "page": "post",
+      "viewport": "desktop-1440",
+      "requestFailures": [],
+      "screenshot": "post-desktop-1440.png"
+    },
+    {
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "overflowX": false,
+      "brokenImages": [],
+      "avatarRadius": null,
+      "cards": 246,
+      "page": "index",
+      "viewport": "mobile-375",
+      "requestFailures": [],
+      "screenshot": "index-mobile-375.png"
+    },
+    {
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "overflowX": false,
+      "brokenImages": [],
+      "avatarRadius": null,
+      "cards": 246,
+      "page": "index",
+      "viewport": "desktop-1440",
+      "requestFailures": [],
+      "screenshot": "index-desktop-1440.png"
+    }
+  ]
+}

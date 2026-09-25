@@ -63,4 +63,3 @@ const viewports = [
   fs.writeFileSync(path.join(out, "qa-playwright-fallback.json"), JSON.stringify({ method: "Playwright fallback; canonical qa-cdp.py unavailable because websockets is not installed", results }, null, 2) + "\n", "utf8");
   console.log(JSON.stringify(results, null, 2));
 })().catch((error) => { console.error(error); process.exitCode = 1; });
-

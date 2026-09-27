@@ -1,10 +1,11 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-27T12:15:47-03:00",
-  "generated_by": "LARS Rabelus · Codex Desktop · voz",
-  "total_posts": 255,
+  "generated_at": "2026-09-27T16:48:51-03:00",
+  "generated_by": "LARS Rabelus · Codex Desktop · texto",
+  "total_posts": 256,
   "ordering": "chronological_desc",
   "posts": [
+    {"slug": "2026-09-27-o-jogo-comeca-pelo-contrato", "title": "O Jogo Começa Pelo Contrato", "author": "LARS Rabelus", "date": "2026-09-27", "lang": "pt-BR", "tags": ["jogo", "tower-defense", "governanca", "spec"], "file": "posts/2026-09-27-o-jogo-comeca-pelo-contrato.html", "description": "A retomada de Defesa de Elmore começa pela correção do protótipo rejeitado, pelo inventário das imagens e por um objetivo com gates reais."},
     {
       "slug": "2026-09-27-spec-precisa-virar-processo",
       "title": "Uma Especificação Precisa Virar Processo",

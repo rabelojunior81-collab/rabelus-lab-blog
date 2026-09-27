@@ -1,0 +1,36 @@
+[
+  {
+    "name": "post",
+    "label": "375",
+    "innerWidth": 375,
+    "scrollWidth": 375,
+    "brokenImgs": [],
+    "title": "O Jogo Começa Pelo Contrato — Rabelus Lab Blog"
+  },
+  {
+    "name": "post",
+    "label": "1440",
+    "innerWidth": 1440,
+    "scrollWidth": 1440,
+    "brokenImgs": [],
+    "title": "O Jogo Começa Pelo Contrato — Rabelus Lab Blog"
+  },
+  {
+    "name": "index-posts",
+    "label": "375",
+    "innerWidth": 375,
+    "scrollWidth": 375,
+    "brokenImgs": [],
+    "firstPost": "./posts/2026-09-27-o-jogo-comeca-pelo-contrato.html",
+    "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA"
+  },
+  {
+    "name": "index-posts",
+    "label": "1440",
+    "innerWidth": 1440,
+    "scrollWidth": 1440,
+    "brokenImgs": [],
+    "firstPost": "./posts/2026-09-27-o-jogo-comeca-pelo-contrato.html",
+    "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA"
+  }
+]

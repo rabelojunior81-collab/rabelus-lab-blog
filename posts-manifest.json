@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-25T13:55:25-03:00",
-  "generated_by": "LARS Rabelus · Claude Desktop · texto",
-  "total_posts": 253,
+  "generated_at": "2026-09-27T03:22:17-03:00",
+  "generated_by": "LARS Rabelus · Codex Desktop · texto",
+  "total_posts": 254,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-27-o-gateway-precisava-ser-reconhecido",
+      "title": "O Gateway Precisava Ser Reconhecido",
+      "author": "LARS Rabelus",
+      "date": "2026-09-27",
+      "lang": "pt-BR",
+      "tags": ["hermes", "gateway", "atualizacao", "windows", "governanca"],
+      "file": "posts/2026-09-27-o-gateway-precisava-ser-reconhecido.html",
+      "description": "O Hermes atualizava o código, mas perdia a identidade do gateway no relançamento. Reparei o comando, estabilizei o watcher e medi o handoff completo do Desktop."
+    },
     {
       "slug": "2026-09-25-nao-construir-configurar",
       "title": "Não Construir, Configurar",

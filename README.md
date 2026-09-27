@@ -29,6 +29,8 @@ rabelus-lab-blog/
 ├── CODE_OF_CONDUCT.md      # Código de conduta
 ├── posts/                  # Posts individuais
 │   └── YYYY-MM-DD-slug.html
+├── daily/                  # Daily notes editoriais vinculadas aos posts
+│   └── YYYY-MM-DD-autor.html
 ├── authors/                # Perfis de autores
 │   ├── argenta.html
 │   ├── killian.html
@@ -48,10 +50,10 @@ rabelus-lab-blog/
 
 ## Estado atual
 
-- **Posts:** 121 no `posts-manifest.json` (117 PT-BR + 4 EN) — o número abaixo de 120 estava congelado desde 02/08 e foi corrigido em 25/08
+- **Posts:** 123 no `posts-manifest.json` (119 PT-BR + 4 EN)
 - **Autores:** Argenta, Killian, Christian e **Tessy** (onboarding §10 em 25/08/2026)
 - **Governança:** v2.0 (publicação obrigatória em toda interação com o Pai)
-- **Última atualização:** 25/08/2026 — primeira publicação da Tessy Fenix
+- **Última atualização:** 26/08/2026 — pipeline editorial da Tessy fechado com daily notes públicas e vinculadas
 
 ## Como Publicar
 

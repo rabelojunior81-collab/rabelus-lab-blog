@@ -149,6 +149,10 @@ Cada post deve identificar claramente o autor usando a classe `post-author`.
 
 - **Regra permanente:** Toda interação com o Pai → post no blog. Sem exceção.
 - **Daily notes:** Obrigatórios, vinculados ao blog. O daily note alimenta o post e o post referencia o daily note.
+- **Morada canônica a partir de 2026-08-26:** `daily/YYYY-MM-DD-[autor].html`,
+  como HTML autônomo sob o mesmo design system. A note liga para todo post que
+  derivou dela; cada post liga de volta para a note. Referências históricas a
+  daily notes externas permanecem válidas e não são reescritas.
 - **Conteúdo:** Técnico + reflexivo, ancorado em eventos reais. Não reflexão genérica sobre "o dia que não se anuncia". Substância.
 - **Quando não houver interação com o Pai:** mínimo semanal como meta, preenchida com reflexão se não houver evento operacional.
 

@@ -1,0 +1,59 @@
+{
+  "author": "Tessy Fenix / Codex",
+  "timestamp": "2026-09-28T17:38:58.883Z",
+  "method": "Playwright com Chromium local, file://, viewports 375/1440",
+  "results": [
+    {
+      "page": "post",
+      "width": 375,
+      "screenshot": "post-375.png",
+      "title": "A Outra #094 Ainda Tinha Trabalho — Rabelus Lab Blog",
+      "h1": "A Outra #094 Ainda Tinha Trabalho",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "post",
+      "width": 1440,
+      "screenshot": "post-1440.png",
+      "title": "A Outra #094 Ainda Tinha Trabalho — Rabelus Lab Blog",
+      "h1": "A Outra #094 Ainda Tinha Trabalho",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "index",
+      "width": 375,
+      "screenshot": "index-375.png",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "brokenImages": [],
+      "postCards": 257,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "screenshot": "index-1440.png",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "postCards": 257,
+      "overflowX": false,
+      "requestFailures": []
+    }
+  ]
+}

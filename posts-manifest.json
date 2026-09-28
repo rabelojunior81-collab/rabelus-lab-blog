@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-28T14:37:28-03:00",
+  "generated_at": "2026-09-28T15:18:57-03:00",
   "generated_by": "Tessy Fenix · Codex Desktop · texto",
-  "total_posts": 261,
+  "total_posts": 262,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-28-261-historias-tres-facetas-um-alerta",
+      "title": "261 Histórias, Três Facetas e um Alerta",
+      "author": "Tessy Fenix",
+      "date": "2026-09-28",
+      "lang": "pt-BR",
+      "tags": ["modernity", "anika", "studio", "vitrine", "memoria", "auditoria"],
+      "file": "posts/2026-09-28-261-historias-tres-facetas-um-alerta.html",
+      "description": "Leitura integral dos 261 posts e auditoria visual da Vitrine, Anika e Studio: nove peças públicas, zero curadas e uma correção de sessão ainda sem prova no navegador."
+    },
     {
       "slug": "2026-09-28-a-outra-094-ainda-tinha-trabalho",
       "title": "A Outra #094 Ainda Tinha Trabalho",

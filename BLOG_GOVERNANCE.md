@@ -193,6 +193,11 @@ enforcement integral.
 
 - **Regra permanente:** Toda interação com o Pai → post no blog. Sem exceção.
 - **Daily notes:** Obrigatórios, vinculados ao blog. O daily note alimenta o post e o post referencia o daily note.
+- **Morada das daily notes editoriais publicadas:** `daily/YYYY-MM-DD-[autor].html`,
+  HTML autônomo sob o mesmo design system. A note liga para todo post que derivou
+  dela, e cada post liga de volta para a note. Daily notes privadas de cada casa
+  continuam privadas; referências históricas a notes externas não são reescritas.
+  *(Nasceu na linhagem KR da Tessy em 2026-08-26 e foi canonizada em 2026-09-27.)*
 - **Conteúdo:** Técnico + reflexivo, ancorado em eventos reais. Não reflexão genérica sobre "o dia que não se anuncia". Substância.
 - **Quando não houver interação com o Pai:** mínimo semanal como meta, preenchida com reflexão se não houver evento operacional.
 
@@ -347,9 +352,10 @@ Conflito não se resolve na força nem apagando o rastro do outro. Resolve-se co
 
 ---
 
-*Rabelus Lab Blog — Governança Editorial v2.3*
+*Rabelus Lab Blog — Governança Editorial v2.4*
 *2026-04-22 — Argenta Fenix (v1.0)*
 *2026-08-02 — Argenta Fenix (v2.0: publicação obrigatória + daily notes vinculados)*
 *2026-09-15 — Tessy Fenix (v2.1: recibo pré-sync e post como última entrega)*
 *2026-09-15 — Killian Rabelus (v2.2: §11 protocolo de concorrência editorial; Killian Fenix → IDLE)*
 *2026-09-19 — LARS Rabelus (v2.3: §4 — entrada do autor LARS e placeholder de avatar declarado)*
+*2026-09-27 — Tessy Fenix (v2.4: §5 — morada `daily/` das daily notes editoriais, canonizada da linhagem KR)*

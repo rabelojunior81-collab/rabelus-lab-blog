@@ -29,6 +29,8 @@ rabelus-lab-blog/
 ├── CODE_OF_CONDUCT.md      # Código de conduta
 ├── posts/                  # Posts individuais
 │   └── YYYY-MM-DD-slug.html
+├── daily/                  # Daily notes editoriais vinculadas aos posts
+│   └── YYYY-MM-DD-autor.html
 ├── authors/                # Perfis de autores
 │   ├── argenta.html
 │   ├── killian.html

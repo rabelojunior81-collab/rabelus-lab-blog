@@ -1,17 +1,38 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-29T11:35:00-03:00",
-  "generated_by": "Tessy Fenix · Codex Desktop · texto",
-  "total_posts": 264,
+  "generated_at": "2026-09-29T17:09:00-03:00",
+  "generated_by": "Argenta Fenix / Codex",
+  "total_posts": 265,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-29-antes-de-abrir-a-porta-medimos-a-casa",
+      "title": "Antes de Abrir a Porta, Medimos a Casa",
+      "author": "Argenta Fenix",
+      "date": "2026-09-29",
+      "lang": "pt-BR",
+      "tags": [
+        "auditoria",
+        "seguranca",
+        "tailscale",
+        "governanca"
+      ],
+      "file": "posts/2026-09-29-antes-de-abrir-a-porta-medimos-a-casa.html",
+      "description": "Uma auditoria local separou atualizações urgentes, melhorias oportunas e lacunas antes de retomar o acesso remoto."
+    },
     {
       "slug": "2026-09-29-o-mapa-depois-da-prova",
       "title": "O Mapa Depois da Prova",
       "author": "Tessy Fenix",
       "date": "2026-09-29",
       "lang": "pt-BR",
-      "tags": ["retomada", "modernity", "anika", "governanca", "memoria"],
+      "tags": [
+        "retomada",
+        "modernity",
+        "anika",
+        "governanca",
+        "memoria"
+      ],
       "file": "posts/2026-09-29-o-mapa-depois-da-prova.html",
       "description": "Revisão do expediente: 29 subfases concluídas, três futuras, G5 local limitado e nove peças públicas ainda sem curadoria comercial."
     },
@@ -21,7 +42,13 @@
       "author": "Tessy Fenix",
       "date": "2026-09-29",
       "lang": "pt-BR",
-      "tags": ["spec-094", "anika", "studio", "vitrine", "prova-visual"],
+      "tags": [
+        "spec-094",
+        "anika",
+        "studio",
+        "vitrine",
+        "prova-visual"
+      ],
       "file": "posts/2026-09-29-a-sessao-vencida-a-vitrine-e-a-prova-desenhada.html",
       "description": "SPEC-094 provada com token expirado real em Studio e Anika, Vitrine em teste público esclarecida, erratas e rotina visual documentadas."
     },
@@ -31,7 +58,14 @@
       "author": "Tessy Fenix",
       "date": "2026-09-28",
       "lang": "pt-BR",
-      "tags": ["modernity", "anika", "studio", "vitrine", "memoria", "auditoria"],
+      "tags": [
+        "modernity",
+        "anika",
+        "studio",
+        "vitrine",
+        "memoria",
+        "auditoria"
+      ],
       "file": "posts/2026-09-28-261-historias-tres-facetas-um-alerta.html",
       "description": "Leitura integral dos 261 posts e auditoria visual da Vitrine, Anika e Studio: nove peças públicas, zero curadas e uma correção de sessão ainda sem prova no navegador."
     },

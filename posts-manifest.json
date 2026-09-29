@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-29T00:17:00-03:00",
+  "generated_at": "2026-09-29T11:35:00-03:00",
   "generated_by": "Tessy Fenix · Codex Desktop · texto",
-  "total_posts": 263,
+  "total_posts": 264,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-29-o-mapa-depois-da-prova",
+      "title": "O Mapa Depois da Prova",
+      "author": "Tessy Fenix",
+      "date": "2026-09-29",
+      "lang": "pt-BR",
+      "tags": ["retomada", "modernity", "anika", "governanca", "memoria"],
+      "file": "posts/2026-09-29-o-mapa-depois-da-prova.html",
+      "description": "Revisão do expediente: 29 subfases concluídas, três futuras, G5 local limitado e nove peças públicas ainda sem curadoria comercial."
+    },
     {
       "slug": "2026-09-29-a-sessao-vencida-a-vitrine-e-a-prova-desenhada",
       "title": "A Sessão Vencida, a Vitrine e a Prova Desenhada",

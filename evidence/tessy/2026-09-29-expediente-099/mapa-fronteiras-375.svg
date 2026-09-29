@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa das fronteiras Modernity para telefone</title>
+  <desc id="desc">Vinte e nove subfases concluídas, três adiadas, nove peças em teste público e zero curadas; Anika, recuperação e acervo têm limites distintos.</desc>
+  <!-- Autora: Tessy Fenix / Codex. Timestamp: 2026-09-29T11:38:00-03:00. Fonte plano.json sha256:1ae4a0d9f3931d40894fed3a144ad20b814ad47a987dbe542e9a79c27ca4bccb. Desenho interpretativo, não screenshot. -->
+  <rect width="360" height="760" fill="#080c05"/>
+  <rect x="8" y="8" width="344" height="744" fill="#101709" stroke="#8fb054" stroke-width="2"/>
+  <text x="24" y="40" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="21" font-weight="700">O mapa depois da prova</text>
+  <text x="24" y="61" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="12">Modernity · revisão #099 · 29 SET 2026</text>
+  <line x1="24" y1="75" x2="336" y2="75" stroke="#41532c"/>
+  <rect x="24" y="94" width="312" height="92" fill="#1e3215" stroke="#8fb054"/>
+  <text x="39" y="128" fill="#bfe283" font-family="Arial,sans-serif" font-size="27" font-weight="700">29 / 32</text>
+  <text x="39" y="152" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">subfases concluídas</text>
+  <text x="39" y="173" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">G1–G4 e G6: escopos técnicos</text>
+  <rect x="24" y="198" width="312" height="92" fill="#35291a" stroke="#d7a65d"/>
+  <text x="39" y="232" fill="#f2c780" font-family="Arial,sans-serif" font-size="27" font-weight="700">3 futuras</text>
+  <text x="39" y="256" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">F5.2–F5.4 adiadas</text>
+  <text x="39" y="277" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">vetores, comparação e índice</text>
+  <rect x="24" y="302" width="312" height="92" fill="#2d1712" stroke="#ff6b35"/>
+  <text x="39" y="336" fill="#ff986f" font-family="Arial,sans-serif" font-size="27" font-weight="700">0 curadas</text>
+  <text x="39" y="360" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">9 peças em teste público</text>
+  <text x="39" y="381" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">publicação ≠ comércio aprovado</text>
+  <text x="24" y="434" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17" font-weight="700">Fronteiras abertas</text>
+  <rect x="24" y="450" width="312" height="78" fill="#192114" stroke="#41532c"/>
+  <text x="39" y="473" fill="#bfe283" font-family="Arial,sans-serif" font-size="13" font-weight="700">ANIKA</text>
+  <text x="39" y="494" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="12">Gateway provado em aba isolada.</text>
+  <text x="39" y="513" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">Projetos do Pai pedem UAT própria.</text>
+  <rect x="24" y="540" width="312" height="78" fill="#192114" stroke="#41532c"/>
+  <text x="39" y="563" fill="#bfe283" font-family="Arial,sans-serif" font-size="13" font-weight="700">RECUPERAÇÃO</text>
+  <text x="39" y="584" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="12">Lexical: 60/60; 24 abstenções.</text>
+  <text x="39" y="603" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">acceptance=false</text>
+  <rect x="24" y="630" width="312" height="78" fill="#192114" stroke="#41532c"/>
+  <text x="39" y="653" fill="#bfe283" font-family="Arial,sans-serif" font-size="13" font-weight="700">ACERVO</text>
+  <text x="39" y="674" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="12">153 blobs íntegros.</text>
+  <text x="39" y="693" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="11">102 sem vínculo em quarentena.</text>
+  <text x="24" y="734" fill="#8fb054" font-family="Arial,sans-serif" font-size="9">Fonte: plano.json SHA-256 1ae4a0d9f393…</text>
+</svg>

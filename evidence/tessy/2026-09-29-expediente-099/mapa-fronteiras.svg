@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" role="img" aria-labelledby="title desc">
+  <title id="title">Expediente da Tessy: prova, limite e próximo contrato</title>
+  <desc id="desc">Mapa simbólico das seis fases Modernity. Vinte e nove itens concluídos, três adiados; G5 é técnico limitado e as nove peças públicas não são curadoria comercial.</desc>
+  <!-- Autora: Tessy Fenix / Codex. Timestamp: 2026-09-29T11:31:00-03:00. Fonte plano.json sha256:1ae4a0d9f3931d40894fed3a144ad20b814ad47a987dbe542e9a79c27ca4bccb. Desenho interpretativo, não screenshot nem prova nova. -->
+  <rect width="1000" height="590" fill="#080c05"/>
+  <rect x="28" y="28" width="944" height="534" fill="#101709" stroke="#8fb054" stroke-width="2"/>
+  <text x="58" y="74" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="28" font-weight="700">O mapa depois da prova</text>
+  <text x="58" y="101" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="15">Modernity · Fases 1–6 · revisão #099 · 29 SET 2026</text>
+  <line x1="58" y1="119" x2="942" y2="119" stroke="#41532c"/>
+  <rect x="58" y="145" width="272" height="112" fill="#1e3215" stroke="#8fb054"/>
+  <text x="78" y="181" fill="#bfe283" font-family="Arial,sans-serif" font-size="31" font-weight="700">29 / 32</text>
+  <text x="78" y="210" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17">subfases concluídas</text>
+  <text x="78" y="237" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">G1–G4 e G6: escopos técnicos provados</text>
+  <rect x="364" y="145" width="272" height="112" fill="#35291a" stroke="#d7a65d"/>
+  <text x="384" y="181" fill="#f2c780" font-family="Arial,sans-serif" font-size="31" font-weight="700">3 futuras</text>
+  <text x="384" y="210" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17">F5.2–F5.4 adiadas</text>
+  <text x="384" y="237" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">vetores, comparação, índice versionado</text>
+  <rect x="670" y="145" width="272" height="112" fill="#2d1712" stroke="#ff6b35"/>
+  <text x="690" y="181" fill="#ff986f" font-family="Arial,sans-serif" font-size="31" font-weight="700">0 curadas</text>
+  <text x="690" y="210" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17">9 peças em teste público</text>
+  <text x="690" y="237" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">publicação ≠ autorização comercial</text>
+  <text x="58" y="314" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="20" font-weight="700">Três fronteiras para o próximo expediente</text>
+  <rect x="58" y="334" width="884" height="56" fill="#192114" stroke="#41532c"/>
+  <text x="77" y="358" fill="#bfe283" font-family="Arial,sans-serif" font-size="15" font-weight="700">ANIKA</text>
+  <text x="205" y="358" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">gateway renovou em browser isolado</text>
+  <text x="205" y="379" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">UAT dos projetos no IndexedDB do Pai ainda distinta</text>
+  <rect x="58" y="402" width="884" height="56" fill="#192114" stroke="#41532c"/>
+  <text x="77" y="426" fill="#bfe283" font-family="Arial,sans-serif" font-size="15" font-weight="700">RECUPERAÇÃO</text>
+  <text x="205" y="426" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">lexical local: 60/60, 24 abstenções</text>
+  <text x="205" y="447" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">acceptance=false; vetores dependem de novo escopo</text>
+  <rect x="58" y="470" width="884" height="56" fill="#192114" stroke="#41532c"/>
+  <text x="77" y="494" fill="#bfe283" font-family="Arial,sans-serif" font-size="15" font-weight="700">ACERVO</text>
+  <text x="205" y="494" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="15">153 blobs íntegros; 102 em quarentena sem vínculo</text>
+  <text x="205" y="515" fill="#b8c5a2" font-family="Arial,sans-serif" font-size="13">integridade física não cria semântica ou curadoria</text>
+  <text x="59" y="546" fill="#8fb054" font-family="Arial,sans-serif" font-size="11">Fonte: plano.json SHA-256 1ae4a0d9f393… · evidências #080, #089 e #098 · desenho interpretativo</text>
+</svg>

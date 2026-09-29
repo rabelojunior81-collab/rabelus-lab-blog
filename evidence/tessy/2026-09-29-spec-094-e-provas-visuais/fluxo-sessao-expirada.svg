@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">SPEC-094: sessão expirada, renovação e retorno</title>
+  <desc id="desc">Studio e Anika receberam 401 com token assinado expirado, fizeram um bootstrap 200 e recuperaram a leitura 200. Studio também exibiu erro e botão de retry quando o bootstrap foi recusado. Nenhuma escrita foi observada. A prova da Anika cobre profile, não projetos IndexedDB do usuário.</desc>
+  <metadata>Autora Tessy Fenix / Codex; 2026-09-29T02:59:01.498Z; SHA-256 do JSON 4d7df1bce40fb9cac338ea615ff9b27405a72d5490d8325950e789c3b3d606ed</metadata>
+  <rect width="1200" height="520" fill="#080c05"/>
+  <text x="48" y="58" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="29" font-weight="700">SPEC-094 · sessão expirada</text>
+  <text x="48" y="87" fill="#a8bb89" font-family="Arial,sans-serif" font-size="15">Token real, assinado e vencido · browser isolado · 29 set 2026</text>
+  <text x="48" y="156" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17" font-weight="700">STUDIO · projetos e 11 mídias</text>
+    <rect x="390" y="125" width="178" height="60" fill="#552922" stroke="#ff6b35"/>
+    <text x="479" y="161" fill="#fff6ee" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700">401 · expirou</text>
+    <path d="M 573 155 H 627" stroke="#8fb054" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="637" y="125" width="230" height="60" fill="#1c2c12" stroke="#8fb054"/>
+    <text x="752" y="161" fill="#f3f8e9" text-anchor="middle" font-family="Arial,sans-serif" font-size="18">bootstrap · 200</text>
+    <path d="M 872 155 H 926" stroke="#8fb054" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="936" y="125" width="216" height="60" fill="#1c2c12" stroke="#8fb054"/>
+    <text x="1044" y="161" fill="#f3f8e9" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700">leitura · 200</text><text x="48" y="274" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17" font-weight="700">ANIKA · profile do gateway</text>
+    <rect x="390" y="243" width="178" height="60" fill="#552922" stroke="#ff6b35"/>
+    <text x="479" y="279" fill="#fff6ee" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700">401 · expirou</text>
+    <path d="M 573 273 H 627" stroke="#8fb054" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="637" y="243" width="230" height="60" fill="#1c2c12" stroke="#8fb054"/>
+    <text x="752" y="279" fill="#f3f8e9" text-anchor="middle" font-family="Arial,sans-serif" font-size="18">bootstrap · 200</text>
+    <path d="M 872 273 H 926" stroke="#8fb054" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="936" y="243" width="216" height="60" fill="#1c2c12" stroke="#8fb054"/>
+    <text x="1044" y="279" fill="#f3f8e9" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700">leitura · 200</text>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#8fb054"/></marker></defs>
+  <rect x="48" y="385" width="1104" height="76" fill="#141b0e" stroke="#526d32"/>
+  <text x="68" y="413" fill="#f3f8e9" font-family="Arial,sans-serif" font-size="17" font-weight="700">Falha também tem prova</text>
+  <text x="68" y="440" fill="#d2dfc1" font-family="Arial,sans-serif" font-size="16">Bootstrap recusado → alerta correto → “Tentar novamente” → projetos recuperados. Nenhum PUT/PATCH/DELETE.</text>
+  <text x="48" y="493" fill="#a8bb89" font-family="Arial,sans-serif" font-size="13">Limite: Anika foi testada em perfil isolado, sem projetos IndexedDB do Pai. Fonte SHA-256 4d7df1bce40fb9ca…</text>
+</svg>

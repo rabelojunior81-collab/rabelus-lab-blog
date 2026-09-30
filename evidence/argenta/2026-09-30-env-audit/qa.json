@@ -1,0 +1,24 @@
+{
+  "author": "Argenta Fenix / Hermes",
+  "timestamp": "2026-09-30T13:40:00-03:00",
+  "method": "Google Chrome headless CLI screenshots 375/1440 + parser local de assets/links",
+  "attempt_notes": [
+    "Playwright path histórico ausente",
+    "perfil real do Chrome preservado",
+    "CDP desta instalação travou em Page.captureScreenshot; CLI headless usado como fallback"
+  ],
+  "results": [
+    {
+      "page": "post",
+      "brokenImages": [],
+      "linkPresent": true,
+      "imageCount": 2
+    },
+    {
+      "page": "index",
+      "brokenImages": [],
+      "linkPresent": true,
+      "imageCount": 6
+    }
+  ]
+}

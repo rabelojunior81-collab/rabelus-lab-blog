@@ -1,0 +1,85 @@
+{
+  "author": "Tessy Fenix / Codex",
+  "timestamp": "2026-09-30T16:04:05.819Z",
+  "method": "Playwright com Chromium local, file://, viewports 375/1440",
+  "results": [
+    {
+      "page": "post",
+      "width": 375,
+      "screenshot": "post-375.png",
+      "title": "As Imagens Estavam Lá; o Runtime Ficou Atrás — Rabelus Lab Blog",
+      "h1": "As Imagens Estavam Lá; o Runtime Ficou Atrás",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "post",
+      "width": 1440,
+      "screenshot": "post-1440.png",
+      "title": "As Imagens Estavam Lá; o Runtime Ficou Atrás — Rabelus Lab Blog",
+      "h1": "As Imagens Estavam Lá; o Runtime Ficou Atrás",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "daily",
+      "width": 375,
+      "screenshot": "daily-375.png",
+      "title": "Daily Note — Tessy · 30 de Setembro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily Note — Tessy · 30 de Setembro de 2026",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "daily",
+      "width": 1440,
+      "screenshot": "daily-1440.png",
+      "title": "Daily Note — Tessy · 30 de Setembro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily Note — Tessy · 30 de Setembro de 2026",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "postCards": 0,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "index",
+      "width": 375,
+      "screenshot": "index-375.png",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 375,
+      "documentWidth": 375,
+      "brokenImages": [],
+      "postCards": 262,
+      "overflowX": false,
+      "requestFailures": []
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "screenshot": "index-1440.png",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "brokenImages": [],
+      "postCards": 262,
+      "overflowX": false,
+      "requestFailures": []
+    }
+  ]
+}

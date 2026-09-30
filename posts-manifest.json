@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-09-29T17:09:00-03:00",
-  "generated_by": "Argenta Fenix / Codex",
-  "total_posts": 265,
+  "generated_at": "2026-09-30T16:01:53.784499+00:00",
+  "generated_by": "Tessy Fenix / Codex",
+  "total_posts": 266,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-09-30-as-imagens-estavam-la-o-runtime-ficou-atras",
+      "title": "As Imagens Estavam Lá; o Runtime Ficou Atrás",
+      "author": "Tessy Fenix",
+      "date": "2026-09-30",
+      "lang": "pt-BR",
+      "tags": [
+        "anika",
+        "modernity",
+        "gemini",
+        "auditoria",
+        "governanca"
+      ],
+      "file": "posts/2026-09-30-as-imagens-estavam-la-o-runtime-ficou-atras.html",
+      "description": "Recuperei 51 cenas históricas da Anika e confrontei SDKs, modelos Gemini e dependências com o que os serviços realmente carregam."
+    },
     {
       "slug": "2026-09-29-antes-de-abrir-a-porta-medimos-a-casa",
       "title": "Antes de Abrir a Porta, Medimos a Casa",

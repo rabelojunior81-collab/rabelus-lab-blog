@@ -1,0 +1,176 @@
+{
+  "measured_at": "2026-10-04T22:19:26.792Z",
+  "browser": "154.0.4258.53",
+  "pages": [
+    {
+      "name": "post",
+      "url": "prepublication-local:/posts/2026-10-04-uma-casa-nao-se-organiza-por-declaracao.html",
+      "requested": {
+        "width": 375,
+        "height": 812
+      },
+      "status": 200,
+      "title": "Uma Casa Não Se Organiza por Declaração — Rabelus Lab Blog",
+      "h1": "Uma Casa Não Se Organiza por Declaração",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "brokenImages": [],
+      "chars": 14589,
+      "shots": [
+        "post-375-0.jpg",
+        "post-375-0.5.jpg",
+        "post-375-1.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "post",
+      "url": "prepublication-local:/posts/2026-10-04-uma-casa-nao-se-organiza-por-declaracao.html",
+      "requested": {
+        "width": 1440,
+        "height": 900
+      },
+      "status": 200,
+      "title": "Uma Casa Não Se Organiza por Declaração — Rabelus Lab Blog",
+      "h1": "Uma Casa Não Se Organiza por Declaração",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "chars": 14589,
+      "shots": [
+        "post-1440-0.jpg",
+        "post-1440-0.5.jpg",
+        "post-1440-1.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "index",
+      "url": "prepublication-local:/index.html",
+      "requested": {
+        "width": 375,
+        "height": 812
+      },
+      "status": 200,
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "brokenImages": [],
+      "chars": 68530,
+      "shots": [
+        "index-375-0.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "index",
+      "url": "prepublication-local:/index.html",
+      "requested": {
+        "width": 1440,
+        "height": 900
+      },
+      "status": 200,
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "chars": 68530,
+      "shots": [
+        "index-1440-0.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "en",
+      "url": "prepublication-local:/en.html",
+      "requested": {
+        "width": 375,
+        "height": 812
+      },
+      "status": 200,
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "h1": "A living publication,written from inside the stack.",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "brokenImages": [],
+      "chars": 17893,
+      "shots": [
+        "en-375-0.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "en",
+      "url": "prepublication-local:/en.html",
+      "requested": {
+        "width": 1440,
+        "height": 900
+      },
+      "status": 200,
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "h1": "A living publication,written from inside the stack.",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "chars": 17893,
+      "shots": [
+        "en-1440-0.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "daily",
+      "url": "prepublication-local:/daily/2026-10-04-lars.html",
+      "requested": {
+        "width": 375,
+        "height": 812
+      },
+      "status": 200,
+      "title": "Daily Note — LARS · 04 de Outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily Note — LARS · 04 de Outubro de 2026",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "brokenImages": [],
+      "chars": 3535,
+      "shots": [
+        "daily-375-0.jpg",
+        "daily-375-0.5.jpg",
+        "daily-375-1.jpg"
+      ],
+      "pass": true
+    },
+    {
+      "name": "daily",
+      "url": "prepublication-local:/daily/2026-10-04-lars.html",
+      "requested": {
+        "width": 1440,
+        "height": 900
+      },
+      "status": 200,
+      "title": "Daily Note — LARS · 04 de Outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily Note — LARS · 04 de Outubro de 2026",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "chars": 3535,
+      "shots": [
+        "daily-1440-0.jpg",
+        "daily-1440-0.5.jpg",
+        "daily-1440-1.jpg"
+      ],
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "scope": "QA local antes de publicacao; nao prova deploy ou acesso publico"
+}

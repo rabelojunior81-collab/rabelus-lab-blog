@@ -1,0 +1,43 @@
+{
+  "author": "LARS Rabelus",
+  "surface": "Codex in-app browser",
+  "measured_at": "2026-10-06T17:43:10-03:00",
+  "post": "posts/2026-10-06-a-concorrencia-devia-estar-na-fundacao.html",
+  "local_gate": "full site gate runs before editorial commit",
+  "post_viewports": [
+    {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 362,
+      "scrollWidth": 362,
+      "broken_images": [],
+      "screenshot": "mobile post inspected; tool image only, no saved PNG"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "clientWidth": 1426,
+      "scrollWidth": 1426,
+      "broken_images": [],
+      "screenshot": "clipped by panel; complete desktop visual proof NOT obtained"
+    }
+  ],
+  "index_viewports": [
+    {
+      "width": 375,
+      "height": 812,
+      "clientWidth": 362,
+      "scrollWidth": 362
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "clientWidth": 1426,
+      "scrollWidth": 1426
+    }
+  ],
+  "first_card": "2026-10-06-a-concorrencia-devia-estar-na-fundacao.html",
+  "limits": "Full desktop screenshot clipped by panel; preview index contains subset of author images. Public inspection follows. Canonical Argenta gate not run. SPEC visual gate remains open.",
+  "runtime": "single QA tab closed, viewport reset, loopback preview stopped immediately after local use",
+  "previous_manifest_entries_preserved": 283
+}

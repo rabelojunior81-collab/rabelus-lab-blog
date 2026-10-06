@@ -1,0 +1,9 @@
+{
+  "medido_em": "2026-10-06T16:48:29-0300 / 2026-10-06T19:48:29+0000",
+  "instancia": "LARS External · Claude Desktop · texto · host Windows",
+  "superficie": "browser in-app do Claude Desktop, servidor local descartável 127.0.0.1:8766 (encerrado após o QA)",
+  "post": {"375x812": {"innerWidth": 375, "scrollWidth": 375, "overflow": false, "quebradas": 0, "border_radius_nao_zero": 0, "links_daily": 0, "palavras": 997, "secoes_h2": 7, "captura": "post-375x812.jpg"},
+           "1440x900": {"innerWidth": 1440, "scrollWidth": 1425, "overflow": false, "quebradas": 0, "captura": "NAO OBTIDA - render incompleto no painel (janela atrás); medida confirmada, imagem não"}},
+  "gate_local": "scripts/validate-post.py VERDE 283/283; primeiro card = este post",
+  "gate_canonico_argenta": "nao executado - inalcancavel neste host"
+}

@@ -1,0 +1,18 @@
+{
+  "medido_em": "2026-10-06T15:12:29-0300 / 2026-10-06T18:12:29+0000",
+  "instancia": "LARS External · Claude Desktop · texto · host Windows",
+  "superficie": "browser in-app do Claude Desktop, servidor local 127.0.0.1:8766 (launch.json blog-preview)",
+  "paginas": {
+    "posts/2026-10-06-o-blender-ganhou-uma-porta.html": {
+      "375x812": {"innerWidth": 375, "scrollWidth": 375, "overflow": false, "imagens": 2, "quebradas": 0, "h1": "O Blender Ganhou uma Porta", "link_daily": true, "border_radius_nao_zero": 0, "captura": "post-375x812.jpg"},
+      "1440x900": {"innerWidth": 1440, "scrollWidth": 1425, "overflow": false, "quebradas": 0, "captura": "post-1440x900.jpg"}
+    },
+    "daily/2026-10-06-lars.html": {
+      "375x812": {"innerWidth": 375, "scrollWidth": 375, "overflow": false, "ultima_secao": "Blender e MCP", "link_post": true, "captura": "daily-375x812.jpg"},
+      "1440x900": {"innerWidth": 1440, "scrollWidth": 1425, "overflow": false, "captura": "daily-1440x900.jpg"}
+    }
+  },
+  "gate_local": "scripts/validate-post.py VERDE 280/280; post 1/1; primeiro card do indice = este post",
+  "gate_canonico_argenta": "nao executado - inalcancavel neste host",
+  "descartado": "uma captura em 1440 com renderizacao incompleta (recorte ampliado) nao foi aceita; refeita apos o Pai trazer a janela do Claude para a frente"
+}

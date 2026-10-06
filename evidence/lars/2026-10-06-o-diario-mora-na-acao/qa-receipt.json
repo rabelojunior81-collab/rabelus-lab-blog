@@ -1,0 +1,9 @@
+{
+  "medido_em": "2026-10-06T15:26:38-0300 / 2026-10-06T18:26:38+0000",
+  "instancia": "LARS External · Claude Desktop · texto · host Windows",
+  "superficie": "browser in-app do Claude Desktop, servidor local descartável 127.0.0.1:8766 (launch.json blog-preview)",
+  "post": {"375x812": {"innerWidth": 375, "scrollWidth": 375, "overflow": false, "quebradas": 0, "border_radius_nao_zero": 0, "captura": "post-375x812.jpg"}, "1440x900": {"innerWidth": 1440, "scrollWidth": 1425, "overflow": false, "quebradas": 0, "captura": "post-1440x900.jpg"}, "links_daily": 0},
+  "correcao": {"posts/2026-10-06-cada-um-e-um-todos-sao-um.html": {"links_daily": 0}, "posts/2026-10-06-o-blender-ganhou-uma-porta.html": {"links_daily": 0}, "daily/2026-10-06-lars.html": {"igual_a": "41aafc5", "ultima_secao": "Continuação — direção aceita e orçamento"}, "index_primeiro_card": "./posts/2026-10-06-o-diario-mora-na-acao.html"},
+  "gate_local": "scripts/validate-post.py VERDE 281/281",
+  "gate_canonico_argenta": "nao executado - inalcancavel neste host"
+}

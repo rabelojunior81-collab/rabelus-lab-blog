@@ -1,0 +1,109 @@
+{
+  "measured_at": "2026-10-12T11:12:41.588745-03:00",
+  "result": "PASS_LOCAL_QA",
+  "phase": "local",
+  "checks": [
+    {
+      "url": "http://localhost:8766/blog/posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "title": "Uma Nova Porta para a Mesma Casa — Rabelus Lab Blog",
+      "width": 375,
+      "height": 850,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "images": [
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Uma Nova Porta para a Mesma Casa",
+      "newPostLinks": 0,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local/post-375.png",
+      "screenshot_sha256": "16548cae2b326845e4a04558e946e1152120cc6cafaeafce355d299efa021598"
+    },
+    {
+      "url": "http://localhost:8766/blog/posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "title": "Uma Nova Porta para a Mesma Casa — Rabelus Lab Blog",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "images": [
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Uma Nova Porta para a Mesma Casa",
+      "newPostLinks": 0,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local/post-1440.png",
+      "screenshot_sha256": "9c8f68b6f41e2133ceb70c67c4564bf63c226da06d08087fe9f874836a139bfd"
+    },
+    {
+      "url": "http://localhost:8766/blog/daily/2026-10-12-lars.html",
+      "title": "Daily editorial — 12 de outubro de 2026 — Rabelus Lab Blog",
+      "width": 375,
+      "height": 850,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "images": [
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Daily editorial — 12 de outubro de 2026",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local/daily-375.png",
+      "screenshot_sha256": "6c1edbca74c72936f77b5b5adb16cbf380da04143423ee8b2a9b32a0730ef3dd"
+    },
+    {
+      "url": "http://localhost:8766/blog/daily/2026-10-12-lars.html",
+      "title": "Daily editorial — 12 de outubro de 2026 — Rabelus Lab Blog",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "images": [
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "../images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Daily editorial — 12 de outubro de 2026",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local/daily-1440.png",
+      "screenshot_sha256": "501549b669ee61b4a0e3b4a4e281e257bcf92fc73e2ce9474bbe404fde3ebf8c"
+    }
+  ],
+  "review": "executor inspeciona imagens separadamente; sem aceite presumido",
+  "model_used": false
+}

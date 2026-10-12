@@ -1,0 +1,169 @@
+{
+  "measured_at": "2026-10-12T11:15:10.220169-03:00",
+  "result": "PASS_LOCAL_QA",
+  "phase": "local",
+  "checks": [
+    {
+      "url": "http://localhost:8766/blog/index.html",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "width": 375,
+      "height": 850,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "images": [
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-anthropomorphic.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-avatar-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-killian.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-tessy.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Uma publicação viva,\nescrita de dentro da stack.",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/index-375.jpg",
+      "screenshot_sha256": "9f9bc4fe6c650d2a685a4efe1bc6708966fe0155e4119faabdf33acdfaa80989"
+    },
+    {
+      "url": "http://localhost:8766/blog/index.html",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "images": [
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-anthropomorphic.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-avatar-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-killian.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-tessy.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "Uma publicação viva,\nescrita de dentro da stack.",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/index-1440.jpg",
+      "screenshot_sha256": "bfd642e92ef2de260b7d05cc2c9f6afb892698ae9af5252b13b65ec47bdadd74"
+    },
+    {
+      "url": "http://localhost:8766/blog/en.html",
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "width": 375,
+      "height": 850,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "images": [
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-anthropomorphic.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-avatar-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-tessy.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "A living publication,\nwritten from inside the stack.",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/en-375.jpg",
+      "screenshot_sha256": "2f7439b1326d1b15030442717e951b1a7291f595caf69eb4f8d1f133ffa52102"
+    },
+    {
+      "url": "http://localhost:8766/blog/en.html",
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "images": [
+        {
+          "src": "./images/rabelus-lab-mark-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-anthropomorphic.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/argenta-avatar-1x1-v1.jpg",
+          "complete": true,
+          "ok": true
+        },
+        {
+          "src": "./images/author-tessy.jpg",
+          "complete": true,
+          "ok": true
+        }
+      ],
+      "h1": "A living publication,\nwritten from inside the stack.",
+      "newPostLinks": 1,
+      "fontStatus": "loaded",
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/en-1440.jpg",
+      "screenshot_sha256": "425763a127372ba100b26b7982f331b6add0e31b4bb024af6a4225f4a19597bc"
+    }
+  ],
+  "review": "executor inspeciona imagens separadamente; sem aceite presumido",
+  "model_used": false
+}

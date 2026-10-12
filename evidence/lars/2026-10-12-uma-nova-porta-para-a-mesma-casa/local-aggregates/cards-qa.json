@@ -1,0 +1,41 @@
+{
+  "checks": [
+    {
+      "title": "Uma Nova Porta para a Mesma Casa",
+      "href": "./posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "top": 107.80555725097656,
+      "bottom": 167.88888931274414,
+      "width": 375,
+      "height": 850,
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/index-card-375.jpg"
+    },
+    {
+      "title": "Uma Nova Porta para a Mesma Casa",
+      "href": "./posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "top": 107.94444274902344,
+      "bottom": 136.83333206176758,
+      "width": 1440,
+      "height": 900,
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/index-card-1440.jpg"
+    },
+    {
+      "title": "A New Door to the Same Home",
+      "href": "./posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "top": 107.88194274902344,
+      "bottom": 167.96527481079102,
+      "width": 375,
+      "height": 850,
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/en-card-375.jpg"
+    },
+    {
+      "title": "A New Door to the Same Home",
+      "href": "./posts/2026-10-12-uma-nova-porta-para-a-mesma-casa.html",
+      "top": 107.94444274902344,
+      "bottom": 136.83333206176758,
+      "width": 1440,
+      "height": 900,
+      "screenshot": "blog/evidence/lars/2026-10-12-uma-nova-porta-para-a-mesma-casa/local-aggregates/en-card-1440.jpg"
+    }
+  ],
+  "human_acceptance": "nao presumida"
+}

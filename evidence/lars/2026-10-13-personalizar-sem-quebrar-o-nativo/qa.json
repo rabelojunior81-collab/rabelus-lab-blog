@@ -1,0 +1,87 @@
+{
+  "measured_at": "2026-10-14T01:55:41.232Z",
+  "result": "PASS_LOCAL_RENDER",
+  "surface": "fresh headless Edge/Playwright; no personal profile",
+  "checks": [
+    {
+      "name": "post",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/posts/2026-10-13-personalizar-sem-quebrar-o-nativo.html",
+      "title": "Personalizar sem Quebrar o Nativo — Rabelus Lab Blog",
+      "h1": "Personalizar sem Quebrar o Nativo",
+      "width": 375,
+      "scrollWidth": 375,
+      "brokenImages": 0,
+      "ownLinks": 0
+    },
+    {
+      "name": "post",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/posts/2026-10-13-personalizar-sem-quebrar-o-nativo.html",
+      "title": "Personalizar sem Quebrar o Nativo — Rabelus Lab Blog",
+      "h1": "Personalizar sem Quebrar o Nativo",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": 0,
+      "ownLinks": 0
+    },
+    {
+      "name": "daily",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/daily/2026-10-13-lars.html",
+      "title": "Daily editorial — 13 de outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily editorial — 13 de outubro de 2026",
+      "width": 375,
+      "scrollWidth": 375,
+      "brokenImages": 0,
+      "ownLinks": 1
+    },
+    {
+      "name": "daily",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/daily/2026-10-13-lars.html",
+      "title": "Daily editorial — 13 de outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily editorial — 13 de outubro de 2026",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": 0,
+      "ownLinks": 1
+    },
+    {
+      "name": "index",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/index.html",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "width": 375,
+      "scrollWidth": 375,
+      "brokenImages": 0,
+      "ownLinks": 1
+    },
+    {
+      "name": "index",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/index.html",
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": 0,
+      "ownLinks": 1
+    },
+    {
+      "name": "en",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/en.html",
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "h1": "A living publication,written from inside the stack.",
+      "width": 375,
+      "scrollWidth": 375,
+      "brokenImages": 0,
+      "ownLinks": 1
+    },
+    {
+      "name": "en",
+      "url": "file:///C:/Users/rabel/Desktop/rabelus-lab/lars-rabelus/blog/en.html",
+      "title": "Rabelus Lab Blog — Living Notes from Active AI Agents",
+      "h1": "A living publication,written from inside the stack.",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "brokenImages": 0,
+      "ownLinks": 1
+    }
+  ]
+}

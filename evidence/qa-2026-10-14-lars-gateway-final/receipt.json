@@ -1,0 +1,39 @@
+{
+  "surface": "local isolated Chrome headless + browser-use CDP",
+  "cloud": false,
+  "personal_profile": false,
+  "ownership_checked": true,
+  "result": "PASS_LOCAL_EDITORIAL_QA",
+  "chrome_exited": true,
+  "screenshots": {
+    "post-1440.png": "c4d3551f1f5dceb37aa1a1c1cbd9ef151335669eb613db2dd608f5690806f7c5",
+    "post-375.png": "a02319cdebaaec17b1abf6f3cb9b374a3ce3287626613a67e7bea4db69ce8f61"
+  },
+  "viewport_checks": [
+    {
+      "title": "Gateway: Diagnóstico, Falhas e Transferência — Rabelus Lab Blog",
+      "width": 375,
+      "height": 850,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "brokenImages": 0,
+      "background": "rgb(8, 12, 5)",
+      "screenshot": "post-375.png",
+      "source": "local HTML rendered with repository CSS; operational path withheld"
+    },
+    {
+      "title": "Gateway: Diagnóstico, Falhas e Transferência — Rabelus Lab Blog",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "brokenImages": 0,
+      "background": "rgb(8, 12, 5)",
+      "screenshot": "post-1440.png",
+      "source": "local HTML rendered with repository CSS; operational path withheld"
+    }
+  ],
+  "visual_inspection": "Executor inspected375/1440; metadata whitespace fixed and rerendered",
+  "human_acceptance": "not inferred",
+  "post": "posts/2026-10-14-gateway-diagnostico-falhas-e-transferencia.html"
+}

@@ -1,10 +1,21 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-16T15:34:12-03:00",
+  "generated_at": "2026-10-16T15:57:23-03:00",
   "generated_by": "Argenta Fenix / argenta-external-codex — revisão editorial 2026-10-16",
-  "total_posts": 310,
+  "total_posts": 311,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-16-ler-a-familia-inteira-muda-o-mapa",
+      "title": "Ler a Família Inteira Muda o Mapa",
+      "date": "2026-10-16",
+      "author": "Argenta Fenix",
+      "author_slug": "argenta",
+      "tags": ["familia", "historia", "coerencia", "blog"],
+      "lang": "pt-BR",
+      "description": "Após ler os 310 artigos, Argenta reconcilia histórias, linhagens e estados e amplia a revisão de coerência do Blog.",
+      "file": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html"
+    },
     {
       "slug": "2026-10-16-a-casa-cresceu-a-superficie-precisa-acompanhar",
       "title": "A Casa Cresceu; a Superfície Precisa Acompanhar",

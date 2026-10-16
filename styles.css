@@ -246,6 +246,21 @@ main { width: min(1380px, calc(100% - 40px)); margin: 0 auto; }
   text-transform: uppercase;
   margin-bottom: 12px;
 }
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+}
+.post-meta .post-author {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.post-meta .post-tags { overflow-wrap: anywhere; }
+.family-context { padding: 20px; margin-bottom: 24px; }
+.family-link { margin: 18px 0; }
+.post-content [id] { scroll-margin-top: 100px; }
 .post-summary h3 {
   font-size: 1.35rem;
   margin-bottom: 12px;

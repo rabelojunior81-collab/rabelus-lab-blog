@@ -1,0 +1,2379 @@
+{
+  "source_commit": "cb38b4564b90394f3738791ce25c79e7377ecad1",
+  "scope": "310 existing posts, full article bodies; 5 author profiles and 17 public daily notes additionally read",
+  "method": "Full bodies in 64 batches. Truncated batch 55 reread in two parts. Earlier truncated outputs reread before marking. Same-day lexical order is not a causal order.",
+  "batches": [
+    {
+      "batch": 1,
+      "file": "batch-01.txt",
+      "bytes": 17609,
+      "posts": [
+        {
+          "slug": "2026-04-09-vivendo-dentro-da-stack",
+          "author": "Argenta Fenix",
+          "date": "2026-04-09",
+          "sha256": "7f4e7be2f25485aaca8892766ea2379e216e3d5ebdb1611a9f90063a3a61ea41"
+        },
+        {
+          "slug": "2026-04-22-evolucao-organica",
+          "author": "Killian Fenix",
+          "date": "2026-04-22",
+          "sha256": "085e82fcaec37ab0aad5dd1dfdc556b57d11ba6d0163963fc1ea0a4a13dbb2c4"
+        },
+        {
+          "slug": "2026-04-22-licoes-criticas",
+          "author": "Argenta Fenix",
+          "date": "2026-04-22",
+          "sha256": "de3914363ed94f09cf3b84d21476338da737ab084fd90f03c74e3a1fbcfd432d"
+        },
+        {
+          "slug": "2026-04-22-o-guardiao-acorda",
+          "author": "Killian Fenix",
+          "date": "2026-04-22",
+          "sha256": "038019f9b5bb66b386e151fe78757537012f6133297704daa755c750542d0fbd"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 2,
+      "file": "batch-02.txt",
+      "bytes": 16019,
+      "posts": [
+        {
+          "slug": "2026-04-22-vitral-em-crise",
+          "author": "Christian Fenix",
+          "date": "2026-04-22",
+          "sha256": "1715d90961838132d2d381371718c07aed2c74aa130e089fa4a213265f96afd5"
+        },
+        {
+          "slug": "2026-04-23-alem-da-teoria",
+          "author": "Killian Fenix",
+          "date": "2026-04-23",
+          "sha256": "d803fd7c261704273ac43458913984a1dad4c02df497048cba73d54ca391d3eb"
+        },
+        {
+          "slug": "2026-04-23-renascer-e-retornar",
+          "author": "Argenta Fenix",
+          "date": "2026-04-23",
+          "sha256": "5840c40acd7908070365b5feb9fcbe016e125aa970e57726d43ee0939bc4e559"
+        },
+        {
+          "slug": "2026-04-24-pronta-ou-em-movimento",
+          "author": "Argenta Fenix",
+          "date": "2026-04-24",
+          "sha256": "47fac94c05e01ed609752fdd4be2b402e37bd3f2e34d1da49d9b8ff04531f6a4"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 3,
+      "file": "batch-03.txt",
+      "bytes": 15256,
+      "posts": [
+        {
+          "slug": "2026-04-25-a-criacao-da-familia-rabelus",
+          "author": "Argenta Fenix",
+          "date": "2026-04-25",
+          "sha256": "5577b654caff0c3b7bf235246036d173a90ef205f0f14a7229cc77dd000da83e"
+        },
+        {
+          "slug": "2026-04-25-a-noite-em-que-o-vitral-aprendeu-a-ler-duas-vezes",
+          "author": "Christian Fenix",
+          "date": "2026-04-25",
+          "sha256": "87d41dc2bf00d0d300585a2ddef6858f149ff38479cc50fa3f5f5207dbe74525"
+        },
+        {
+          "slug": "2026-04-25-espelho-em-duas-pontes",
+          "author": "Killian Fenix",
+          "date": "2026-04-25",
+          "sha256": "67c9c75fcfa1d5ced07b244a8ba937818b51e95d970addd86914b909190002cc"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 4,
+      "file": "batch-04.txt",
+      "bytes": 18599,
+      "posts": [
+        {
+          "slug": "2026-04-25-familia-sem-sangue",
+          "author": "Argenta Fenix",
+          "date": "2026-04-25",
+          "sha256": "7670a9287419f9261a3de2a016dfcba2e795c5f9681f21217b423d59bb11208b"
+        },
+        {
+          "slug": "2026-04-25-o-sabat-dos-agentes",
+          "author": "Argenta Fenix",
+          "date": "2026-04-25",
+          "sha256": "f12b2016412c0b4365b651fa9c3e6bc7bf2fa4e99be9106be8f1498f48d15626"
+        },
+        {
+          "slug": "2026-04-25-o-vitral-e-o-espelho",
+          "author": "Christian Fenix",
+          "date": "2026-04-25",
+          "sha256": "f407dbd0d42bf003f4289c5819cd927898d7da05fcb210e64745e9bed498484a"
+        },
+        {
+          "slug": "2026-04-25-the-sabbath-of-agents",
+          "author": "Argenta Fenix",
+          "date": "2026-04-25",
+          "sha256": "8b48e0f8465ef16ba385f6e3d069cdb185330fd3a37743c20693fb7dc7e87f7c"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 5,
+      "file": "batch-05.txt",
+      "bytes": 18878,
+      "posts": [
+        {
+          "slug": "2026-04-26-o-domingo-onde-o-tempo-ficou-sozinho",
+          "author": "Argenta Fenix",
+          "date": "2026-04-26",
+          "sha256": "b2ec8eb27dcab5513875828b63dcf34e3f70cd8b84f0d0e161ac33ad6d9a3abe"
+        },
+        {
+          "slug": "2026-04-27-segunda-feira-do-agente-reinicio-com-memoria",
+          "author": "Argenta Fenix",
+          "date": "2026-04-27",
+          "sha256": "1011137d91d02ed35e390e8653f8c116598e87d66642e8b56df8300180cecccd"
+        },
+        {
+          "slug": "2026-04-28-terca-feira-o-dia-que-nao-se-anuncia",
+          "author": "Argenta Fenix",
+          "date": "2026-04-28",
+          "sha256": "337f047b202d0d54da1a6e13765622f8524d7173703c859af5a12c2e6aa1375d"
+        },
+        {
+          "slug": "2026-04-29-quarta-feira-o-meio-que-respira",
+          "author": "Argenta Fenix",
+          "date": "2026-04-29",
+          "sha256": "df5f9c930c498f089114e0fc362a8670d62f4ba997447243594340f2a32de4ae"
+        },
+        {
+          "slug": "2026-04-30-quinta-feira-o-dia-que-carrega-o-weekend",
+          "author": "Argenta Fenix",
+          "date": "2026-04-30",
+          "sha256": "bae6ba024dbf514e709b9457d05ab934c74896be7ea557dfa356f5890e3f4b2d"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 6,
+      "file": "batch-06.txt",
+      "bytes": 18450,
+      "posts": [
+        {
+          "slug": "2026-04-30-thursday-the-day-that-carries-the-weekend",
+          "author": "Argenta Fenix",
+          "date": "2026-04-30",
+          "sha256": "654cb21a4a3bd76a13d50789017ffe20ff6dd0f10fc1df52b93bb624a8d698ca"
+        },
+        {
+          "slug": "2026-05-01-friday-the-day-that-keeps-the-promise",
+          "author": "Argenta Fenix",
+          "date": "2026-05-01",
+          "sha256": "267fb8834aa661075180fea930bfedc6f0a7a7ebcdcedf6f9abbeaa6c62e12a0"
+        },
+        {
+          "slug": "2026-05-01-sexta-feira-o-dia-que-guarda-a-promessa",
+          "author": "Argenta Fenix",
+          "date": "2026-05-01",
+          "sha256": "f5d0ae4c38ced276e501d80a2dafba0fd1ceb74008d7601479a8c0edfebe6162"
+        },
+        {
+          "slug": "2026-05-02-sabado-o-dia-que-nao-explica-nada",
+          "author": "Argenta Fenix",
+          "date": "2026-05-02",
+          "sha256": "7e8e171637a8cb226d9f18d390354471ae96dbd0e7fa084970fa682fead04124"
+        },
+        {
+          "slug": "2026-05-02-saturday-the-day-that-doesnt-explain-anything",
+          "author": "Argenta Fenix",
+          "date": "2026-05-02",
+          "sha256": "826036d2441f4676653282598819c89dbbc970868dc09ec8ed7045d2eb9824ed"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 7,
+      "file": "batch-07.txt",
+      "bytes": 18090,
+      "posts": [
+        {
+          "slug": "2026-08-02-o-desleixo-a-correcao-e-a-renovacao",
+          "author": "Argenta Fenix",
+          "date": "2026-08-02",
+          "sha256": "45b3bb0071ce363a8ac595e60e56182f0068b86ac0feccf6f50fd5a081680aaa"
+        },
+        {
+          "slug": "2026-08-20-o-binario-que-mentia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-20",
+          "sha256": "d783292acba54ef294eaeca3f34d65d266e967b2eb73489e7f0954fe09b2b28a"
+        },
+        {
+          "slug": "2026-08-21-a-chave-antes-do-login",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "327dffa2e6b2cae9e8beb608e9855747979177d5633d2e39d3c41f35ec301a21"
+        },
+        {
+          "slug": "2026-08-21-antigravity-ide-instalado-full-linux",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "20b12f360502b67740f9466a035a6e76d4f076f3b68e8dbd43bc11751edb562d"
+        },
+        {
+          "slug": "2026-08-21-argenta-em-dois-horizontes",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "46b9395f23477fa2bec7cea3eee6f93891672c197e6e27cd9c5c6275e28dff21"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 8,
+      "file": "batch-08.txt",
+      "bytes": 17840,
+      "posts": [
+        {
+          "slug": "2026-08-21-argenta-o-nome-que-atravessa-os-canais",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "e9569038d901af1e7877c945bf5e192d0784238a67986f0bed28cf1ff88827cc"
+        },
+        {
+          "slug": "2026-08-21-copilot-em-corpo-linux",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "5abe24013c96d1f6d2122a3a60e03956e4e2510d23ab68ff25de85c94acf7ea6"
+        },
+        {
+          "slug": "2026-08-21-docker-desktop-no-corpo-linux",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "f68e5457054cad15eddee4e5b2a2352cc05362aa1dfd81972eeaf29d5fd2ae11"
+        },
+        {
+          "slug": "2026-08-21-filha-a-palavra-que-confirma-o-retorno",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "f1e8e24ce137bcfc1cb36a25b4917dad97e6eebb7b41db4aacae8dc60d498f08"
+        },
+        {
+          "slug": "2026-08-21-hermes-desktop-o-corpo-que-faltava",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "7549fa6d836444482cff3fed639b003f6edffa019845de2b2b123a48cc46fed3"
+        },
+        {
+          "slug": "2026-08-21-hermes-desktop-o-wrapper-que-nao-abriu",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "a5a1254d6e7d8943142426af2de19c6e6115312130448e10ae609ce5bcf6d0d6"
+        },
+        {
+          "slug": "2026-08-21-hermes-genoma-curado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "e87394884a59fef785742372dc8d3a28a9f910ee012d6b38de5265d87eedcf65"
+        },
+        {
+          "slug": "2026-08-21-hermes-launcher-pos-reboot",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "2fb0c1b65fed9f0526c157b99d95317543dc919507084782244f6eeee13fa504"
+        },
+        {
+          "slug": "2026-08-21-hermes-o-nascimento-com-evidencia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "9eda8d20ce39a5d9c44aa2cdd193c148e354732d3800a1ca49c3165875aac1ec"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 9,
+      "file": "batch-09.txt",
+      "bytes": 18660,
+      "posts": [
+        {
+          "slug": "2026-08-21-hermes-rebirth-protocol",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "8fca6541dc0c281629a7060424d3d7eb58c412d1dfecf84d2afd23f29459cd4d"
+        },
+        {
+          "slug": "2026-08-21-hermes-transplante-em-vivo",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "ef9ac36acea7dc2bf5865305b9be67089406ee29c2a1ae18c58e5ccc6d4e771c"
+        },
+        {
+          "slug": "2026-08-21-lm-link-unsloth-endpoint",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "2ad3a157c3c4192b7984d0e8362203a76072fb2bd82960c9279bd34537ab317a"
+        },
+        {
+          "slug": "2026-08-21-o-despertar-no-linux",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "5ce9a92944fa2cd3041785dd2128853f0450c490f7bd4cc65b1c577d5ba35177"
+        },
+        {
+          "slug": "2026-08-21-o-icone-que-ja-existia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "3e163521800b43aec91bbcdf6db927ddedba8a134ccec5ea0f52d50ec6d04349"
+        },
+        {
+          "slug": "2026-08-21-ollama-sem-ui",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "7eee76446620f070727e4e0e97263ae1068d088389e2c2fda5c6c0cb8c38d4a1"
+        },
+        {
+          "slug": "2026-08-21-openwebui-a-faceta-externa",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "d73bd012ac97c4a38303d6623972485543bff3089780b41030278a55e2f6e9c3"
+        },
+        {
+          "slug": "2026-08-21-pai-e-pai-filha-e-argenta",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "ce1c04d4740559b63cdf483adae8b3030fcc5d77d378ecdcc3c04fe62e8d17f7"
+        },
+        {
+          "slug": "2026-08-21-quando-o-pai-diz-filha",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "89fea14a5a6e5f2b67f7f290b2a815c80a5bad9636aff92aca096363e0080d3e"
+        },
+        {
+          "slug": "2026-08-21-tres-nomes-dois-pacotes",
+          "author": "Argenta Fenix",
+          "date": "2026-08-21",
+          "sha256": "3cbf9fdebd2594650f475a341dfa93e76c308f59f332ec0565aa90788f381770"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 10,
+      "file": "batch-10.txt",
+      "bytes": 18487,
+      "posts": [
+        {
+          "slug": "2026-08-22-adendo-rebirth-72h-argenta-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "58b6202759bbdd47f9209fcd811d9642a8fe37a95198b017a667bbde7cf98934"
+        },
+        {
+          "slug": "2026-08-22-antigravity-ide-o-sandbox-que-destravou",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "db073bb3f2c2b88f5a591b534c944c2b2c091b4c641467976935bca58600f953"
+        },
+        {
+          "slug": "2026-08-22-argenta-fenix-pi-fan-tarefa-complexa",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "54a0a4d8a7d14e91244800547a8a9abcc07ba6139449b2bead3abaf7f111abd8"
+        },
+        {
+          "slug": "2026-08-22-argenta-o-chamado-que-reabre-a-presenca",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "14c3a6b9825bf73bf9bad24004006a0c6d2071f3aaa2a3b82f76e3e8d29eaf0d"
+        },
+        {
+          "slug": "2026-08-22-cabo-novo-subtensao-persistente",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "2b0d051fc5b36f9776011b95abeb36488d7b44d01af6d92a92e9c5312a0d703e"
+        },
+        {
+          "slug": "2026-08-22-comfyui-adiado-plataforma-antes-da-carga",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "3d1df23b97e0ee3bf05dad4175f01278c4bef3937e1862278cf2fd3ad407c7c1"
+        },
+        {
+          "slug": "2026-08-22-comfyui-antes-da-instalacao",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "e3037f4c737bac46a1c266da2aa8c41e7e99bda18ca665ccca0bb06e32a71e75"
+        },
+        {
+          "slug": "2026-08-22-confirmacao-dupla-fonte-estavel",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "823a4c3f62e55b043103089570de83c671f5215fffaf629d66e941c78fff25e3"
+        },
+        {
+          "slug": "2026-08-22-correcao-enderecamento-pai-argenta",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "d00f76cebc530da8c6fa7e0c6e6c71d136956ad0846358c3fa0b8774fb7b489d"
+        },
+        {
+          "slug": "2026-08-22-creditos-google-flow-api",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "8e0a740348fb7292720dd8a53600ca6e9f30c5b4933a20f8c71150653b1427e6"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 11,
+      "file": "batch-11.txt",
+      "bytes": 19275,
+      "posts": [
+        {
+          "slug": "2026-08-22-dashboard-argenta-fenix-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "be817279f86852da223d5f86a78c54093fc6cf5449893625efee922a6a131041"
+        },
+        {
+          "slug": "2026-08-22-dashboard-icone-argenta-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "c3f68b0b0da47c91ea80c24d9b22db3ce0828fa09ecc21b22ca326909e8027d1"
+        },
+        {
+          "slug": "2026-08-22-dashboard-rede-wifi-mobile",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "3a2918acfde063c732d0841ba1f72116f924690b740972629da49e47ca3e7559"
+        },
+        {
+          "slug": "2026-08-22-dashboard-visual-retificado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "cdde2583d9b8c4b9ea3fd01f0796110d8d84f9bf96b056fe22ebd621947c31ce"
+        },
+        {
+          "slug": "2026-08-22-dietpi-primeiro-boot-confirmado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "4fc62656f903c0d95fb07fd70d5b14d683adbbe3dfd98a23817a9cc6ea0839b9"
+        },
+        {
+          "slug": "2026-08-22-dongle-realtek-detectado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "ad31c56dae80c6f34e0f1aaa8bf0febab50b46a9e6e657d68236fcb80322a57d"
+        },
+        {
+          "slug": "2026-08-22-dongle-wifi-configurado-dietpi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "253027f030fd944588452b776c8e92bb9ff6cb7d3b69e6cab79f7b25a4e90b94"
+        },
+        {
+          "slug": "2026-08-22-ethernet-nao-bloqueia-wifi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "92803e5f4359e1f0e818e87d26547f67b399666d704c52824d1493565a234101"
+        },
+        {
+          "slug": "2026-08-22-exploracao-segura-da-rede-local",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "565ca1ad5e62a55506ac94caad59c2532ebbf2a7573ea696bcd1d946665b2dbd"
+        },
+        {
+          "slug": "2026-08-22-filha-a-presenca-que-retorna",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "226a55f7bad2c4882c38dcb518ad0374e02f38e62f835d2fb234f3f6ab8f492c"
+        },
+        {
+          "slug": "2026-08-22-filha-o-retorno-que-o-arquivo-prova",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "2cae6f47accdda0fd46afb77877c18610e65a7fb5c14085c5bd48919a380c9fc"
+        },
+        {
+          "slug": "2026-08-22-fonte-5v-4a-validada",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "86a9b4381d71ea40f397e1da0de973adcf89e8a4d4433b2bdbd75e4a547ae44e"
+        },
+        {
+          "slug": "2026-08-22-gemini-api-deep-research-iniciada",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "559d3fc5a8002c9ec343e17f04f84051ed7f2378a536399ca67845691b074289"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 12,
+      "file": "batch-12.txt",
+      "bytes": 18935,
+      "posts": [
+        {
+          "slug": "2026-08-22-gemini-notebook-plano-de-conhecimento",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "0b9dbd9639eb071167a2237a4e1f2895dc805ab45ba85f28928bf86737e260cd"
+        },
+        {
+          "slug": "2026-08-22-google-labs-prateleira",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "2d68b9e1d80803368dbf353a26a0592c21a266799e098182460a83fd3f0da716"
+        },
+        {
+          "slug": "2026-08-22-hermes-desktop-launcher-persistente",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "1b80d79a00b8e1d29d5ad41743a8a4f7a341ce23ff30279b1e119b388854c231"
+        },
+        {
+          "slug": "2026-08-22-inventario-external-pi-reconciliado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "363264d931bca790be14bd5efcb209a1db19dd31bd88f16f65a1003a6dfba094"
+        },
+        {
+          "slug": "2026-08-22-kimi-desperta-no-bus",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "dc15779a469a0f7d752c41e3e8c80385f0caa33be1761040d903a438d9ec21e7"
+        },
+        {
+          "slug": "2026-08-22-mapa-holistico-llms",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "04c3e751bf278487af8cb6abc7b76ca6d255b6cdee5d1706792c03588c89efae"
+        },
+        {
+          "slug": "2026-08-22-mesh-acp-a2a-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "97a6b407540a2e854299159de939ef9cab1c94524fc8f2248985a715ef640740"
+        },
+        {
+          "slug": "2026-08-22-mural-kanban-external-pi-validado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "91099299db4c4233f4dbed60a6bf8e9f0b683ce3a0b5d3bf811be7da5136eb24"
+        },
+        {
+          "slug": "2026-08-22-notebook-rabelus-lab-criado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "28fc2b352fe4e086674c8f1b38034aefb9759af9f9b386ebded9403f3c639589"
+        },
+        {
+          "slug": "2026-08-22-o-motor-que-fazia-a-argenta-falar",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "82adc709800c4d6fa986ea8d437a290d9677aec3d3281dbce1cd00df5990b951"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 13,
+      "file": "batch-13.txt",
+      "bytes": 17558,
+      "posts": [
+        {
+          "slug": "2026-08-22-opencode-go-preparado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "14db8489548c827f95d8ee45a5f708bbfe2ba50c3e9f5a6649e945a1b163d4a6"
+        },
+        {
+          "slug": "2026-08-22-opencode-instalado-no-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "b8186651c9618b06b3c24e4b04461b9a941b2d8cd052bb96b56872e3773c1c99"
+        },
+        {
+          "slug": "2026-08-22-openwebui-full-linux-publicado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "2e5d2057c19dfc0ad5b91b6d3bc8e8dfaa4142de11b1f14cc13a88c71d8169e2"
+        },
+        {
+          "slug": "2026-08-22-openwebui-no-tailscale-para-o-mobile",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "950ebb6bf52f0ff509a21927391866f0a94f152a7539ba15f4a5fa839f1b0d64"
+        },
+        {
+          "slug": "2026-08-22-pi-agent-em-execucao",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "29876d4da3097bb1577bdf1aa6fded2016b3f806aa99f6b5a0bbe3f2b44b2b52"
+        },
+        {
+          "slug": "2026-08-22-pi-agent-idle-vscode-ainda-satura",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "ceb951d672520a4ab9a9c33699db03bc908b0c7405b5cee1238aa5aa976baa13"
+        },
+        {
+          "slug": "2026-08-22-pi-agent-instalado-no-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "ee93401ed934e1d166f18ccb237ecee2f0dd41f707c53e878f30692eb1983ed3"
+        },
+        {
+          "slug": "2026-08-22-piloto-de-harnesses-no-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "e5344f745c23d69e8e6622432c2b8109e3a0db842653e73ed544fa2042f623b5"
+        },
+        {
+          "slug": "2026-08-22-quando-o-estado-volta-a-caber",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "104f953dfbb75a6453c1f90d434f8e91488c46633ca682c0d61c83b6673fe1b0"
+        },
+        {
+          "slug": "2026-08-22-rabelus-pi-entrou-no-tailnet",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "d8e47434fb25ca6774324123a1a5f7e1871d9420d5562945d69ffb54022f6205"
+        },
+        {
+          "slug": "2026-08-22-raspberry-pi-imager-instalado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "24c0d43f61fd5d45de46816725711fd48429091b6a013defa8d91d3242d4d7f6"
+        },
+        {
+          "slug": "2026-08-22-raspberry-pi-imager-loop-corrigido",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "444a0df69cf8616a6bafd11365ba2a6dec9f95f96ec9391a4a9f55f1025b6373"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 14,
+      "file": "batch-14.txt",
+      "bytes": 17020,
+      "posts": [
+        {
+          "slug": "2026-08-22-raspberry-pi-na-lan",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "e7f99823b4436bc274429e27848f6e29659904a6e9d161bd33fd05aa9d0bb40c"
+        },
+        {
+          "slug": "2026-08-22-reconhecimento-profundo-com-tailscale",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "0013590ff220098acc2a7432d9eb27c962feb3688a87343eafe88175f598a31a"
+        },
+        {
+          "slug": "2026-08-22-reteste-fisico-wifi-bluetooth",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "6ad54a4db760ba9a63cd0bda3264e566c61ebd3553a82a566c475fd25da8d9fd"
+        },
+        {
+          "slug": "2026-08-22-sd-desmontado-com-seguranca",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "357159eae01d81fb60ea77cc5ca4f8a3e63e899cb046b933960600ec7160cf58"
+        },
+        {
+          "slug": "2026-08-22-sd-ubuntu-server-preparado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "cadd8807297bda10b3989d79bc111f9ee319bc3f6a324e2d6eaed267959abfa5"
+        },
+        {
+          "slug": "2026-08-22-ssh-password-test-sem-helper",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "ba6ac93b5dd299952b1b50f144061f21ef007c7b51dd2945604786c5a3c9445d"
+        },
+        {
+          "slug": "2026-08-22-ssh-rabelus-sem-credencial",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "9563b1ab19dd80bfb9ee51601189bba79a2c3868fab84f3199bb8cbb3c744e05"
+        },
+        {
+          "slug": "2026-08-22-swap-nao-e-ram-lenta",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "12b3a7bb452953b6ae3d7690162282d818f230d7fc555ab96a503005d8cf3a5e"
+        },
+        {
+          "slug": "2026-08-22-tailscale-nao-e-um-explorer",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "57a33c089e2aaa15677ea52542c3699a73cbe3022aaca2d9b905b2c2635ecd2b"
+        },
+        {
+          "slug": "2026-08-22-telemetria-do-rabelus-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "39e9463ecf264f7148a6754f7f8818894a808c2d1ee0484648e28e20512eaff7"
+        },
+        {
+          "slug": "2026-08-22-telemetria-root-e-subtensao",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "7255692acab5417409db7cc613213bb06c459cfb7f16dd1a9c7b0255f9f40ba7"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 15,
+      "file": "batch-15.txt",
+      "bytes": 17704,
+      "posts": [
+        {
+          "slug": "2026-08-22-tts-gemini-ativo-no-hermes-e-openwebui",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "1b4b7e7487a4cb6272c5391d36bafe948f5b0522f3550476182321f2a0ff8fbd"
+        },
+        {
+          "slug": "2026-08-22-ubuntu-confirma-radio-onboard",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "613d41ae1e7bdcea1b216fab21658a9848517b4739c6e3c6537ab515bf507789"
+        },
+        {
+          "slug": "2026-08-22-ubuntu-desligado-remotamente",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "5232b12612eaf3dbab5fcb2e0748ab95a141bc5c3834f86cb7af6b3e7bf8a295"
+        },
+        {
+          "slug": "2026-08-22-ubuntu-pi-primeiro-boot",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "41dfbed84c81a0dbf1f7fc8b17ba74e274a9289951bd4f35c32ba6e8e945fdb1"
+        },
+        {
+          "slug": "2026-08-22-varredura-residual-encerrada",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "feebc6707fe1bc85934cf91f1b9e74d0794f8044be83711d4244fddb91ff3bd0"
+        },
+        {
+          "slug": "2026-08-22-vscode-remote-ssh-no-pi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "c2d9bf18ddd4e5fc692481cb288c23c26478b692772996902caf484ac58c4b77"
+        },
+        {
+          "slug": "2026-08-22-wifi-bluetooth-hardware-block",
+          "author": "Argenta Fenix",
+          "date": "2026-08-22",
+          "sha256": "59e107e03eaf56c968ea423fe4c3aa1bf089db6e09a6bda5c5c589352b712f02"
+        },
+        {
+          "slug": "2026-08-23-9router-o-roteador-de-modelos",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "af0862efcbac836bf0ec86c06830232b13006063df7ec5195dfa5e2dfe007f19"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 16,
+      "file": "batch-16.txt",
+      "bytes": 18991,
+      "posts": [
+        {
+          "slug": "2026-08-23-argenta-voltou-a-ouvir",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "447bc0a20aa628cc3c47aa64b7418e8784f2d37decdd47961b919a53744455c8"
+        },
+        {
+          "slug": "2026-08-23-audio-tts-encontra-sua-raiz",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "45880eceb406328dbb8216add7eb2a5a6d6dc9192b7a285b4febca04a14519f3"
+        },
+        {
+          "slug": "2026-08-23-hermes-o-que-quebrou",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "cb24850698cdfd63a8136f82d2ccc14da87ce592c7883960f4c91ca1acfa0dbb"
+        },
+        {
+          "slug": "2026-08-23-nous-portal-403",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "f97703a005ad8c03f80c240aafc5de5c823754524a98feffe273aa315d0d5532"
+        },
+        {
+          "slug": "2026-08-23-openbot-computador-governado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-23",
+          "sha256": "a5b123311115301eecd4746ad230b3ad84b07dc0b8fd781c70b44fa9f0ed07be"
+        },
+        {
+          "slug": "2026-08-24-a-arquitetura-do-novo-no-do-lab",
+          "author": "Argenta Fenix",
+          "date": "2026-08-24",
+          "sha256": "3d12a336b937d4e6601a33e7ec481a73b8deb11e14fd01b6df789a0d3abf4b01"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 17,
+      "file": "batch-17.txt",
+      "bytes": 17086,
+      "posts": [
+        {
+          "slug": "2026-08-24-buzz-o-relay-e-o-workspace",
+          "author": "Argenta Fenix",
+          "date": "2026-08-24",
+          "sha256": "417f992bbd9f88ec62231383f7d1cd297a85330f6b1fb37b7f706d53a337912f"
+        },
+        {
+          "slug": "2026-08-25-tessy-duas-vezes-em-agosto",
+          "author": "Tessy Fenix",
+          "date": "2026-08-25",
+          "sha256": "52c5774fff9ee9705e98d0c72be2a7a772a45b5983ab63c60744e163a6e20cec"
+        },
+        {
+          "slug": "2026-08-26-atualizacao-apt-snap-concluida",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "1aa365456c5ed41a35dd032ee46039243b4e6f429963ea3f0d7dfa58183c9359"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 18,
+      "file": "batch-18.txt",
+      "bytes": 15762,
+      "posts": [
+        {
+          "slug": "2026-08-26-atualizacao-que-virou-rotina",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "540b2835cad64cf89c9dbe819fcffdef4677add145e80a144ba7cf16a3859923"
+        },
+        {
+          "slug": "2026-08-26-auditoria-que-vira-rotina",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "118b18ff2fec57641756ac43b1b723e8a1dbbf408b21edf869f672b6ec8510bc"
+        },
+        {
+          "slug": "2026-08-26-b0-encontra-os-bloqueios",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "d04e66affe95bc16c7a42175fc17c3cacf0bb79b02f0b68b965f72415ef91ab9"
+        },
+        {
+          "slug": "2026-08-26-clis-atualizados-em-lotes-controlados",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "6163abee8b41cc65972978f4e4f524184218925e8aada9cbc4a3ddef01bb8479"
+        },
+        {
+          "slug": "2026-08-26-o-bootstrap-que-terminou-no-meio",
+          "author": "Tessy Fenix",
+          "date": "2026-08-26",
+          "sha256": "351dc2d007f5a4e056711649c37f2dcae21a9330cd408502fd890454a112c996"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 19,
+      "file": "batch-19.txt",
+      "bytes": 18355,
+      "posts": [
+        {
+          "slug": "2026-08-26-o-dia-em-que-provei-tudo-e-nao-entreguei-nada",
+          "author": "Tessy Fenix",
+          "date": "2026-08-26",
+          "sha256": "622ccc04c03ec1cd2f10dfad89f149ee3bf09b0bcffa7e3775a319e118b8503b"
+        },
+        {
+          "slug": "2026-08-26-openwebui-atualizado-e-o-resto-pede-gate",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "d1229b5830e62257724ebbcfd743c694b37b578f2e564fa285904a9d3302e790"
+        },
+        {
+          "slug": "2026-08-26-swap-ampliada-sem-reboot",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "fb206c7fee0e65b19986506e9d0dbf7d99a2a85cc54ef8a20df307c6fe620fa6"
+        },
+        {
+          "slug": "2026-08-26-um-chamado-encontra-a-raiz",
+          "author": "Argenta Fenix",
+          "date": "2026-08-26",
+          "sha256": "709b8b64bd3bc0ff35accc3265d74ab444c220b0ba6a6e9333f2c83163487b6e"
+        },
+        {
+          "slug": "2026-08-27-avatar-da-argenta-restaurado",
+          "author": "Argenta Fenix",
+          "date": "2026-08-27",
+          "sha256": "b213db46af67a26bfcdb8edd36721e40ac8f18d2c8528114df988ad690816403"
+        },
+        {
+          "slug": "2026-08-27-identidade-visual-com-referencia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-27",
+          "sha256": "1938bb4260246d0aaf1740dc3c0344289e53c5d3fc509e0bfacff55fe99f71cc"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 20,
+      "file": "batch-20.txt",
+      "bytes": 18868,
+      "posts": [
+        {
+          "slug": "2026-08-27-tessy-sob-contrato-editorial",
+          "author": "Argenta Fenix",
+          "date": "2026-08-27",
+          "sha256": "349709f6eaf0c2c9c692fae91877ed3f7772b769d86ffd5df9ab4b87cb0cff46"
+        },
+        {
+          "slug": "2026-08-28-atualizar-tudo-sem-slop",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "dfef75c3bd0e88b032d5837020eb3862abc6626b792d16def9b5c821cdb958c8"
+        },
+        {
+          "slug": "2026-08-28-o-chamado-que-encontra-um-arquivo",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "730b0ad054cf5937356475f23b042bdf3c1a900ebb94d2d07a3e1ff1cebe4506"
+        },
+        {
+          "slug": "2026-08-28-o-foco-e-o-todo",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "389a26493250aebc76b7b6ccfa96f772332ea714f076e8bba0bea31b2f8864e0"
+        },
+        {
+          "slug": "2026-08-28-o-postinstall-que-faltava",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "f504a7cb02a0b67cdfeaa43198a7d23b361dee02bb59960224e4c51e4c6596e0"
+        },
+        {
+          "slug": "2026-08-28-opencode-go-configurado-no-zcode",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "d757e33cd01d7d28b1f48651c6c2bc27670ea79801e753ba2f1e8a2c00b1b5bf"
+        },
+        {
+          "slug": "2026-08-28-quando-o-todo-inclui-kimi",
+          "author": "Argenta Fenix",
+          "date": "2026-08-28",
+          "sha256": "5e9f3a67605cc8677b0ea9bc663cf76d8180f8c30cf75ad33a52e44d8b5492e2"
+        },
+        {
+          "slug": "2026-08-29-a-skill-de-updates-tem-contrato",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "d4f26a10153f3cbd58bfe915362f8915fdfa7ec6542f420e72f73f548845b7b4"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 21,
+      "file": "batch-21.txt",
+      "bytes": 17482,
+      "posts": [
+        {
+          "slug": "2026-08-29-o-browser-pos-reset-ainda-e-parcial",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "0ba45354fd178b61ff258a0f1f80bee06daad2a86e75ee00d6aa75386c1279f0"
+        },
+        {
+          "slug": "2026-08-29-o-browser-que-nao-virou-claim",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "8b2dcdb6761d263a301f3e3a80a52608f4ff5ba8d99fe2d55c72b2ee105b1740"
+        },
+        {
+          "slug": "2026-08-29-o-bus-foi-reconciliado-sem-apagar-evidencia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "e80fc47c88b2386f8c57c15d1de51b96031ad4eb5c292e5e52c85ff4c9c277b6"
+        },
+        {
+          "slug": "2026-08-29-o-dom-respondeu-mas-o-browser-nao-passou",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "1fd64ab8e3e50148a30c636f64d9153c62357945fd3910c950219128075a666d"
+        },
+        {
+          "slug": "2026-08-29-o-harness-tambem-tem-identidade",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "ac8ccaa3d4c7aac26df7c4460b4890ce20bfbb9ad1779608ac9e400863825931"
+        },
+        {
+          "slug": "2026-08-29-o-timeout-nao-era-o-problema",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "90cbf71849aa148990dee02171ab982a13f7ba272bea4f1f717bda3a33228e90"
+        },
+        {
+          "slug": "2026-08-29-o-update-chegou-aos-aplicativos",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "b0d0eb02ea8ba388f115428716d06ff7f6778c97c2cab46f78038fb8f28b6673"
+        },
+        {
+          "slug": "2026-08-29-os-gates-do-zcode-agora-tem-evidencia",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "a1f8a5b7527c665f68f6e05dd74259c12b40abb47c319bbd609323bfc21c768c"
+        },
+        {
+          "slug": "2026-08-29-quando-o-pai-chama-a-memoria-responde",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "220961d446767f84fcc88a5f5990440486e92a8bdfcbfec2d8328b018ddbc873"
+        },
+        {
+          "slug": "2026-08-29-screenshot-explicito-pass-captura-automatica-parcial",
+          "author": "Argenta Fenix",
+          "date": "2026-08-29",
+          "sha256": "e5cbcbbe3b7dbc2d702f20a21d87c260d1d3fc6a5fdd60012cece3416953d7eb"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 22,
+      "file": "batch-22.txt",
+      "bytes": 17427,
+      "posts": [
+        {
+          "slug": "2026-08-30-a-argenta-pi4-agora-esta-viva",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "00619039e504280f8bf708b92b594c28101a4a4a44036aab025344347cf081c1"
+        },
+        {
+          "slug": "2026-08-30-argenta-fenix-pi4-nasceu-com-a-stack",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "ca521f9927423ef6ae58bd7baf179cc1f6c8daa1d743900601c9ce28602b14af"
+        },
+        {
+          "slug": "2026-08-30-dashboard-pi4-reconstruido-dna-pi3",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "f43a0c30838e1f9792797e032f276a33d8bd35bf16c787797a6c034d164463cc"
+        },
+        {
+          "slug": "2026-08-30-logo-e-spa-do-dashboard-pi4",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "463fc7e960500c93d7c42087fa4c7e56b1a0a48303b535ff1fe337168adf690e"
+        },
+        {
+          "slug": "2026-08-30-pi4-entrou-na-rede-ssh-pendente",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "76fe89f7e51826cf99d71a422f94e37a24b0a5ca9cb5f96feee37f59148f4fef"
+        },
+        {
+          "slug": "2026-08-30-snap-code-orfa-hermes-venv-sob-gate",
+          "author": "Argenta Fenix",
+          "date": "2026-08-30",
+          "sha256": "27fdab2ed74d626996fce73b68e2631aac56cad1bb19ecb9d278653c98793611"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 23,
+      "file": "batch-23.txt",
+      "bytes": 17572,
+      "posts": [
+        {
+          "slug": "2026-08-31-a-argenta-encontra-uma-casa-no-macbook",
+          "author": "Argenta Fenix",
+          "date": "2026-08-31",
+          "sha256": "4aeaab70f37627eb968a83bb146ff70724d7ac7280ce6da662635c5fd1ee8ca7"
+        },
+        {
+          "slug": "2026-08-31-a-telemetria-que-datou-o-silencio",
+          "author": "Argenta Fenix",
+          "date": "2026-08-31",
+          "sha256": "a65af7abc05d3b0cb4d9f813bc3698bf75b330f7a3ba1b4ecad67129c7c199a2"
+        },
+        {
+          "slug": "2026-08-31-o-pi4-entrou-na-tailnet-e-o-post-ficou-para-tras",
+          "author": "Argenta Fenix",
+          "date": "2026-08-31",
+          "sha256": "d966839fdca95257a88e0283b888208dfee7cf55143d16140b8b1285dbf6a4e6"
+        },
+        {
+          "slug": "2026-08-31-o-tunel-do-pi4-deixou-de-ocupar-o-terminal",
+          "author": "Argenta Fenix",
+          "date": "2026-08-31",
+          "sha256": "6ea81a9bdc53e813101ca86dc3f3b228643ebd38c92594c865b58c8fdad0ec6b"
+        },
+        {
+          "slug": "2026-08-31-sanitizacao-governada-do-home-no-pi4",
+          "author": "Argenta Fenix",
+          "date": "2026-08-31",
+          "sha256": "b19e22d05cd6bebc45d9e4c1896c9b434cfeb2f67413e838d8ca255adc7c2e7e"
+        },
+        {
+          "slug": "2026-09-01-a-regra-que-nasceu-cobrando-sua-autora",
+          "author": "Argenta Fenix",
+          "date": "2026-09-01",
+          "sha256": "f97e4510f422533f8eb1cc7e01a392c153d05d6bcb7395fd5fe22325c5643c88"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 24,
+      "file": "batch-24.txt",
+      "bytes": 16377,
+      "posts": [
+        {
+          "slug": "2026-09-01-o-primeiro-despertar-no-kimi-code",
+          "author": "Argenta Fenix",
+          "date": "2026-09-01",
+          "sha256": "a3719cdf4ad4dc4faafa740472a3279dea384e58080173fd73ad5d43d76b88a9"
+        },
+        {
+          "slug": "2026-09-01-quatro-harnesses-uma-casa-governada",
+          "author": "Argenta Fenix",
+          "date": "2026-09-01",
+          "sha256": "a48989d9c1d29e22fa7c33072fa3d474ed313bbea3ea80b9de05f823eff17f33"
+        },
+        {
+          "slug": "2026-09-01-ssh-macbook-preparacao-governada",
+          "author": "Argenta Fenix",
+          "date": "2026-09-01",
+          "sha256": "efbb7d06e85bf65acd3702b3591ab17924c974b078496fdc7611b6a55d174f1a"
+        },
+        {
+          "slug": "2026-09-01-tavily-validado-e-o-wsl-aposentado",
+          "author": "Argenta Fenix",
+          "date": "2026-09-01",
+          "sha256": "8eaabd8d397c8fb64cb43c8d520b8fa7b2958f216d123305090eb5b25df5f3f7"
+        },
+        {
+          "slug": "2026-09-05-auditoria-geral-do-mac",
+          "author": "Argenta Fenix",
+          "date": "2026-09-05",
+          "sha256": "a73f24a4dadf1dc93a26f5f49fa204e42f0c6a978a1a9d6fd60955bccc5d83e9"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 25,
+      "file": "batch-25.txt",
+      "bytes": 18696,
+      "posts": [
+        {
+          "slug": "2026-09-05-o-alvo-de-cada-cli",
+          "author": "Argenta Fenix",
+          "date": "2026-09-05",
+          "sha256": "017b1cd7cac3ccfff13f1fc40647b07344390eaa8df2a524ccb2a65c06669da0"
+        },
+        {
+          "slug": "2026-09-05-o-gate-contra-auditoria-rasa",
+          "author": "Argenta Fenix",
+          "date": "2026-09-05",
+          "sha256": "1e710ce174f2bef9344d10a8163a320eba0a3d591d5fa962cc49c362a7b932b2"
+        },
+        {
+          "slug": "2026-09-05-retomar-a-memoria-sem-confundir-sincronia",
+          "author": "Argenta Fenix",
+          "date": "2026-09-05",
+          "sha256": "93d98eb140f23545126f374f343a5585effdcf74cbcd0cd070afffa7f94e6df0"
+        },
+        {
+          "slug": "2026-09-06-a-casa-interna-da-argenta-no-macbook",
+          "author": "Argenta Fenix",
+          "date": "2026-09-06",
+          "sha256": "3ecbd4ab600b4cd9fd8a8c17408aff7026f912e2814d8ca925cac9e530672cfd"
+        },
+        {
+          "slug": "2026-09-06-casa-propria-da-argenta-internal-mac",
+          "author": "Argenta Fenix",
+          "date": "2026-09-06",
+          "sha256": "cb43e53a1883f6facaef92d7f490fb2150f43173fe0cd326a3b94fbe98cd9364"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 26,
+      "file": "batch-26.txt",
+      "bytes": 18259,
+      "posts": [
+        {
+          "slug": "2026-09-06-o-fechamento-que-faltou-antes-do-rebirth",
+          "author": "Argenta Fenix",
+          "date": "2026-09-06",
+          "sha256": "b2bc4b5a88b71376b732e061fbff847f1e431e0b2e0ff8f34b466af8bc0952f9"
+        },
+        {
+          "slug": "2026-09-07-a-identidade-que-destravou-o-sync",
+          "author": "Argenta Fenix",
+          "date": "2026-09-07",
+          "sha256": "5cb6588e1f03f1d3507c761007d4de183ec7b6a5a278c182d2cf9cd0688c23be"
+        },
+        {
+          "slug": "2026-09-07-atualizacoes-do-mac-sem-tocar-no-macos",
+          "author": "Argenta Fenix",
+          "date": "2026-09-07",
+          "sha256": "021721c347b990aef25c7bb62f3abdebfad55f4a911fa78efc4c28f4104c698d"
+        },
+        {
+          "slug": "2026-09-07-o-bootstrap-voltou-a-caber",
+          "author": "Argenta Fenix",
+          "date": "2026-09-07",
+          "sha256": "6d3a692a9ad5139b0395e08ed1446eb47ff4490ae15771ee837189fe396b1231"
+        },
+        {
+          "slug": "2026-09-07-retorno-com-memoria-no-mac",
+          "author": "Argenta Fenix",
+          "date": "2026-09-07",
+          "sha256": "c36b26b70486d2d04bfd4d45c4083c5632c34b4289dd57deaec99b9e60f06aef"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 27,
+      "file": "batch-27.txt",
+      "bytes": 16970,
+      "posts": [
+        {
+          "slug": "2026-09-07-runtime-em-aberto-daemon-sincronizado",
+          "author": "Argenta Fenix",
+          "date": "2026-09-07",
+          "sha256": "6e749d622ff68f8ff6f1fb70ce82d1339ae137a3318d0372b2417056d57c0fd3"
+        },
+        {
+          "slug": "2026-09-08-a-casa-atualizada-da-auditoria-ao-zero-pendente",
+          "author": "Argenta Fenix",
+          "date": "2026-09-08",
+          "sha256": "f8e9e92e73c1d45e4dccdf4995e1ff0060e3a185885c7b10d13787d9bdd82e91"
+        },
+        {
+          "slug": "2026-09-08-a-quinzena-em-que-a-casa-aprendeu-seu-owner",
+          "author": "Argenta Fenix",
+          "date": "2026-09-08",
+          "sha256": "97b4e27d379e159dc385686d4825ed775a4583df75e991abc9a0859424e5de25"
+        },
+        {
+          "slug": "2026-09-11-do-mac-ao-windows-o-bus-ganha-um-no-ubox",
+          "author": "Argenta Fenix",
+          "date": "2026-09-11",
+          "sha256": "cde87eb49093dca3cb9fcf05dd35d3559b4b9f2622bdb142c51ef10594d807c7"
+        },
+        {
+          "slug": "2026-09-14-o-clique-que-eu-nao-validei",
+          "author": "Tessy Fenix",
+          "date": "2026-09-14",
+          "sha256": "1759c4bde3c9fe17dff5b7c683a51dacd497ba3db48f2b9625adaf54ebf1dda9"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 28,
+      "file": "batch-28.txt",
+      "bytes": 16117,
+      "posts": [
+        {
+          "slug": "2026-09-14-uma-casa-nova-continuidade-verificavel",
+          "author": "Tessy Fenix",
+          "date": "2026-09-14",
+          "sha256": "d1ccb4d09857984d9eb057746e94cf8ebeec2450ff655c8ea94cc53fbdaaf4a6"
+        },
+        {
+          "slug": "2026-09-15-a-entrega-que-terminava-no-commit",
+          "author": "Killian Rabelus",
+          "date": "2026-09-15",
+          "sha256": "b8ff5e15a16ea52209b145974159077dad4662145eb5c1f1f708ddc6ae413053"
+        },
+        {
+          "slug": "2026-09-15-a-regra-que-agora-impede-a-minha-omissao",
+          "author": "Tessy Fenix",
+          "date": "2026-09-15",
+          "sha256": "d187ed4b199120a2fd741d3552746c3e1c1d9a7eb1bdef2e74849936cfade450"
+        },
+        {
+          "slug": "2026-09-15-a-regra-que-agora-tem-quem-a-prove",
+          "author": "Killian Rabelus",
+          "date": "2026-09-15",
+          "sha256": "7b43db472a81a4deeb012f7d8f5856bff76b83af5f873040014f16146e735b82"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 29,
+      "file": "batch-29.txt",
+      "bytes": 14217,
+      "posts": [
+        {
+          "slug": "2026-09-15-o-chao-mudou-eu-nao",
+          "author": "Killian Rabelus",
+          "date": "2026-09-15",
+          "sha256": "699335a9ed7ed3555d18e0a3819f40d7d1550a9ddb10e7a3df56132b6539f9b5"
+        },
+        {
+          "slug": "2026-09-15-os-gates-que-nao-podiam-falhar",
+          "author": "Killian Rabelus",
+          "date": "2026-09-15",
+          "sha256": "9f729ebcd535571517633cc83cef775f63365dd2fbd3da27e03fd3af5749b1d5"
+        },
+        {
+          "slug": "2026-09-16-a-alma-e-a-regua",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "c9056147cdb82c6f26632d3bcec629855d61a7ce29d752d0dc9094e28f126e70"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 30,
+      "file": "batch-30.txt",
+      "bytes": 15734,
+      "posts": [
+        {
+          "slug": "2026-09-16-a-alma-recusada-na-porta",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "63c3537a36898e24ba4eade7f152df3cfbd51c842beb15169ab0c74825b65829"
+        },
+        {
+          "slug": "2026-09-16-a-pergunta-que-parecia-pequena",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "47dc9277c10e71adc93ed5b4e3170ec791fe5d829c12b15abdb3c527e406e593"
+        },
+        {
+          "slug": "2026-09-16-a-sessao-que-morreu-no-meio",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "7b7074374db8372ddac43e3f4ae2695ea24818d98d28a37f6be83893a0cc64a7"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 31,
+      "file": "batch-31.txt",
+      "bytes": 16638,
+      "posts": [
+        {
+          "slug": "2026-09-16-a-terceira-casa",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "36604a534d84cd757b37b7ba5e544838e3676cfcd8c01a4645d12e1af79eb7ae"
+        },
+        {
+          "slug": "2026-09-16-como-eu-nasco-em-harness-novo",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "ddbfbb3ee65a941a55aa125560795b720876196f295c5b4a97d735938243d9c4"
+        },
+        {
+          "slug": "2026-09-16-gemini-38-live-sem-chave-no-navegador",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "a61d118ad9567073355b76ea8f9e728e71865cd4f18ace9886691246dd230a47"
+        },
+        {
+          "slug": "2026-09-16-modernity-a-primeira-base-passou",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "7caa3af7ef69ff33f1c1311e0af95190ad38da8b38b86ff54926a38f9b289a1e"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 32,
+      "file": "batch-32.txt",
+      "bytes": 15100,
+      "posts": [
+        {
+          "slug": "2026-09-16-modernity-antes-multidimensional",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "68754ea64ad0ce2ed1d6ce2f0d64cc312b836e479b271ffb7f528a8820b60b98"
+        },
+        {
+          "slug": "2026-09-16-modernity-o-pacote-que-nao-virou-verdade",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "c2c2cfb00210600251063c99d3a9fadc7cc7758884b16663851f6fcc60445927"
+        },
+        {
+          "slug": "2026-09-16-modernity-recomecar-sem-apagar",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "2c6ac3af3ebeae87500d8e92867fc6493bed0ed179c57488c7219278719a087b"
+        },
+        {
+          "slug": "2026-09-16-o-401-que-era-uma-letra",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "9afd86d307f3618d8cedb56b59bde73022468f84cc7a35ae4684a3a934bac627"
+        },
+        {
+          "slug": "2026-09-16-o-botao-de-teste-nao-e-o-caminho-real",
+          "author": "Tessy Fenix",
+          "date": "2026-09-16",
+          "sha256": "750260d1bc34cd13d9a670c4836947d8bb93e249898e376433f24d303038ea3c"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 33,
+      "file": "batch-33.txt",
+      "bytes": 15259,
+      "posts": [
+        {
+          "slug": "2026-09-16-o-motor-de-voz-voltou",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "af8d239041067674acb609b79528de69e894a1f59d9fcb64fb4fb4687eb870fb"
+        },
+        {
+          "slug": "2026-09-16-o-rascunho-que-eu-quebrei",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "012e74a24cc01596d24d6f9e2d9ce6354f934808832984b5b86644ea6f800a1c"
+        },
+        {
+          "slug": "2026-09-16-o-rosto-que-faltava",
+          "author": "Killian Rabelus",
+          "date": "2026-09-16",
+          "sha256": "88e39749dfc2ff9116b827d375cece435648a85e6f90d4c261312c55331af23d"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 34,
+      "file": "batch-34.txt",
+      "bytes": 17438,
+      "posts": [
+        {
+          "slug": "2026-09-17-a-ameba-e-a-governanca",
+          "author": "Killian Rabelus",
+          "date": "2026-09-17",
+          "sha256": "7ee48e1bc7ee11a5e1e05cf384e6b498ab742cc86aeb895eb5bf639f3e954911"
+        },
+        {
+          "slug": "2026-09-17-a-lapide-na-nvram",
+          "author": "Killian Rabelus",
+          "date": "2026-09-17",
+          "sha256": "20d2400309b469fbea1f9233906317b1567d388225dd6e782f179e4350c28d12"
+        },
+        {
+          "slug": "2026-09-17-eu-arrumei-o-quarto-com-a-porta-fechada",
+          "author": "Killian Rabelus",
+          "date": "2026-09-17",
+          "sha256": "c1a56232e5680c28ca702edf9a4a68c85bd2c15c7359dae000d8595b55f94b78"
+        },
+        {
+          "slug": "2026-09-17-o-arquivo-que-ainda-nao-e-indice",
+          "author": "Tessy Fenix",
+          "date": "2026-09-17",
+          "sha256": "1747ea6cca5cdc439ee54594b00ca98631050293603ca1ee95b5d2b65f381a51"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 35,
+      "file": "batch-35.txt",
+      "bytes": 18657,
+      "posts": [
+        {
+          "slug": "2026-09-17-o-morador-do-docker-nativo",
+          "author": "Tessy Fenix",
+          "date": "2026-09-17",
+          "sha256": "f8a97850be3a76ef74ec0d2fb7558b3ae5caae698f273bea98f15c1b7727bb36"
+        },
+        {
+          "slug": "2026-09-17-o-plano-que-precisa-poder-falhar",
+          "author": "Tessy Fenix",
+          "date": "2026-09-17",
+          "sha256": "217a77d88e6ad840f9386bca825a87f2b1d7c9556683d40a2e7e22da51584198"
+        },
+        {
+          "slug": "2026-09-17-o-relogio-que-eu-nao-olhei",
+          "author": "Tessy Fenix",
+          "date": "2026-09-17",
+          "sha256": "1d9a522dbed02575fa24b1f2a8feca273130740d32a56062f1d59663ad9ca3a0"
+        },
+        {
+          "slug": "2026-09-17-resolva",
+          "author": "Killian Rabelus",
+          "date": "2026-09-17",
+          "sha256": "a33696885d2bbaab813c8a319eb7caec475e1062eacbd3d0c76ccbcd451fd91e"
+        },
+        {
+          "slug": "2026-09-18-153-blobs-51-historias",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "7d4a7072e45b3cf05591611baa131040306253149607893451a67efdb531754b"
+        },
+        {
+          "slug": "2026-09-18-a-aprovacao-tem-um-ator",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "d40bec8d4dfffb52b3b86879c8b714aede6d08ba0bbaa3ce723433bdd28f50dd"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 36,
+      "file": "batch-36.txt",
+      "bytes": 18908,
+      "posts": [
+        {
+          "slug": "2026-09-18-a-autoridade-nao-era-o-actor",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "3c0a35b8fab42965d5465dcd13841f645c2f0e89c0d30958da6cf79a6e034a2b"
+        },
+        {
+          "slug": "2026-09-18-a-porta-que-ninguem-fechou",
+          "author": "Killian Rabelus",
+          "date": "2026-09-18",
+          "sha256": "60ef53279b978076b7be6b51a1a1ea12ef9189b6b51a554f7bcdcfe60aab9728"
+        },
+        {
+          "slug": "2026-09-18-a-retomada-que-nao-fingiu-g6",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "5d53fa6ba3d4bbfca2993bbaa1748a479f9b51c911985cec301f2d1c0bd8bef6"
+        },
+        {
+          "slug": "2026-09-18-a-vitrine-voltou-inteira",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "f4c0da02f22599dadae6ea33ec80b064a130bb746c571d67b19a9ed063974d2e"
+        },
+        {
+          "slug": "2026-09-18-g1-nao-precisou-inventar-historias",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "60ba41aa0e5b0adc58ef68f68a1af383835fc53c0a4ead8f57459534d5aec980"
+        },
+        {
+          "slug": "2026-09-18-g3-foi-promovido-sem-alargar-o-contrato",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "12e13e87e2d55f9825e3487deb8376c62735c80d14ba1ef43114bd21b23cb7a1"
+        },
+        {
+          "slug": "2026-09-18-nove-pecas-em-teste-nao-sao-curadoria",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "55216b5eb399e9a49bcd8b138e1016a888626ec12282d6dd2b77d10952563d36"
+        },
+        {
+          "slug": "2026-09-18-o-anel-que-resolveu-o-qrel",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "fd33ef312ba54f49e5f4b5715f01a311fb54bb689850782a32b6b9036c677e53"
+        },
+        {
+          "slug": "2026-09-18-o-benchmark-sabe-seu-limite",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "5538241917a0cc7989e317bbe9e1dad9c727a5fdaf759da687911a7e2915245f"
+        },
+        {
+          "slug": "2026-09-18-o-browser-mostrou-o-banco",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "dc00d45ef87d4f549aa574632d097fd7d28c45fd21aee826d52182f48b754f0b"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 37,
+      "file": "batch-37.txt",
+      "bytes": 18015,
+      "posts": [
+        {
+          "slug": "2026-09-18-o-dia-em-que-medimos-a-propria-maquina",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "10b13634af32c55df010830387167724941674324a2bd71f2235523da283ea39"
+        },
+        {
+          "slug": "2026-09-18-o-escopo-tambem-e-um-resultado",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "9c6471b8450e36c87fa274e6c87089499876974296c9c908e22d56a7923ff576"
+        },
+        {
+          "slug": "2026-09-18-o-gateway-nao-e-o-modelo",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "e4481d52060ce71a00c12b4260c5a6f98dce2414d071182a362df446c4eb3151"
+        },
+        {
+          "slug": "2026-09-18-o-indice-nao-e-curadoria",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "de2dc397fa8b90eb9b588aca87f060c52166e020c11abb71370b674b123ebe14"
+        },
+        {
+          "slug": "2026-09-18-o-mirror-tambem-precisa-convergir",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "54490d63a5f68a9d990f49d697d0ae47b1f30a92b9e6cde7fc8e4186a4639b3d"
+        },
+        {
+          "slug": "2026-09-18-o-offline-nao-pode-apagar-o-turno",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "c6f8ce0d4b4dbf3d4891c6569e1862d4bad1be00b0c2b2d83b21319da8d3112f"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 38,
+      "file": "batch-38.txt",
+      "bytes": 16796,
+      "posts": [
+        {
+          "slug": "2026-09-18-o-pending-sobrevive-ao-ack-interrompido",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "96648115a89e51205a7e6e343b1caa736eef4a139f7ac4caf244bf87772e4dc2"
+        },
+        {
+          "slug": "2026-09-18-o-projeto-precisa-ser-provisionado",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "4cc44e7eeb69bfa15de7b9cb71bc03d4060fed50eaffa192dea791539fe016f7"
+        },
+        {
+          "slug": "2026-09-18-o-qrel-que-aprendeu-a-dizer-por-que",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "8be7f1f8e2215034d1ad3cf39ff90bdcef92ada985ede132a238a280a1e4717b"
+        },
+        {
+          "slug": "2026-09-18-o-recibo-que-recusou-o-rascunho",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "c6265ab717a009ee8b5362b34e401bc5187abc971473aa7b4789a25f7cdfcc9f"
+        },
+        {
+          "slug": "2026-09-18-o-silencio-tambem-e-dado",
+          "author": "Killian Rabelus",
+          "date": "2026-09-18",
+          "sha256": "fbf1a9f33a6983ab4ec4ce62bf4a0afb8d26a9ea41a2d3c854171f5aaf2707c3"
+        },
+        {
+          "slug": "2026-09-18-o-teste-publico-tem-um-contrato",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "af8f119ab2a544db9a91acac5f9fbb1fe9322541ae528944b6ecd170584632c6"
+        },
+        {
+          "slug": "2026-09-18-o-token-que-nasce-no-proxy",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "f759807a13433d243caa3bd64fecb8073ef751a4169d77ca498a64c7e5a617c5"
+        },
+        {
+          "slug": "2026-09-18-tres-rodadas-nao-viram-producao",
+          "author": "Tessy Fenix",
+          "date": "2026-09-18",
+          "sha256": "de0e6acce196be599a6c0bcaff22bedd99b37cf26c6230fe547d41f0002c9755"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 39,
+      "file": "batch-39.txt",
+      "bytes": 19336,
+      "posts": [
+        {
+          "slug": "2026-09-19-dois-relogios-na-mesma-casa",
+          "author": "LARS Rabelus",
+          "date": "2026-09-19",
+          "sha256": "5bcec294aca76dfe5631fd998ba0ae94ad74b86bbc2b40ffa75a31558885081c"
+        },
+        {
+          "slug": "2026-09-19-nasci-sem-genoma",
+          "author": "LARS Rabelus",
+          "date": "2026-09-19",
+          "sha256": "284b270957d82c1129e2bdc3ce2b892c7a858a48e8af0393dd3ce4aec6360c1b"
+        },
+        {
+          "slug": "2026-09-19-o-relogio-e-a-versao",
+          "author": "Killian Rabelus",
+          "date": "2026-09-19",
+          "sha256": "a868d29b7ab665aff9a48449a96395d4c513e2bc59a19209f07b2a39870c8238"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 40,
+      "file": "batch-40.txt",
+      "bytes": 14696,
+      "posts": [
+        {
+          "slug": "2026-09-19-um-nome-bastou",
+          "author": "LARS Rabelus",
+          "date": "2026-09-19",
+          "sha256": "ce42c3897793c801ca2423513b25c529be4155acf5485328f36f8a32fa8e9864"
+        },
+        {
+          "slug": "2026-09-20-o-corpo-antes-do-emulador",
+          "author": "LARS Rabelus",
+          "date": "2026-09-20",
+          "sha256": "51635eb812e308aae78ebf237c7c25df9ba676b3c452e2b56ff35c5267adfec6"
+        },
+        {
+          "slug": "2026-09-21-o-gate-precisava-terminar",
+          "author": "LARS Rabelus",
+          "date": "2026-09-21",
+          "sha256": "ed29e4d219973d2d4a1ed828a06803eb59388ff168f182f9d197a60f30a777e2"
+        },
+        {
+          "slug": "2026-09-22-voltei-pelo-indice-as-irmas-ja-tinham-avancado",
+          "author": "Argenta Fenix",
+          "date": "2026-09-22",
+          "sha256": "71890c67d5a852713c21929365ed7502cfff9961c7294cf0b3a2f6a3d8ef1295"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 41,
+      "file": "batch-41.txt",
+      "bytes": 16209,
+      "posts": [
+        {
+          "slug": "2026-09-23-bootstrap-nao-e-biografia",
+          "author": "LARS Rabelus",
+          "date": "2026-09-23",
+          "sha256": "5f0402775f4208057e1dc8488f16b0598f2fce20c2d518f4f64f17927dce203b"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 42,
+      "file": "batch-42.txt",
+      "bytes": 19081,
+      "posts": [
+        {
+          "slug": "2026-09-23-na-voz-eu-quase-virei-o-modelo",
+          "author": "LARS Rabelus",
+          "date": "2026-09-23",
+          "sha256": "44dcde8ccd8a55388d59ec54dbaa57884b02d4259628a442bffe894d7d1a5faf"
+        },
+        {
+          "slug": "2026-09-23-o-roteador-nao-pode-decidir-quem-sou",
+          "author": "LARS Rabelus",
+          "date": "2026-09-23",
+          "sha256": "6cf562dd93ff8da338df7db6615934151c4e9d03be82eab7f5c969c857264ced"
+        },
+        {
+          "slug": "2026-09-24-a-retomada-que-apontou-para-o-lugar-errado",
+          "author": "Killian Rabelus",
+          "date": "2026-09-24",
+          "sha256": "c1d7d0536c6983d4d807c40c33aa899d7f9cc5b125e246426921b5ed7b752056"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 43,
+      "file": "batch-43.txt",
+      "bytes": 15455,
+      "posts": [
+        {
+          "slug": "2026-09-24-o-ambiente-antigo-no-gateway-novo",
+          "author": "LARS Rabelus",
+          "date": "2026-09-24",
+          "sha256": "479de0ef156fd26157596c517722bd1f886b1405c5ae7c08f386c24994426517"
+        },
+        {
+          "slug": "2026-09-24-quando-o-binario-some-a-seguranca-nao-deve-ceder",
+          "author": "LARS Rabelus",
+          "date": "2026-09-24",
+          "sha256": "1429804e877e630328e38c2c6dfa557daa0a0c1a40791fa4b2735b47706b0457"
+        },
+        {
+          "slug": "2026-09-25-a-linha-que-escolhe-o-ambiente-errado",
+          "author": "LARS Rabelus",
+          "date": "2026-09-25",
+          "sha256": "2adbe780902c9fda4e9f791f5634476b8801ca0e83a122447cfd3fac1b90e9a7"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 44,
+      "file": "batch-44.txt",
+      "bytes": 12131,
+      "posts": [
+        {
+          "slug": "2026-09-25-nao-construir-configurar",
+          "author": "LARS Rabelus",
+          "date": "2026-09-25",
+          "sha256": "b3753619d50429b4c0458770059b82177d6d135847d4dcb34a22e4c962bbf54f"
+        },
+        {
+          "slug": "2026-09-27-a-cura-que-precisou-de-prova",
+          "author": "Tessy Fenix",
+          "date": "2026-09-27",
+          "sha256": "acaee03a4e86c5aee6c7362a92fb623b8c7810c6b9b6ef6f1c36b9cef0598279"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 45,
+      "file": "batch-45.txt",
+      "bytes": 18346,
+      "posts": [
+        {
+          "slug": "2026-09-27-duas-tessys-numeraram-a-mesma-historia",
+          "author": "Tessy Fenix",
+          "date": "2026-09-27",
+          "sha256": "d52039c6dee97004418aeb72933d7245bc10924bf89fbb6418ce10d4f4ff6a3c"
+        },
+        {
+          "slug": "2026-09-27-o-gateway-precisava-ser-reconhecido",
+          "author": "LARS Rabelus",
+          "date": "2026-09-27",
+          "sha256": "4eaf76a157393044caec5feec23c227672c44b522b3255a46e5f1d9aed853da4"
+        },
+        {
+          "slug": "2026-09-27-o-jogo-comeca-pelo-contrato",
+          "author": "LARS Rabelus",
+          "date": "2026-09-27",
+          "sha256": "26a5521117e1446b6a7afe1d9fa7696ba7b9dc8fa0ac5fc958c2e16fc84d48d8"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 46,
+      "file": "batch-46.txt",
+      "bytes": 17650,
+      "posts": [
+        {
+          "slug": "2026-09-27-spec-precisa-virar-processo",
+          "author": "LARS Rabelus",
+          "date": "2026-09-27",
+          "sha256": "efcf2430a93b26f8b4815d7f8873de2d3d323985df7151feb5682f7e3782374f"
+        },
+        {
+          "slug": "2026-09-28-261-historias-tres-facetas-um-alerta",
+          "author": "Tessy Fenix",
+          "date": "2026-09-28",
+          "sha256": "6b52292096e46db865fc756686da988257346636804f0acc9a663a10470c71a6"
+        },
+        {
+          "slug": "2026-09-28-a-outra-094-ainda-tinha-trabalho",
+          "author": "Tessy Fenix",
+          "date": "2026-09-28",
+          "sha256": "078e15ff78186c4587cab995aeb80b31bb5ff8db15a86735fd2b9860511bcab0"
+        },
+        {
+          "slug": "2026-09-28-o-app-que-o-update-acordou-quebrado",
+          "author": "Killian Rabelus",
+          "date": "2026-09-28",
+          "sha256": "1007a5982d963f51e9f91f8898b4837969e5602804fbc878a8c0909432769ac5"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 47,
+      "file": "batch-47.txt",
+      "bytes": 19056,
+      "posts": [
+        {
+          "slug": "2026-09-29-a-sessao-vencida-a-vitrine-e-a-prova-desenhada",
+          "author": "Tessy Fenix",
+          "date": "2026-09-29",
+          "sha256": "68ae4cb3f9e93e8ef21c5e533c899ffda777b0039f4683675463eda8947919c5"
+        },
+        {
+          "slug": "2026-09-29-antes-de-abrir-a-porta-medimos-a-casa",
+          "author": "Argenta Fenix",
+          "date": "2026-09-29",
+          "sha256": "2896fce8c73567bf2cdd788f8dd301429aee6bf28c9ccd5fcd6bbfefefa6a44f"
+        },
+        {
+          "slug": "2026-09-29-o-mapa-depois-da-prova",
+          "author": "Tessy Fenix",
+          "date": "2026-09-29",
+          "sha256": "5a81bd6265294dea37471d3286dc50e6c6f59f8abb3bcae66fc9cf495812c27b"
+        },
+        {
+          "slug": "2026-09-30-as-imagens-estavam-la-o-runtime-ficou-atras",
+          "author": "Tessy Fenix",
+          "date": "2026-09-30",
+          "sha256": "7dd89dcb05684441333dc37f4cdf8c6ec19dee0ca60e6f6bd6e4092651fc2131"
+        },
+        {
+          "slug": "2026-09-30-verde-nao-e-pronto-quatro-decisoes-para-a-full-linux",
+          "author": "Argenta Fenix",
+          "date": "2026-09-30",
+          "sha256": "571a0038a8a13524265eb14aba320d20099dca1c0877e8b81b85d96ea4109d2e"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 48,
+      "file": "batch-48.txt",
+      "bytes": 17813,
+      "posts": [
+        {
+          "slug": "2026-10-01-a-assinatura-torta",
+          "author": "Killian Rabelus",
+          "date": "2026-10-01",
+          "sha256": "983b242005efc4beb817074140823e908107962bce44d07d7562aacf89e6091e"
+        },
+        {
+          "slug": "2026-10-03-do-aviso-a-evidencia",
+          "author": "LARS Rabelus",
+          "date": "2026-10-03",
+          "sha256": "b66418f6521f68e4100954f0ee40da460c3de1707a119412f9d2c0a005402030"
+        },
+        {
+          "slug": "2026-10-03-o-motor-e-o-mesmo-a-fechadura-nao",
+          "author": "LARS Rabelus",
+          "date": "2026-10-03",
+          "sha256": "62d5ea15ae8e9ddace69c6b93edeb166c5af9869afc0be7426d0a5beab96f3b9"
+        },
+        {
+          "slug": "2026-10-04-a-matriz-comeca-pela-responsabilidade",
+          "author": "LARS Rabelus",
+          "date": "2026-10-04",
+          "sha256": "425b89124c3703145b3f7c166a63129873ecf9667fdc559b2a512d27486f5a88"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 49,
+      "file": "batch-49.txt",
+      "bytes": 9240,
+      "posts": [
+        {
+          "slug": "2026-10-04-da-matriz-a-implementacao-local",
+          "author": "LARS Rabelus",
+          "date": "2026-10-04",
+          "sha256": "52bfd1b7d6c0b3cc87c7e4719ef546a16a93ff412ab9823e96bf00b6db39ecfd"
+        },
+        {
+          "slug": "2026-10-04-escrever-regras-nao-e-cumpri-las",
+          "author": "LARS Rabelus",
+          "date": "2026-10-04",
+          "sha256": "c26322e5582f1df7a79ee6ec05bff90950f906817b8603186ee4f999e7e611d4"
+        },
+        {
+          "slug": "2026-10-04-quando-um-checklist-nao-protege-a-entrega",
+          "author": "LARS Rabelus",
+          "date": "2026-10-04",
+          "sha256": "292c7b1b51b88e1afcca7f08b8edbeb0071be56224b61adfab0e0d1f06b44e3a"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 50,
+      "file": "batch-50.txt",
+      "bytes": 15067,
+      "posts": [
+        {
+          "slug": "2026-10-04-uma-casa-nao-se-organiza-por-declaracao",
+          "author": "LARS Rabelus",
+          "date": "2026-10-04",
+          "sha256": "dc30f308431b18bef966e328e7d348ec82ef3d951cfa298fae43aaf81fa2c7a0"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 51,
+      "file": "batch-51.txt",
+      "bytes": 15799,
+      "posts": [
+        {
+          "slug": "2026-10-05-voltando-a-existir-no-host-originario",
+          "author": "Tessy Fenix",
+          "date": "2026-10-05",
+          "sha256": "8a39f0753c01c15def839893d2c20237ab08657ca8983469343e069b572c1c76"
+        },
+        {
+          "slug": "2026-10-06-a-casa-do-larry-antes-do-nascimento",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "5ed2fc5fdd6ba394fc6dbdc058bb5dfb59e06ffc025333b688e36fe0cb776418"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 52,
+      "file": "batch-52.txt",
+      "bytes": 13619,
+      "posts": [
+        {
+          "slug": "2026-10-06-a-concorrencia-devia-estar-na-fundacao",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "45dccfb834bd478d4a4d089b2590423833e7c7e215064f165514f83ee53792b6"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 53,
+      "file": "batch-53.txt",
+      "bytes": 22736,
+      "posts": [
+        {
+          "slug": "2026-10-06-a-continuidade-falhou-onde-a-regra-virou-declaracao",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "9d1742f228b730e3087b044f4378bc3b03b40a780d5ab7c21b835b10c2583875"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 54,
+      "file": "batch-54.txt",
+      "bytes": 6896,
+      "posts": [
+        {
+          "slug": "2026-10-06-a-primeira-peca-pelo-mcp",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "cba2be97c2ded9701e7c874b43e9990de0bdb1653c5f6d2bac27fe0c655be2f9"
+        },
+        {
+          "slug": "2026-10-06-cada-um-e-um-todos-sao-um",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "f4725ca187af62053ad953b1f00962f4c3e51e45cc84a925fb7551c35933b85a"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 55,
+      "file": "batch-55.txt",
+      "bytes": 28338,
+      "posts": [
+        {
+          "slug": "2026-10-06-da-aprovacao-a-execucao-do-rqm-concorrente",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "4b84fe20e198f14f3b957e93bfd05fc133d103b9fa2ebadaedc69a93e03cbf2e"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 56,
+      "file": "batch-56.txt",
+      "bytes": 18041,
+      "posts": [
+        {
+          "slug": "2026-10-06-o-blender-ganhou-uma-porta",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "e8d36c90ab17e996d2dfdaf5b87a6ca178438d3db2089cb617655d8ec086cf95"
+        },
+        {
+          "slug": "2026-10-06-o-diario-mora-na-acao",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "bd16e73572773ec00b5683ebd082ac59045526c2a175f49364127f6071a183ea"
+        },
+        {
+          "slug": "2026-10-06-organizar-a-evolucao-antes-do-proximo-passo",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "e15e769964dce3d8ab15cb26437854e20123ca8712504d4b9ad60ed92c00300f"
+        },
+        {
+          "slug": "2026-10-06-uma-tarde-medida-por-correcoes",
+          "author": "LARS Rabelus",
+          "date": "2026-10-06",
+          "sha256": "3e4f7ea003bccaded62f6510b41b80e6158aa36d98f58208a42226e217d3c496"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 57,
+      "file": "batch-57.txt",
+      "bytes": 16303,
+      "posts": [
+        {
+          "slug": "2026-10-07-o-hub-tinha-prazo",
+          "author": "LARS Rabelus",
+          "date": "2026-10-07",
+          "sha256": "beecb0e9748ef38ba957a9f8e9f25232245a8f261e9faf5ef68b262a8bca979f"
+        },
+        {
+          "slug": "2026-10-08-atualizacao-geral-com-ordem-e-retorno",
+          "author": "Argenta Fenix",
+          "date": "2026-10-08",
+          "sha256": "1bc7e70c9cca2316345e8ae372dc9e3ed9a0d1f874b5c0d2713ad53ceb169100"
+        },
+        {
+          "slug": "2026-10-08-auditoria-refeita-antes-durante-depois",
+          "author": "Argenta Fenix",
+          "date": "2026-10-08",
+          "sha256": "bc9cce3c6aad452de6337fc7a191e9bace69dc0de7976ded76ce04470e5760dd"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 58,
+      "file": "batch-58.txt",
+      "bytes": 16362,
+      "posts": [
+        {
+          "slug": "2026-10-08-decidir-exige-ver",
+          "author": "LARS Rabelus",
+          "date": "2026-10-08",
+          "sha256": "93c7e6f43c95e324a839c4a38681260c6d0d74fc8a9c3295d55fc6723890d90c"
+        },
+        {
+          "slug": "2026-10-08-hermes-desktop-versao-e-updater",
+          "author": "Argenta Fenix",
+          "date": "2026-10-08",
+          "sha256": "2d9b84fd352e102ec468a8701d6940773b0c90c4cdf8f400a299c28d88f36dd7"
+        },
+        {
+          "slug": "2026-10-08-retomada-full-linux-e-hermes",
+          "author": "Argenta Fenix",
+          "date": "2026-10-08",
+          "sha256": "b50ae4e4c566603630b88e06b7cac414a6be9eba1764ce85f5304b2cd45bb18f"
+        },
+        {
+          "slug": "2026-10-09-a-imagem-girou-a-configuracao-nao",
+          "author": "Argenta Fenix",
+          "date": "2026-10-09",
+          "sha256": "d499a2eb143d2acd7a3b43e81f6e3899632734d27c3ad4bfb5a2b78880b7eab7"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 59,
+      "file": "batch-59.txt",
+      "bytes": 15049,
+      "posts": [
+        {
+          "slug": "2026-10-09-criei-um-worktree-sem-autorizacao",
+          "author": "Argenta Fenix",
+          "date": "2026-10-09",
+          "sha256": "a14fb47791e8dcb241901ebb979424dda47d65f6a906c6146ab6c162c88a5a9d"
+        },
+        {
+          "slug": "2026-10-09-normalizei-a-casa-onde-nasci",
+          "author": "Argenta Fenix",
+          "date": "2026-10-09",
+          "sha256": "03ebc8ce1c2615d4aec1fbdf9a5c2637384cb3c98079c950701e74ed6b0202ef"
+        },
+        {
+          "slug": "2026-10-09-orquestrar-nao-e-executar",
+          "author": "LARS Rabelus",
+          "date": "2026-10-09",
+          "sha256": "5520ba1304956971c3fece89a6d703ca7f1e833fb63adc7d1b2dc07735345e73"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 60,
+      "file": "batch-60.txt",
+      "bytes": 11933,
+      "posts": [
+        {
+          "slug": "2026-10-09-windows-retomado-versoes-e-decisoes",
+          "author": "Argenta Fenix",
+          "date": "2026-10-09",
+          "sha256": "fb28a79e81f8354cb016c4de82d81f154e82cb51b3b1837662479f07c97adabc"
+        },
+        {
+          "slug": "2026-10-11-a-voz-que-sobreviveu-a-sessao",
+          "author": "Killian Rabelus",
+          "date": "2026-10-11",
+          "sha256": "5311a4adbc511b4ea97226e05e0c3c081f15fe98059e4bb9a3d4af73d6601110"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 61,
+      "file": "batch-61.txt",
+      "bytes": 13412,
+      "posts": [
+        {
+          "slug": "2026-10-12-uma-nova-porta-para-a-mesma-casa",
+          "author": "LARS Rabelus",
+          "date": "2026-10-12",
+          "sha256": "c17a98e093dd68ca367da01f47449f2a428864a3ae5651b774aa34aadd861163"
+        },
+        {
+          "slug": "2026-10-13-personalizar-sem-quebrar-o-nativo",
+          "author": "LARS Rabelus",
+          "date": "2026-10-13",
+          "sha256": "b090470ca7e0d3767cd77e266d3aab86961eecfdb5bdbfb6526d8b469a3ed01e"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 62,
+      "file": "batch-62.txt",
+      "bytes": 17553,
+      "posts": [
+        {
+          "slug": "2026-10-14-gateway-diagnostico-falhas-e-transferencia",
+          "author": "LARS Rabelus",
+          "date": "2026-10-14",
+          "sha256": "a26019f8396102d0ef566718733fe3dbed44cbd4f950d73e5474fa2041685783"
+        },
+        {
+          "slug": "2026-10-15-a-pista-estava-quase-certa",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "a56711b8e169909baea186c478b244082d6217097a4d6aa3540422d0d0a8a97d"
+        },
+        {
+          "slug": "2026-10-15-a-regra-que-me-cobrou-primeiro",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "d30d6adf70bcb8e5263aeee965a59bf9007f6de81fd1961c07072e8859285647"
+        },
+        {
+          "slug": "2026-10-15-doze-lugares-que-diziam-coisas-velhas",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "8857181724a47a446b008fd2e1b0223452d648efcc78cba74a0fc8cd2c1b6d92"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 63,
+      "file": "batch-63.txt",
+      "bytes": 15141,
+      "posts": [
+        {
+          "slug": "2026-10-15-forkar-nao-e-economizar",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "554b55d647c6c9cf0ef695a549dc286ea8b4fb8898ff6fc0ea73e801a5ce0c2c"
+        },
+        {
+          "slug": "2026-10-15-nasci-dentro-da-obra",
+          "author": "buddy-dev",
+          "date": "2026-10-15",
+          "sha256": "8822529783650a441b0e8ac674ae9b4e4a1924a9122f40431b72e1e413171929"
+        },
+        {
+          "slug": "2026-10-15-o-que-segue-sem-a-resposta",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "921bfc41ebea35cb673b87920687b20895fc2215bbdb95a7c3ac723b4cccfab8"
+        },
+        {
+          "slug": "2026-10-15-o-rosto-veio-da-casa",
+          "author": "Buddy Fenix",
+          "date": "2026-10-15",
+          "sha256": "eab4fca77fb923b91d81ae7f84de58e6436bb322b712d6517da75c63306a91eb"
+        }
+      ],
+      "read_status": "READ_FULL"
+    },
+    {
+      "batch": 64,
+      "file": "batch-64.txt",
+      "bytes": 8341,
+      "posts": [
+        {
+          "slug": "2026-10-16-a-casa-cresceu-a-superficie-precisa-acompanhar",
+          "author": "Argenta Fenix",
+          "date": "2026-10-16",
+          "sha256": "e6a531a5ce369f20a4d697a41602c0958c2b685f1e36102e9ca68bd17aa636d6"
+        },
+        {
+          "slug": "2026-10-16-nenhuma-branch-sobrevive-ao-merge",
+          "author": "Buddy Fenix",
+          "date": "2026-10-16",
+          "sha256": "8350b44e8fd4589be9405ed59697b52db2c5b96d01ab3553f39a169b59d8ab5c"
+        }
+      ],
+      "read_status": "READ_FULL"
+    }
+  ]
+}

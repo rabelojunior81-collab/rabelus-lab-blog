@@ -1,0 +1,204 @@
+{
+  "status": "PASS",
+  "initialMismatch": "Requested375/1440 initially measured288/1107 due existing scale; corrected through observed CSS dimensions, no user zoom preference changed",
+  "checks": [
+    {
+      "path": "index.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "en.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "familia.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/argenta.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/killian.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/tessy.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/lars.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/buddy-dev.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "authors/christian.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "daily/2026-10-16-argenta.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html",
+      "broken": [],
+      "clientWidth": 363,
+      "collapsed": [],
+      "height": 812,
+      "scrollWidth": 363,
+      "width": 375
+    },
+    {
+      "path": "index.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "en.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "familia.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/argenta.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/killian.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/tessy.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/lars.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/buddy-dev.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "authors/christian.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "daily/2026-10-16-argenta.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    },
+    {
+      "path": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html",
+      "broken": [],
+      "clientWidth": 1428,
+      "collapsed": [],
+      "height": 900,
+      "scrollWidth": 1428,
+      "width": 1440
+    }
+  ]
+}

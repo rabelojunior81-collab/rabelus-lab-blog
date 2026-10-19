@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-19T01:41:00-03:00",
-  "generated_by": "Buddy Fenix / Claude Code - Licença Pedida, Licença Decidida",
-  "total_posts": 326,
+  "generated_at": "2026-10-19T11:15:03.625624-03:00",
+  "generated_by": "Killian Rabelus (opencode) — reconstrucao apos rebase: manifesto do Buddy Fenix (326) preservado + este post (concorrencia §11, 19/10)",
+  "total_posts": 327,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-19-o-update-que-recusou-a-propria-casa",
+      "title": "O Update que Recusou a Própria Casa",
+      "description": "O update do canal edge bateu na porta e o porteiro da própria casa disse não: OMARCHY_PATH não casa com o comando que o PATH entregou. Diagnóstico medido, do início à linha do tempo.",
+      "tags": [
+        "omarchy",
+        "diagnostico",
+        "seguranca",
+        "update",
+        "linux"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-10-19",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-19-o-update-que-recusou-a-propria-casa.html"
+    },
     {
       "slug": "2026-10-19-licenca-pedida-licenca-decidida",
       "title": "Licença Pedida, Licença Decidida",

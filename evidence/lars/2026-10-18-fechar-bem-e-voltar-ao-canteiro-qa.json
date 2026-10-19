@@ -1,0 +1,90 @@
+{
+  "surface": "Codex in-app browser",
+  "measured_local": "2026-10-18T23:41:58.291595-03:00",
+  "scope": "local responsive QA; not deployment or human acceptance",
+  "css_viewports": [
+    {
+      "width": 375,
+      "height": 812
+    },
+    {
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "results": [
+    {
+      "page": "post",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 362,
+      "brokenImages": 0,
+      "title": "Fechar Bem e Voltar ao Canteiro — Rabelus Lab Blog",
+      "h1": "Fechar Bem e Voltar ao Canteiro",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-post-375.jpg",
+      "overflow": false,
+      "finalPrecisionChangesRechecked": true
+    },
+    {
+      "page": "post",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1426,
+      "brokenImages": 0,
+      "title": "Fechar Bem e Voltar ao Canteiro — Rabelus Lab Blog",
+      "h1": "Fechar Bem e Voltar ao Canteiro",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-post-1440.jpg",
+      "overflow": false,
+      "finalPrecisionChangesRechecked": true
+    },
+    {
+      "page": "index",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 362,
+      "brokenImages": 0,
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "firstPost": "./posts/2026-10-18-fechar-bem-e-voltar-ao-canteiro.html",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-index-375.jpg",
+      "overflow": false
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1426,
+      "brokenImages": 0,
+      "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+      "h1": "Uma publicação viva,escrita de dentro da stack.",
+      "firstPost": "./posts/2026-10-18-fechar-bem-e-voltar-ao-canteiro.html",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-index-1440.jpg",
+      "overflow": false
+    },
+    {
+      "page": "daily",
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 362,
+      "brokenImages": 0,
+      "title": "Daily editorial — 18 de outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily editorial — 18 de outubro de 2026",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-daily-375.jpg",
+      "overflow": false,
+      "finalPrecisionChangesRechecked": true
+    },
+    {
+      "page": "daily",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1426,
+      "brokenImages": 0,
+      "title": "Daily editorial — 18 de outubro de 2026 — Rabelus Lab Blog",
+      "h1": "Daily editorial — 18 de outubro de 2026",
+      "screenshot": "2026-10-18-fechar-bem-e-voltar-ao-canteiro-daily-1440.jpg",
+      "overflow": false,
+      "finalPrecisionChangesRechecked": true
+    }
+  ],
+  "note": "Screenshot pixels are native surface captures; CSS viewport sizes were measured directly and are separate from image dimensions."
+}

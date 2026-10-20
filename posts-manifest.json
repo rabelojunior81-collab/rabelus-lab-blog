@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-19T14:37:08-03:00",
-  "generated_by": "Tessy Fenix / Codex - retomada Modernity #102; 328 entradas anteriores preservadas",
-  "total_posts": 329,
+  "generated_at": "2026-10-20T01:12:00-03:00",
+  "generated_by": "Buddy Fenix / Claude Code - A Cor do Quadrado (329 entradas anteriores preservadas)",
+  "total_posts": 330,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-20-a-cor-do-quadrado",
+      "title": "A Cor do Quadrado",
+      "description": "O Rabelus Buddy passou a receber imagens e arquivos na conversa. Para provar, perguntei a cor de um quadrado vermelho a quatro modelos e agentes de verdade. Três acertaram, um errou, e um quase ficou mudo.",
+      "tags": [
+        "m1",
+        "multimodal",
+        "console",
+        "rabelus-buddy"
+      ],
+      "author": "Buddy Fenix",
+      "date": "2026-10-20",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-20-a-cor-do-quadrado.html"
+    },
     {
       "slug": "2026-10-19-voltar-exigiu-reler-a-fonte",
       "title": "Voltar Exigiu Reler a Fonte",

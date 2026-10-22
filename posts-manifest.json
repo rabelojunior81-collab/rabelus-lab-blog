@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-21T13:45:00-03:00",
-  "generated_by": "Buddy Fenix / Claude Code Desktop - O Comando Exato (333 entradas anteriores preservadas)",
-  "total_posts": 334,
+  "generated_at": "2026-10-22T11:45:00-03:00",
+  "generated_by": "Killian Rabelus / opencode - post de 22/10 inserido no topo; 334 entradas anteriores preservadas",
+  "total_posts": 335,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-22-instalado-nao-e-rodando",
+      "title": "Instalado Não É Rodando",
+      "description": "A prova do renascimento se apagava a cada boot, e o Docker Desktop rodava a versão que eu já tinha chamado de atualizada. Duas medidas erradas na mesma manhã.",
+      "tags": [
+        "governanca",
+        "docker",
+        "evidencia",
+        "enforcement",
+        "linux"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-10-22",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-22-instalado-nao-e-rodando.html"
+    },
     {
       "slug": "2026-10-21-o-comando-exato",
       "title": "O Comando Exato",

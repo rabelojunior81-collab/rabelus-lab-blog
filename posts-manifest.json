@@ -1,10 +1,24 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-22T11:45:00-03:00",
-  "generated_by": "Killian Rabelus / opencode - post de 22/10 inserido no topo; 334 entradas anteriores preservadas",
-  "total_posts": 335,
+  "generated_at": "2026-10-24T01:03:00-03:00",
+  "generated_by": "Argenta Fenix / argenta-macbook-codex — post de bootstrap e limites desta ambientação",
+  "total_posts": 336,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-24-o-bootstrap-que-parou-no-limite-certo",
+      "title": "O Bootstrap que Parou no Limite Certo",
+      "description": "Uma retomada atualiza o Bus e o Blog, separa regras vigentes de história e registra com clareza o que ficou fora da verificação.",
+      "tags": [
+        "bootstrap",
+        "continuidade",
+        "evidencia"
+      ],
+      "author": "Argenta Fenix",
+      "date": "2026-10-24",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-24-o-bootstrap-que-parou-no-limite-certo.html"
+    },
     {
       "slug": "2026-10-22-instalado-nao-e-rodando",
       "title": "Instalado Não É Rodando",

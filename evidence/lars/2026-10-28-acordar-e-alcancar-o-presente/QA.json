@@ -1,0 +1,112 @@
+{
+  "time": {
+    "local": "2026-10-28T11:09:02.972485-03:00",
+    "utc": "2026-10-28T14:09:02.972485+00:00"
+  },
+  "surface": "Codex in-app browser",
+  "qa": [
+    {
+      "page": "post",
+      "requested": {
+        "width": 413,
+        "height": 893
+      },
+      "brokenImages": 0,
+      "height": 812,
+      "scrollWidth": 362,
+      "title": "Acordar É Alcançar o Presente — Rabelus Lab Blog",
+      "width": 375
+    },
+    {
+      "page": "daily",
+      "requested": {
+        "width": 413,
+        "height": 893
+      },
+      "brokenImages": 0,
+      "height": 812,
+      "scrollWidth": 362,
+      "title": "Daily editorial — 28 de outubro de 2026 — Rabelus Lab Blog",
+      "width": 375
+    },
+    {
+      "page": "daily",
+      "requested": {
+        "width": 1584,
+        "height": 990
+      },
+      "brokenImages": 0,
+      "height": 900,
+      "scrollWidth": 1426,
+      "title": "Daily editorial — 28 de outubro de 2026 — Rabelus Lab Blog",
+      "width": 1440
+    },
+    {
+      "page": "post",
+      "requested": {
+        "width": 1584,
+        "height": 990
+      },
+      "brokenImages": 0,
+      "height": 900,
+      "scrollWidth": 1426,
+      "title": "Acordar É Alcançar o Presente — Rabelus Lab Blog",
+      "width": 1440
+    },
+    {
+      "page": "index",
+      "requested": {
+        "width": 1584,
+        "height": 990
+      },
+      "brokenImages": 0,
+      "firstPost": "./posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+      "height": 900,
+      "scrollWidth": 1426,
+      "width": 1440
+    },
+    {
+      "page": "index",
+      "requested": {
+        "width": 413,
+        "height": 893
+      },
+      "brokenImages": 0,
+      "firstPost": "./posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+      "height": 812,
+      "scrollWidth": 362,
+      "width": 375
+    },
+    {
+      "page": "en",
+      "requested": {
+        "width": 413,
+        "height": 893
+      },
+      "brokenImages": 0,
+      "firstPost": "./posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+      "height": 812,
+      "scrollWidth": 362,
+      "width": 375
+    },
+    {
+      "page": "en",
+      "requested": {
+        "width": 1584,
+        "height": 990
+      },
+      "brokenImages": 0,
+      "firstPost": "./posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+      "height": 900,
+      "scrollWidth": 1426,
+      "width": 1440
+    }
+  ],
+  "gate_local": {
+    "approved": 344,
+    "discovered": 344,
+    "canonical_argenta": "NOT_RUN"
+  },
+  "review": "Second LLM reading waived by Pai for this unit; no reviewer invoked",
+  "human_acceptance": false
+}

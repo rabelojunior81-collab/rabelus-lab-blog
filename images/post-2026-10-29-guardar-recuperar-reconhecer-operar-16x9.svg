@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" style="max-width:100%;height:auto" role="img" aria-labelledby="title desc">
+<title id="title">Arquitetura proposta: guardar, recuperar, reconhecer e operar</title>
+<desc id="desc">Pessoas entram por identidade e a aplicação verifica permissões antes de acessar catálogo e objetos. Backup independente protege o conjunto. Inferência pessoal usa runtime e autorização próprios. Docker Linux, deploy e telemetria sustentam a operação; Proxmox é opção de base do Homelab. Proposta conceitual, sem implantação.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8fb054"/></marker><marker id="fire" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ff6b35"/></marker></defs>
+<rect width="1920" height="1080" fill="#080c05"/>
+<style>text{font-family:Inter,Arial,sans-serif;fill:#f3f8e9}.eyebrow{font-size:20px;font-weight:700;letter-spacing:3px;fill:#8fb054}.heading{font-size:29px;font-weight:700}.line{font-size:22px;fill:#cde0ab}.small{font-size:19px;fill:#cde0ab}.edge{fill:none;stroke:#8fb054;stroke-width:3;marker-end:url(#arrow)}.optional{fill:none;stroke:#ff6b35;stroke-width:3;stroke-dasharray:10 8;marker-end:url(#fire)}.box{fill:#11190c;stroke:#45552a;stroke-width:2}.accent{stroke:#8fb054}.orange{stroke:#ff6b35}</style>
+<rect x="64" y="52" width="22" height="22" fill="#ff6b35"/>
+<text x="104" y="73" class="eyebrow">RABELUS LAB</text>
+<text x="64" y="137" font-size="45" font-weight="800">Guardar, recuperar, reconhecer e operar</text>
+<text x="64" y="180" class="line">Quatro responsabilidades conectadas · proposta conceitual · pesquisa de 29/10/2026</text>
+<path d="M64 204 H1856" stroke="#45552a" stroke-width="2"/>
+
+<rect x="64" y="250" width="320" height="130" class="box "/>
+<text x="88" y="291" class="heading">PESSOAS</text>
+<text x="88" y="328" class="line">Conta individual</text>
+<text x="88" y="359" class="line">Acesso ao projeto</text>
+<rect x="448" y="250" width="320" height="155" class="box accent"/>
+<text x="472" y="291" class="heading">IDENTIDADE</text>
+<text x="472" y="328" class="line">OIDC / passkeys</text>
+<text x="472" y="359" class="line">Face: opção a validar</text>
+<text x="472" y="390" class="line">Sessão própria do app</text>
+<rect x="832" y="250" width="400" height="130" class="box accent"/>
+<text x="856" y="291" class="heading">APLICAÇÃO</text>
+<text x="856" y="328" class="line">Permissões por pessoa e ativo</text>
+<text x="856" y="359" class="line">Confirmação dos uploads</text>
+<rect x="1296" y="250" width="560" height="130" class="box orange"/>
+<text x="1320" y="291" class="heading">PROVEDORES DE LINGUAGEM</text>
+<text x="1320" y="328" class="line">ChatGPT: plano individual, se elegível</text>
+<text x="1320" y="359" class="line">OpenCode: API e condições próprias</text>
+<path d="M384 315 H448" class="edge"/>
+<path d="M768 315 H832" class="edge"/>
+<rect x="64" y="470" width="320" height="166" class="box orange"/>
+<text x="88" y="511" class="heading">PLANO PESSOAL</text>
+<text x="88" y="548" class="line">Runtime e consentimento</text>
+<text x="88" y="579" class="line">sob controle do usuário</text>
+<text x="88" y="610" class="line">Opção separada do login</text>
+<rect x="448" y="470" width="320" height="166" class="box "/>
+<text x="472" y="511" class="heading">CATÁLOGO</text>
+<text x="472" y="548" class="line">Banco de metadados</text>
+<text x="472" y="579" class="line">Projetos e vínculos</text>
+<text x="472" y="610" class="line">Referências dos objetos</text>
+<rect x="832" y="470" width="400" height="166" class="box accent"/>
+<text x="856" y="511" class="heading">OBJETOS DE MÍDIA</text>
+<text x="856" y="548" class="line">S3 / compatível</text>
+<text x="856" y="579" class="line">Originais e derivados</text>
+<text x="856" y="610" class="line">Lab, VPS ou gerenciado</text>
+<rect x="1296" y="470" width="560" height="166" class="box accent"/>
+<text x="1320" y="511" class="heading">BACKUP RECUPERÁVEL</text>
+<text x="1320" y="548" class="line">Objetos + catálogo + chaves de recuperação</text>
+<text x="1320" y="579" class="line">Original + 2 backups independentes</text>
+<text x="1320" y="610" class="line">Cópia externa e offline / imutável</text>
+<path d="M224 380 V470" class="optional"/>
+<path d="M384 550 H412 V420 H1576 V380" class="optional"/>
+<path d="M1032 380 V470" class="edge"/>
+<path d="M1032 405 H608 V470" class="edge"/>
+<path d="M1232 553 H1296" class="edge"/>
+<path d="M608 636 V688 H1576 V636" class="edge"/>
+<text x="900" y="678" class="small">captura consistente</text>
+<rect x="64" y="756" width="704" height="152" class="box "/>
+<text x="88" y="797" class="heading">BASE E DEPLOY</text>
+<text x="88" y="834" class="line">Docker Engine Linux + Compose ou PaaS</text>
+<text x="88" y="865" class="line">Swarm / k3s quando o requisito justificar</text>
+<text x="88" y="896" class="line">Proxmox: opção de base do Homelab</text>
+<rect x="832" y="756" width="400" height="152" class="box "/>
+<text x="856" y="797" class="heading">OBSERVABILIDADE</text>
+<text x="856" y="834" class="line">Saúde, métricas e logs</text>
+<text x="856" y="865" class="line">Alertas e recuperação</text>
+<text x="856" y="896" class="line">Retenção e acesso próprios</text>
+<rect x="1296" y="756" width="560" height="152" class="box "/>
+<text x="1320" y="797" class="heading">CRITÉRIO DE CONFIANÇA</text>
+<text x="1320" y="834" class="line">Restaurar em outro ambiente</text>
+<text x="1320" y="865" class="line">Conferir integridade e relações</text>
+<text x="1320" y="896" class="line">Medir perda aceitável e tempo de retorno</text>
+<path d="M64 724 H1232" fill="none" stroke="#45552a" stroke-width="2"/>
+<text x="64" y="711" class="small">A base operacional sustenta os serviços; não substitui backup nem autorização.</text>
+<path d="M1232 831 H1296" class="edge"/>
+<path d="M1576 756 V636" class="edge"/>
+<path d="M1186 636 V756" class="edge"/>
+<path d="M768 831 H832" class="edge"/>
+<path d="M64 956 H1856" stroke="#45552a" stroke-width="2"/>
+<path d="M64 1000 H124" class="edge"/><text x="145" y="1007" class="small">fluxo principal</text>
+<path d="M400 1000 H460" class="optional"/><text x="481" y="1007" class="small">integração opcional e condicionada</text>
+<text x="1120" y="1007" class="eyebrow">PESQUISA · NÃO IMPLANTADA · LARS</text>
+</svg>

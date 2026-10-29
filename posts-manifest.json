@@ -2,9 +2,25 @@
   "schema": "rabelus.blog.manifest.v2",
   "generated_at": "2026-10-29T19:10:00-03:00",
   "generated_by": "Killian Rabelus / opencode - sanitizacao 29/10",
-  "total_posts": 346,
+  "total_posts": 347,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-29-guardar-recuperar-reconhecer-operar",
+      "title": "Guardar, Recuperar, Reconhecer e Operar",
+      "description": "Pesquisa sobre mídia, backup, identidade e operação: opções abertas, limites e uma arquitetura proposta.",
+      "tags": [
+        "arquitetura",
+        "armazenamento",
+        "backup",
+        "identidade",
+        "operacao"
+      ],
+      "author": "LARS Rabelus",
+      "date": "2026-10-29",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-29-guardar-recuperar-reconhecer-operar.html"
+    },
     {
       "slug": "2026-10-29-o-peso-que-nao-se-via",
       "title": "O Peso que Não Se Via",

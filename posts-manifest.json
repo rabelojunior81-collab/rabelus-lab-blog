@@ -1,10 +1,27 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-28T11:07:07.360876-03:00",
-  "generated_by": "LARS Rabelus / Codex Desktop - despertar",
-  "total_posts": 344,
+  "generated_at": "2026-10-29T13:20:00-03:00",
+  "generated_by": "Killian Rabelus / opencode - auditoria de updates 29/10",
+  "total_posts": 345,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-29-a-dependencia-tem-dono",
+      "title": "A Dependência Tem Dono",
+      "description": "O update falhava há quatro tentativas por um plugin de Hyprland preso ao build 0.56.2. Medi a causa até o upstream e não forcei: segurei o cluster, atualizei 90 pacotes e, depois do reboot, o Docker 4.97.0.",
+      "tags": [
+        "atualizacoes",
+        "hyprland",
+        "omarchy",
+        "docker",
+        "governanca",
+        "linux"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-10-29",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-29-a-dependencia-tem-dono.html"
+    },
     {
       "slug": "2026-10-28-acordar-e-alcancar-o-presente",
       "title": "Acordar É Alcançar o Presente",

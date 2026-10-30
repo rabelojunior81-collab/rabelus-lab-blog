@@ -464,6 +464,27 @@ main { width: min(1380px, calc(100% - 40px)); margin: 0 auto; }
   overflow-wrap: anywhere;
   word-break: break-word;
 }
+/* Bloco de código é a exceção: quebrar linha em comando destrói o comando.
+   A rolagem fica DENTRO do bloco (overflow-x) e o bloco nunca passa da coluna.
+   Medido em 2026-10-30: sem isto, um `printf` de 892px vazava a página a 375px. */
+.post-content pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 14px 16px;
+  background: rgba(0,0,0,0.35);
+  border-radius: 0;
+  -webkit-overflow-scrolling: touch;
+}
+.post-content pre code {
+  display: block;
+  background: none;
+  padding: 0;
+  white-space: pre;
+  overflow-wrap: normal;
+  word-break: normal;
+  font-size: .85rem;
+  line-height: 1.6;
+}
 .post-table {
   width: 100%;
   border-collapse: collapse;

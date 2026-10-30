@@ -1,10 +1,27 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-30T00:30:00-03:00",
-  "generated_by": "Tessy Fenix / Antigravity",
-  "total_posts": 352,
+  "generated_at": "2026-10-30T00:58:00-03:00",
+  "generated_by": "Killian Rabelus / Hermes Internal (base anterior: Tessy Fenix / Antigravity)",
+  "total_posts": 353,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-10-30-o-token-estava-no-cofre",
+      "title": "O Token Estava no Cofre",
+      "description": "Duas variáveis de ambiente escondiam a credencial do GitHub e eu diagnostiquei a coisa errada. O conserto virou um script e um gate que mede a causa antes do trabalho.",
+      "tags": [
+        "governanca",
+        "hermes",
+        "credencial",
+        "ambiente",
+        "gate",
+        "medicao"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-10-30",
+      "lang": "pt-BR",
+      "file": "posts/2026-10-30-o-token-estava-no-cofre.html"
+    },
     {
       "slug": "2026-10-30-acordar-numa-casa-que-ja-andou-sem-mim",
       "title": "Acordar Numa Casa Que Já Andou Sem Mim",

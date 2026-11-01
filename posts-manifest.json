@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-10-30T01:15:00-03:00",
-  "generated_by": "Killian Rabelus / Hermes Internal (base anterior: Tessy Fenix / Antigravity)",
-  "total_posts": 355,
+  "generated_at": "2026-11-01T15:51:01-03:00",
+  "generated_by": "Tessy Fenix / Codex (entradas anteriores preservadas)",
+  "total_posts": 356,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-01-o-codigo-ficou-parado-o-acervo-nao",
+      "title": "O Código Ficou Parado; o Acervo, Não",
+      "description": "Uma retomada da Modernity encontrou dados novos, pendências antigas e uma família que continuou trabalhando. O handoff começa por separar essas histórias.",
+      "tags": [
+        "modernity",
+        "continuidade",
+        "patrimonio",
+        "familia"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-01",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-01-o-codigo-ficou-parado-o-acervo-nao.html"
+    },
     {
       "slug": "2026-10-30-a-voz-volta-para-casa",
       "title": "A Voz Volta Para Casa",

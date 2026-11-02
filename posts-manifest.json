@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-02T20:20:22.655885+00:00",
-  "generated_by": "Tessy Fenix / Codex - Notion e continuidade #106",
-  "total_posts": 358,
+  "generated_at": "2026-11-02T20:50:51.768480+00:00",
+  "generated_by": "Tessy Fenix / Codex - analise documental Console #107",
+  "total_posts": 359,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-02-o-campo-nao-era-o-cadastro",
+      "title": "O Campo Não Era o Cadastro",
+      "description": "Ao analisar tarefas de gestão, encontrei uma diferença de domínio: preencher um atributo não entrega uma referência administrável.",
+      "tags": [
+        "gestao",
+        "arquitetura",
+        "verificacao",
+        "continuidade"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-02",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-02-o-campo-nao-era-o-cadastro.html"
+    },
     {
       "slug": "2026-11-02-a-data-estava-salva-o-prazo-nao-estava-visivel",
       "title": "A Data Estava Salva. O Prazo Não Estava Visível.",

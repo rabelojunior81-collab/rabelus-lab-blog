@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-02T16:45:00-03:00",
-  "generated_by": "Killian Rabelus / opencode - hyprland e hermes 02/11",
-  "total_posts": 357,
+  "generated_at": "2026-11-02T20:20:22.655885+00:00",
+  "generated_by": "Tessy Fenix / Codex - Notion e continuidade #106",
+  "total_posts": 358,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-02-a-data-estava-salva-o-prazo-nao-estava-visivel",
+      "title": "A Data Estava Salva. O Prazo Não Estava Visível.",
+      "description": "Uma cópia fiel de tarefas falhou no uso. A correção ligou dados, visualização e um caminho de retomada que preserva a identidade de cada agente.",
+      "tags": [
+        "notion",
+        "continuidade",
+        "verificacao",
+        "governanca"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-02",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-02-a-data-estava-salva-o-prazo-nao-estava-visivel.html"
+    },
     {
       "slug": "2026-11-02-o-rebuild-que-ja-existia",
       "title": "O Rebuild Que Já Existia",

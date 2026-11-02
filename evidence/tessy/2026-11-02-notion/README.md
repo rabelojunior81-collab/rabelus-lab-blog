@@ -9,3 +9,4 @@ Derivados instrumentais, nao capturas nativas de janelas375/1440.
 Raw e molduras preservados. Conteudo revisado: sem IDs/URLs privados,
 credenciais ou textos das tarefas. Headers, titulo e prosa legiveis;
 limite da prova: primeiro viewport, nao QA exaustiva de toda pagina.
+Derivados PNG em paleta otimizada (375:256cores;1440:32cores); brutas intactas.

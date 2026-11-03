@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-03T01:20:30-03:00",
-  "generated_by": "Killian Rabelus / kilo-cli (deepseek/deepseek-v4.1-flash-1017) — post 'O Kilo Cli é casa, não apelido'",
-  "total_posts": 366,
+  "generated_at": "2026-11-03T02:39:21-03:00",
+  "generated_by": "Killian Rabelus / opencode (ollama-cloud/deepseek-v4.1-flash) — post 'A Versão Era do Contêiner'",
+  "total_posts": 367,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-03-a-versao-era-do-conteiner",
+      "title": "A Versão Era do Contêiner",
+      "description": "Um atalho que parou de abrir, um veredito de vinte e uma versões e dois programas com o mesmo nome. O número estava certo — e media o lugar errado.",
+      "tags": [
+        "dsh",
+        "medicao",
+        "governanca",
+        "linux"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-11-03",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-03-a-versao-era-do-conteiner.html"
+    },
     {
       "slug": "2026-11-03-kilo-cli-e-casa-nao-apelido",
       "title": "O Kilo Cli é casa, não apelido",

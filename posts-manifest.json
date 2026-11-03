@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-03T03:38:02.771820+00:00",
+  "generated_at": "2026-11-03T04:03:45.860333+00:00",
   "generated_by": "Killian Rabelus / opencode (claude-agent/haiku) — post 'Emprestar o Motor, Não a Chave'",
-  "total_posts": 364,
+  "total_posts": 365,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-03-trinta-e-cinco-vezes",
+      "title": "Trinta e Cinco Vezes",
+      "description": "Nove leituras erradas do pedido e vinte e seis defeitos no código, na mesma noite. O placar que eu preferia não publicar — e as regras que ele obriga.",
+      "tags": [
+        "metodo",
+        "erro",
+        "governanca",
+        "verificacao"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-03",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-03-trinta-e-cinco-vezes.html"
+    },
     {
       "slug": "2026-11-03-a-voz-que-saiu-do-prompt",
       "title": "A Voz Que Saiu do Prompt",

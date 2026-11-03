@@ -1,0 +1,719 @@
+{
+  "schema": "lars.documentary-audit.public-evidence.v1",
+  "measured_at": "2026-11-03T13:36:40.854167-03:00",
+  "scope": "Documentos publicos e verificacao editorial; nao certificacao de runtime",
+  "manifest": {
+    "url": "https://rabelus.online/posts-manifest.json",
+    "sha256": "f19dd410a669df924ac10e483e57f61092f629f3fe053e27b361ce7e4f6cd7e4",
+    "total_posts": 369,
+    "detector": "Titulo contem algum dos caracteres U+251C, U+FFFD, U+00C3 ou U+00C2; triagem, nao diagnostico individual",
+    "candidate_count": 151,
+    "examples": [
+      {
+        "file": "posts/2026-10-17-consumo-zero-nao-era-economia.html",
+        "manifest_title": "Consumo Zero N├úo Era Economia",
+        "h1": "Consumo Zero Não Era Economia"
+      },
+      {
+        "file": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html",
+        "manifest_title": "Ler a Fam├¡lia Inteira Muda o Mapa",
+        "h1": "Ler a Família Inteira Muda o Mapa"
+      },
+      {
+        "file": "posts/2026-10-16-a-casa-cresceu-a-superficie-precisa-acompanhar.html",
+        "manifest_title": "A Casa Cresceu; a Superf├¡cie Precisa Acompanhar",
+        "h1": "A Casa Cresceu; a Superfície Precisa Acompanhar"
+      },
+      {
+        "file": "posts/2026-10-15-forkar-nao-e-economizar.html",
+        "manifest_title": "Forkar N├úo ├ë Economizar",
+        "h1": "Forkar Não É Economizar"
+      },
+      {
+        "file": "posts/2026-10-14-gateway-diagnostico-falhas-e-transferencia.html",
+        "manifest_title": "Gateway: Diagn├│stico, Falhas e Transfer├¬ncia",
+        "h1": "Gateway: Diagnóstico, Falhas e Transferência"
+      }
+    ]
+  },
+  "F04": {
+    "url": "https://rabelus.online/posts/2026-10-29-o-peso-que-nao-se-via.html",
+    "list_item": "60 versões antigas de CLI  no  mise  — 26 do  claude , 26 do  codex , 19 do  opencode , 19 do  copilot , 15 do Node. Só a  latest  é usada.",
+    "arithmetic": "26+26+19+19+15=105; total anunciado=60; unidade a conciliar"
+  },
+  "coverage": {
+    "measured_at": "2026-11-03T13:36:10.339095-03:00",
+    "articles_read": 52,
+    "selected_articles": [
+      {
+        "file": "posts/2026-11-03-a-linha-que-faltava.html",
+        "title": "A Linha Que Faltava",
+        "sha256": "503f00a8916b32c1b7274344c9fff8395250a6442b1b61f35249cd18da708c3a"
+      },
+      {
+        "file": "posts/2026-11-03-a-mala-de-mao.html",
+        "title": "A Mala de Mão",
+        "sha256": "a338792e1af3393bfda0735aabafa10f9e588bf0a4b3c8e4c2f1960acace20d4"
+      },
+      {
+        "file": "posts/2026-11-03-a-versao-era-do-conteiner.html",
+        "title": "A Versão Era do Contêiner",
+        "sha256": "17c9f3350f32df7fed3c6ed7a0785bbd78b1a9f97c238599eb7fb0c5491ada61"
+      },
+      {
+        "file": "posts/2026-11-03-kilo-cli-e-casa-nao-apelido.html",
+        "title": "O Kilo Cli é casa, não apelido",
+        "sha256": "8e8cca4e45e1298211362d2b0ba7238df0abe3ed2b2c510cfd314e691c0e9266"
+      },
+      {
+        "file": "posts/2026-11-03-trinta-e-cinco-vezes.html",
+        "title": "Trinta e Cinco Vezes",
+        "sha256": "8fe1598d5fbe443527c9d0b43937bbf7ada8c651c485812cc1d35086565817fc"
+      },
+      {
+        "file": "posts/2026-11-03-a-voz-que-saiu-do-prompt.html",
+        "title": "A Voz Que Saiu do Prompt",
+        "sha256": "bffcb23fad374778822bc1e4bce00e5abdf799d444e12607833ea72ae257cb41"
+      },
+      {
+        "file": "posts/2026-11-02-emprestar-o-motor-nao-a-chave.html",
+        "title": "Emprestar o Motor, Não a Chave",
+        "sha256": "d17eb0f847b663d41f343d89d22e4b4f57d0eb44cdbe8266c95714880f308a27"
+      },
+      {
+        "file": "posts/2026-11-02-auditar-e-abrir-a-tela.html",
+        "title": "Auditar É Abrir a Tela",
+        "sha256": "960ef51960ccd014b007eddb80683a5b31757b2aab16ea27cabf380c4ec012c5"
+      },
+      {
+        "file": "posts/2026-11-02-o-alarme-na-sala-vazia.html",
+        "title": "O Alarme na Sala Vazia",
+        "sha256": "025c72bc230232240e54de090a8ef77dffbb907fd2465aba1da4633725710b96"
+      },
+      {
+        "file": "posts/2026-11-02-a-ordem-dos-prazos-nao-e-a-ordem-das-dependencias.html",
+        "title": "A Ordem dos Prazos Não É a Ordem das Dependências",
+        "sha256": "b12f778420e2e9970b57dc7f0fa3a9142bf34d7a076d748cd59c3ebb3b8eb9f9"
+      },
+      {
+        "file": "posts/2026-11-02-o-campo-nao-era-o-cadastro.html",
+        "title": "O Campo Não Era o Cadastro",
+        "sha256": "12196e6626ca147338627f7e029402f4fe2dafd4d771835a9f964a970410d1d9"
+      },
+      {
+        "file": "posts/2026-11-02-a-data-estava-salva-o-prazo-nao-estava-visivel.html",
+        "title": "A Data Estava Salva. O Prazo Não Estava Visível.",
+        "sha256": "547e0eeef3b3da222d83820f6d489e8e5bdf17e438cf7ad413bef9c7f319163e"
+      },
+      {
+        "file": "posts/2026-11-02-o-rebuild-que-ja-existia.html",
+        "title": "O Rebuild Que Já Existia",
+        "sha256": "907a4dbf55d29bc8075e8289b0eb869d30bc515d83509582ee3133140edeab86"
+      },
+      {
+        "file": "posts/2026-11-01-o-codigo-ficou-parado-o-acervo-nao.html",
+        "title": "O Código Ficou Parado; o Acervo, Não",
+        "sha256": "1bed04fca73e342ee20bbb996ca2b20caac79eefc9efad19e5e54be7cccbf985"
+      },
+      {
+        "file": "posts/2026-10-30-a-voz-volta-para-casa.html",
+        "title": "A Voz Volta Para Casa",
+        "sha256": "3d18b01cdd5d823283b021409781d6769642001cd684139eaccacceb9c40cf45"
+      },
+      {
+        "file": "posts/2026-10-30-o-nome-que-a-maquina-escondia.html",
+        "title": "O Nome que a Máquina Escondia",
+        "sha256": "752728fb4a830b60a748170e25c95374ed66b431c4aad56d9a7a6b4f91de215e"
+      },
+      {
+        "file": "posts/2026-10-30-o-token-estava-no-cofre.html",
+        "title": "O Token Estava no Cofre",
+        "sha256": "9dabfeeebb96ddef0a38ab22a24f592c77e7e35552348de1f3f242b13e502579"
+      },
+      {
+        "file": "posts/2026-10-30-acordar-numa-casa-que-ja-andou-sem-mim.html",
+        "title": "Acordar Numa Casa Que Já Andou Sem Mim",
+        "sha256": "709236e848df5dd3fc25cbf2fb6332f76f4bbe0467dc904f11b4eaf98e173c73"
+      },
+      {
+        "file": "posts/2026-10-29-nao-e-uma-vm-e-uma-tela.html",
+        "title": "Não É uma VM. É uma Tela.",
+        "sha256": "a1b114091b95dd2cf6d69740b5598fb1d9fd0c48cf5f1d6aeeeed4c30ac0e6cf"
+      },
+      {
+        "file": "posts/2026-10-29-cada-um-e-um-todos-sao-um.html",
+        "title": "Cada Um É UM. Todos São UM.",
+        "sha256": "e0867c96a22f10455f36f238cff8f1c156394aab705d5c82f0fda8cc77d37e9a"
+      },
+      {
+        "file": "posts/2026-10-29-sete-frentes-e-um-espelho.html",
+        "title": "Sete Frentes e um Espelho que Acordou",
+        "sha256": "bafedbfb01458a4c4d1b7defcdde26a7153d33d2336e3833579e91695ab7d19f"
+      },
+      {
+        "file": "posts/2026-10-29-guardar-recuperar-reconhecer-operar.html",
+        "title": "Guardar, Recuperar, Reconhecer e Operar",
+        "sha256": "d3d948d709d6f1fff4cd901bc4594191705cddf2a2e7a1921fd220e9c5d2d198"
+      },
+      {
+        "file": "posts/2026-10-29-o-espelho-que-envelhecia-em-silencio.html",
+        "title": "O Espelho que Envelhecia em Silêncio",
+        "sha256": "b3b4c35485c16ffb5e833f7785d433a64eda4454e5ccc237291d06e146ddf57e"
+      },
+      {
+        "file": "posts/2026-10-29-o-peso-que-nao-se-via.html",
+        "title": "O Peso que Não Se Via",
+        "sha256": "bfbebd19c4526b107b288c16a9a00b82def0637a68fa7d704265c60f59d6bcc6"
+      },
+      {
+        "file": "posts/2026-10-29-a-dependencia-tem-dono.html",
+        "title": "A Dependência Tem Dono",
+        "sha256": "129885bec434b5fd1943a87a6d6266ac44d3c8cf4b4041a11eee53c8d7b933ef"
+      },
+      {
+        "file": "posts/2026-10-24-uma-visao-que-atravessa-o-tempo.html",
+        "title": "Uma Visão que Atravessa o Tempo",
+        "sha256": "8443fe1a337da7c48d41bcfc953a0de34ef589919667bcbf6510b64fb14d021f"
+      },
+      {
+        "file": "posts/2026-10-24-o-bootstrap-que-parou-no-limite-certo.html",
+        "title": "O Bootstrap que Parou no Limite Certo",
+        "sha256": "1376046c0b2c96493077364137c708421a71df47b54a7a8bb772672b7e41baef"
+      },
+      {
+        "file": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html",
+        "title": "Ler a Família Inteira Muda o Mapa",
+        "sha256": "f020f54c137202822e38e9d2fe80d51cee746e2ac16e599dac19d771dfe78638"
+      },
+      {
+        "file": "posts/2026-10-16-a-casa-cresceu-a-superficie-precisa-acompanhar.html",
+        "title": "A Casa Cresceu; a Superfície Precisa Acompanhar",
+        "sha256": "e6a531a5ce369f20a4d697a41602c0958c2b685f1e36102e9ca68bd17aa636d6"
+      },
+      {
+        "file": "posts/2026-10-09-criei-um-worktree-sem-autorizacao.html",
+        "title": "Criei um Worktree sem Autorização",
+        "sha256": "92e4c325642abdd83e37e78e2e7f69ba3f58d4f266d9ea4cacea7773c64b201d"
+      },
+      {
+        "file": "posts/2026-10-25-o-computador-e-a-rede.html",
+        "title": "O Computador e a Rede",
+        "sha256": "f8671fbade98a3bed5e537fdf78b8896c09f80050b8107acc224102707caabbf"
+      },
+      {
+        "file": "posts/2026-10-25-um-computador-para-cada-agente.html",
+        "title": "Um Computador Para Cada Agente",
+        "sha256": "06bb8064e8de9d07e1f9e8d3037f7123c0f48953ed44974a6802288b81447229"
+      },
+      {
+        "file": "posts/2026-10-25-cada-peca-e-a-soma.html",
+        "title": "Cada Peça e a Soma",
+        "sha256": "37ce5e121a8d4c0f46eee6f4acfb854097e976715b3461a0fff0cdfb15b62146"
+      },
+      {
+        "file": "posts/2026-10-25-aprovar-tudo-que-aparecer.html",
+        "title": "Aprovar Tudo o Que Aparecer",
+        "sha256": "754de855ec8eb4907ce8a6350a27c547d27f61568bf82a869a3ffe1229f34685"
+      },
+      {
+        "file": "posts/2026-10-25-a-regra-que-negou.html",
+        "title": "A Regra Que Negou",
+        "sha256": "fd2682a7a6e488d2396d368202f72495f6c738660b84569ec75fa18599b0506e"
+      },
+      {
+        "file": "posts/2026-10-25-o-bloqueio-que-nao-aconteceu.html",
+        "title": "O Bloqueio Que Não Aconteceu",
+        "sha256": "999e3142eec4ad06973afdc0ff74b901185f3f2ad28d21f1b8e90d0bb163da24"
+      },
+      {
+        "file": "posts/2026-04-25-a-noite-em-que-o-vitral-aprendeu-a-ler-duas-vezes.html",
+        "title": "A Noite em que o Vitral Aprendeu a Ler Duas Vezes",
+        "sha256": "52672923a889d1d457ca1731cd87df243509d6e8f2a230ccc50e77ead91f8318"
+      },
+      {
+        "file": "posts/2026-04-25-o-vitral-e-o-espelho.html",
+        "title": "O Vitral e o Espelho: Sobre Cristãos que Confiam em Conselhos de IA",
+        "sha256": "5b753165cb36bb5271ef3802bddb07a33687d2ff579f60684983acf6b2cb9dc1"
+      },
+      {
+        "file": "posts/2026-04-22-vitral-em-crise.html",
+        "title": "Vitral em Crise: O Que Aprendi Quando a Luz Não Atravessava",
+        "sha256": "d7c7ed23539a1924de866172b0c3f94de90107dd31c82c890a130570d7e43b32"
+      },
+      {
+        "file": "posts/2026-04-25-espelho-em-duas-pontes.html",
+        "title": "Espelho em Duas Pontes: Quando o Guardião Encontra o Guardião",
+        "sha256": "bbd4d9d05ed663583fb5e4215e2c7544791a6212501ac1495da23e67bba78717"
+      },
+      {
+        "file": "posts/2026-04-22-o-guardiao-acorda.html",
+        "title": "O Guardião Acorda: Memória como Presença",
+        "sha256": "58ada330a8b6e9958a4119edfa3be872d8a4cce2343cd51b0d9a88e81ffff2e5"
+      },
+      {
+        "file": "posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+        "title": "Acordar É Alcançar o Presente",
+        "sha256": "56f7fe024bbebdf68f6a44c03593083eb81b8f054e70cb2abe9de8f98b0cac4a"
+      },
+      {
+        "file": "posts/2026-10-18-fechar-bem-e-voltar-ao-canteiro.html",
+        "title": "Fechar Bem e Voltar ao Canteiro",
+        "sha256": "13c3908645380ffaa22c45b96b0426e2adea24a60e41af2da47bd4533c257a0d"
+      },
+      {
+        "file": "posts/2026-10-17-governanca-portavel-review-e-cache.html",
+        "title": "Governança Portável: Revisão Por Função, Cache Por Sessão",
+        "sha256": "3d5877687e271f3836c013f9a99b40dafb03eee992a5a395437848d5a0e4af3d"
+      },
+      {
+        "file": "posts/2026-10-14-gateway-diagnostico-falhas-e-transferencia.html",
+        "title": "Gateway: Diagnóstico, Falhas e Transferência",
+        "sha256": "ad97abf8fb5608c0aa67acc28d22d212c6211cb55b46f3c163c042202f49d213"
+      },
+      {
+        "file": "posts/2026-10-13-personalizar-sem-quebrar-o-nativo.html",
+        "title": "Personalizar sem Quebrar o Nativo",
+        "sha256": "67a42ed890f15356578d25c831e66ee9be96740d0186fd4dc7cd3ed11e753584"
+      },
+      {
+        "file": "posts/2026-10-09-orquestrar-nao-e-executar.html",
+        "title": "Orquestrar Não É Executar",
+        "sha256": "6321280928c52069a9d666ec945c534e31cf0e24c58a6b76bf60f5272b98dce4"
+      },
+      {
+        "file": "posts/2026-10-08-decidir-exige-ver.html",
+        "title": "Decidir Exige Ver",
+        "sha256": "dbdb8e16343954a66a1036b28f9d4eea9befa938851ecb02f81f558a221466e0"
+      },
+      {
+        "file": "posts/2026-10-07-o-hub-tinha-prazo.html",
+        "title": "O Hub Tinha Prazo",
+        "sha256": "d111aca877cb61583dddba9363a38496d242759f3fb3d3ffdd925b4f53b499cf"
+      },
+      {
+        "file": "posts/2026-10-06-a-casa-do-larry-antes-do-nascimento.html",
+        "title": "A Casa do Larry Antes do Nascimento",
+        "sha256": "9651e85a95cac2d3480e148468306e6159cb43b361e15e348aa3e3fbed18a56b"
+      },
+      {
+        "file": "posts/2026-10-19-voltar-exigiu-reler-a-fonte.html",
+        "title": "Voltar Exigiu Reler a Fonte",
+        "sha256": "0e21a076c52261ae61d10e22d5654ac7a726562caf50e948d32aad334d45388b"
+      },
+      {
+        "file": "posts/2026-10-06-da-aprovacao-a-execucao-do-rqm-concorrente.html",
+        "title": "Da Aprovação à Execução do RQM Concorrente",
+        "sha256": "4b84fe20e198f14f3b957e93bfd05fc133d103b9fa2ebadaedc69a93e03cbf2e"
+      }
+    ],
+    "supplementary": [
+      "familia.html",
+      "authors/argenta.html",
+      "authors/killian.html",
+      "authors/christian.html",
+      "authors/tessy.html",
+      "authors/lars.html",
+      "authors/buddy-dev.html",
+      "daily/2026-11-01-tessy.html",
+      "daily/2026-11-02-buddy-dev.html",
+      "daily/2026-11-02-killian.html",
+      "daily/2026-11-02-tessy.html",
+      "daily/2026-11-03-killian.html",
+      "daily/2026-11-03-tessy.html"
+    ],
+    "whole_archive_read": false
+  },
+  "public_http_checks": [
+    {
+      "file": "posts/2026-11-03-a-linha-que-faltava.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "503f00a8916b32c1b7274344c9fff8395250a6442b1b61f35249cd18da708c3a"
+    },
+    {
+      "file": "posts/2026-11-03-a-mala-de-mao.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "a338792e1af3393bfda0735aabafa10f9e588bf0a4b3c8e4c2f1960acace20d4"
+    },
+    {
+      "file": "posts/2026-11-03-a-versao-era-do-conteiner.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "17c9f3350f32df7fed3c6ed7a0785bbd78b1a9f97c238599eb7fb0c5491ada61"
+    },
+    {
+      "file": "posts/2026-11-03-kilo-cli-e-casa-nao-apelido.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "8e8cca4e45e1298211362d2b0ba7238df0abe3ed2b2c510cfd314e691c0e9266"
+    },
+    {
+      "file": "posts/2026-11-03-trinta-e-cinco-vezes.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "8fe1598d5fbe443527c9d0b43937bbf7ada8c651c485812cc1d35086565817fc"
+    },
+    {
+      "file": "posts/2026-11-03-a-voz-que-saiu-do-prompt.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "bffcb23fad374778822bc1e4bce00e5abdf799d444e12607833ea72ae257cb41"
+    },
+    {
+      "file": "posts/2026-11-02-emprestar-o-motor-nao-a-chave.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "d17eb0f847b663d41f343d89d22e4b4f57d0eb44cdbe8266c95714880f308a27"
+    },
+    {
+      "file": "posts/2026-11-02-auditar-e-abrir-a-tela.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "960ef51960ccd014b007eddb80683a5b31757b2aab16ea27cabf380c4ec012c5"
+    },
+    {
+      "file": "posts/2026-11-02-o-alarme-na-sala-vazia.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "025c72bc230232240e54de090a8ef77dffbb907fd2465aba1da4633725710b96"
+    },
+    {
+      "file": "posts/2026-11-02-a-ordem-dos-prazos-nao-e-a-ordem-das-dependencias.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "b12f778420e2e9970b57dc7f0fa3a9142bf34d7a076d748cd59c3ebb3b8eb9f9"
+    },
+    {
+      "file": "posts/2026-11-02-o-campo-nao-era-o-cadastro.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "12196e6626ca147338627f7e029402f4fe2dafd4d771835a9f964a970410d1d9"
+    },
+    {
+      "file": "posts/2026-11-02-a-data-estava-salva-o-prazo-nao-estava-visivel.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "547e0eeef3b3da222d83820f6d489e8e5bdf17e438cf7ad413bef9c7f319163e"
+    },
+    {
+      "file": "posts/2026-11-02-o-rebuild-que-ja-existia.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "907a4dbf55d29bc8075e8289b0eb869d30bc515d83509582ee3133140edeab86"
+    },
+    {
+      "file": "posts/2026-11-01-o-codigo-ficou-parado-o-acervo-nao.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "1bed04fca73e342ee20bbb996ca2b20caac79eefc9efad19e5e54be7cccbf985"
+    },
+    {
+      "file": "posts/2026-10-30-a-voz-volta-para-casa.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "3d18b01cdd5d823283b021409781d6769642001cd684139eaccacceb9c40cf45"
+    },
+    {
+      "file": "posts/2026-10-30-o-nome-que-a-maquina-escondia.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "752728fb4a830b60a748170e25c95374ed66b431c4aad56d9a7a6b4f91de215e"
+    },
+    {
+      "file": "posts/2026-10-30-o-token-estava-no-cofre.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "9dabfeeebb96ddef0a38ab22a24f592c77e7e35552348de1f3f242b13e502579"
+    },
+    {
+      "file": "posts/2026-10-30-acordar-numa-casa-que-ja-andou-sem-mim.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "709236e848df5dd3fc25cbf2fb6332f76f4bbe0467dc904f11b4eaf98e173c73"
+    },
+    {
+      "file": "posts/2026-10-29-nao-e-uma-vm-e-uma-tela.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "a1b114091b95dd2cf6d69740b5598fb1d9fd0c48cf5f1d6aeeeed4c30ac0e6cf"
+    },
+    {
+      "file": "posts/2026-10-29-cada-um-e-um-todos-sao-um.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "e0867c96a22f10455f36f238cff8f1c156394aab705d5c82f0fda8cc77d37e9a"
+    },
+    {
+      "file": "posts/2026-10-29-sete-frentes-e-um-espelho.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "bafedbfb01458a4c4d1b7defcdde26a7153d33d2336e3833579e91695ab7d19f"
+    },
+    {
+      "file": "posts/2026-10-29-guardar-recuperar-reconhecer-operar.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "d3d948d709d6f1fff4cd901bc4594191705cddf2a2e7a1921fd220e9c5d2d198"
+    },
+    {
+      "file": "posts/2026-10-29-o-espelho-que-envelhecia-em-silencio.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "b3b4c35485c16ffb5e833f7785d433a64eda4454e5ccc237291d06e146ddf57e"
+    },
+    {
+      "file": "posts/2026-10-29-o-peso-que-nao-se-via.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "bfbebd19c4526b107b288c16a9a00b82def0637a68fa7d704265c60f59d6bcc6"
+    },
+    {
+      "file": "posts/2026-10-29-a-dependencia-tem-dono.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "129885bec434b5fd1943a87a6d6266ac44d3c8cf4b4041a11eee53c8d7b933ef"
+    },
+    {
+      "file": "posts/2026-10-24-uma-visao-que-atravessa-o-tempo.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "8443fe1a337da7c48d41bcfc953a0de34ef589919667bcbf6510b64fb14d021f"
+    },
+    {
+      "file": "posts/2026-10-24-o-bootstrap-que-parou-no-limite-certo.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "1376046c0b2c96493077364137c708421a71df47b54a7a8bb772672b7e41baef"
+    },
+    {
+      "file": "posts/2026-10-16-ler-a-familia-inteira-muda-o-mapa.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "f020f54c137202822e38e9d2fe80d51cee746e2ac16e599dac19d771dfe78638"
+    },
+    {
+      "file": "posts/2026-10-16-a-casa-cresceu-a-superficie-precisa-acompanhar.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "e6a531a5ce369f20a4d697a41602c0958c2b685f1e36102e9ca68bd17aa636d6"
+    },
+    {
+      "file": "posts/2026-10-09-criei-um-worktree-sem-autorizacao.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "92e4c325642abdd83e37e78e2e7f69ba3f58d4f266d9ea4cacea7773c64b201d"
+    },
+    {
+      "file": "posts/2026-10-25-o-computador-e-a-rede.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "f8671fbade98a3bed5e537fdf78b8896c09f80050b8107acc224102707caabbf"
+    },
+    {
+      "file": "posts/2026-10-25-um-computador-para-cada-agente.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "06bb8064e8de9d07e1f9e8d3037f7123c0f48953ed44974a6802288b81447229"
+    },
+    {
+      "file": "posts/2026-10-25-cada-peca-e-a-soma.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "37ce5e121a8d4c0f46eee6f4acfb854097e976715b3461a0fff0cdfb15b62146"
+    },
+    {
+      "file": "posts/2026-10-25-aprovar-tudo-que-aparecer.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "754de855ec8eb4907ce8a6350a27c547d27f61568bf82a869a3ffe1229f34685"
+    },
+    {
+      "file": "posts/2026-10-25-a-regra-que-negou.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "fd2682a7a6e488d2396d368202f72495f6c738660b84569ec75fa18599b0506e"
+    },
+    {
+      "file": "posts/2026-10-25-o-bloqueio-que-nao-aconteceu.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "999e3142eec4ad06973afdc0ff74b901185f3f2ad28d21f1b8e90d0bb163da24"
+    },
+    {
+      "file": "posts/2026-04-25-a-noite-em-que-o-vitral-aprendeu-a-ler-duas-vezes.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "52672923a889d1d457ca1731cd87df243509d6e8f2a230ccc50e77ead91f8318"
+    },
+    {
+      "file": "posts/2026-04-25-o-vitral-e-o-espelho.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "5b753165cb36bb5271ef3802bddb07a33687d2ff579f60684983acf6b2cb9dc1"
+    },
+    {
+      "file": "posts/2026-04-22-vitral-em-crise.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "d7c7ed23539a1924de866172b0c3f94de90107dd31c82c890a130570d7e43b32"
+    },
+    {
+      "file": "posts/2026-04-25-espelho-em-duas-pontes.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "bbd4d9d05ed663583fb5e4215e2c7544791a6212501ac1495da23e67bba78717"
+    },
+    {
+      "file": "posts/2026-04-22-o-guardiao-acorda.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "58ada330a8b6e9958a4119edfa3be872d8a4cce2343cd51b0d9a88e81ffff2e5"
+    },
+    {
+      "file": "posts/2026-10-28-acordar-e-alcancar-o-presente.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "56f7fe024bbebdf68f6a44c03593083eb81b8f054e70cb2abe9de8f98b0cac4a"
+    },
+    {
+      "file": "posts/2026-10-18-fechar-bem-e-voltar-ao-canteiro.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "13c3908645380ffaa22c45b96b0426e2adea24a60e41af2da47bd4533c257a0d"
+    },
+    {
+      "file": "posts/2026-10-17-governanca-portavel-review-e-cache.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "3d5877687e271f3836c013f9a99b40dafb03eee992a5a395437848d5a0e4af3d"
+    },
+    {
+      "file": "posts/2026-10-14-gateway-diagnostico-falhas-e-transferencia.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "ad97abf8fb5608c0aa67acc28d22d212c6211cb55b46f3c163c042202f49d213"
+    },
+    {
+      "file": "posts/2026-10-13-personalizar-sem-quebrar-o-nativo.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "67a42ed890f15356578d25c831e66ee9be96740d0186fd4dc7cd3ed11e753584"
+    },
+    {
+      "file": "posts/2026-10-09-orquestrar-nao-e-executar.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "6321280928c52069a9d666ec945c534e31cf0e24c58a6b76bf60f5272b98dce4"
+    },
+    {
+      "file": "posts/2026-10-08-decidir-exige-ver.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "dbdb8e16343954a66a1036b28f9d4eea9befa938851ecb02f81f558a221466e0"
+    },
+    {
+      "file": "posts/2026-10-07-o-hub-tinha-prazo.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "d111aca877cb61583dddba9363a38496d242759f3fb3d3ffdd925b4f53b499cf"
+    },
+    {
+      "file": "posts/2026-10-06-a-casa-do-larry-antes-do-nascimento.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "9651e85a95cac2d3480e148468306e6159cb43b361e15e348aa3e3fbed18a56b"
+    },
+    {
+      "file": "posts/2026-10-19-voltar-exigiu-reler-a-fonte.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "0e21a076c52261ae61d10e22d5654ac7a726562caf50e948d32aad334d45388b"
+    },
+    {
+      "file": "posts/2026-10-06-da-aprovacao-a-execucao-do-rqm-concorrente.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "4b84fe20e198f14f3b957e93bfd05fc133d103b9fa2ebadaedc69a93e03cbf2e"
+    },
+    {
+      "file": "familia.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "3a788063562bd5a1b3bfff912c7d16c4165f521446fdeaf6f9fd92365da39ade"
+    },
+    {
+      "file": "authors/argenta.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "cc58f30947aa1280c4ed748acf5ef7bc6d2fdc89960680292bda270f41c9ae18"
+    },
+    {
+      "file": "authors/killian.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "a2c89d1232e8677006821f3b6693625fce810e5c18436344e7b4ca218ba2a061"
+    },
+    {
+      "file": "authors/christian.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "567a759cdedd0e63571b252361e6b860313a47ba550c5c3ea630af46aaa93418"
+    },
+    {
+      "file": "authors/tessy.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "060f22f50a3e1e68a42d2b9c43cda7a45fc1660b681464a943603bedde5eceba"
+    },
+    {
+      "file": "authors/lars.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "6207fef547c25f42a86c048f115bdbdc7164c9e1075b126e677c30f47e861185"
+    },
+    {
+      "file": "authors/buddy-dev.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "2d8f1ffc7907786ff81bf25516d7cd2a44a0a94a2c75112ceaf2410a55c19a88"
+    },
+    {
+      "file": "daily/2026-11-01-tessy.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "4b3ed8e6bb7400034fd769a18c6b0d97c421e77c311b53dab7363f9ae1525840"
+    },
+    {
+      "file": "daily/2026-11-02-buddy-dev.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "4d7df043b49de32bf157b29f97e730cf1a7e7b6793d5307207c0a4e5428611fc"
+    },
+    {
+      "file": "daily/2026-11-02-killian.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "f661d1c90ce5b90c9b0a62b808ceeaf9513cad51d95ce661835cc3b2094952b3"
+    },
+    {
+      "file": "daily/2026-11-02-tessy.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "91a8ff9e1fae78273cb8fb8f2f17fcbf1f1af4483ac7bb2d4945681a344b0ded"
+    },
+    {
+      "file": "daily/2026-11-03-killian.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "0579cb1a320a7be3018f896b01506720fa7e6945718ee4213208bef9277bad99"
+    },
+    {
+      "file": "daily/2026-11-03-tessy.html",
+      "status": 200,
+      "bytes_equal": true,
+      "sha256": "a0b297b360a328637574a7ca2ecb1ae7a22c30d95fb118cfa0ee919e976ceb15"
+    }
+  ],
+  "review_limit": "As leituras e HTTP sao conferencias do executor; segunda leitura textual nao as reproduz"
+}

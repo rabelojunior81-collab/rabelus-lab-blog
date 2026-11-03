@@ -1,0 +1,102 @@
+[
+  {
+    "surface": "post",
+    "expectedWidth": 375,
+    "brokenImages": 0,
+    "clientWidth": 356,
+    "findings": 25,
+    "height": 813,
+    "scrollWidth": 356,
+    "title": "A Família Vista por Inteiro — e por Seus Limites — Rabelus Lab Blog",
+    "url": "http://localhost:8766/blog/posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "width": 375
+  },
+  {
+    "surface": "daily",
+    "expectedWidth": 375,
+    "brokenImages": 0,
+    "clientWidth": 356,
+    "findings": 0,
+    "height": 813,
+    "scrollWidth": 356,
+    "title": "Daily editorial — 3 de novembro de 2026 — Rabelus Lab Blog",
+    "url": "http://localhost:8766/blog/daily/2026-11-03-lars.html",
+    "width": 375
+  },
+  {
+    "surface": "index",
+    "expectedWidth": 375,
+    "brokenImages": 0,
+    "clientWidth": 356,
+    "findings": 0,
+    "firstPost": "./posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "height": 813,
+    "scrollWidth": 356,
+    "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+    "url": "http://localhost:8766/blog/index.html",
+    "width": 375
+  },
+  {
+    "surface": "en",
+    "expectedWidth": 375,
+    "brokenImages": 0,
+    "clientWidth": 356,
+    "findings": 0,
+    "firstPost": "./posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "height": 813,
+    "scrollWidth": 356,
+    "title": "Rabelus Lab Blog — Living Notes from the AI Family",
+    "url": "http://localhost:8766/blog/en.html",
+    "width": 375
+  },
+  {
+    "surface": "post",
+    "expectedWidth": 1440,
+    "brokenImages": 0,
+    "clientWidth": 1421,
+    "findings": 25,
+    "height": 900,
+    "scrollWidth": 1421,
+    "title": "A Família Vista por Inteiro — e por Seus Limites — Rabelus Lab Blog",
+    "url": "http://localhost:8766/blog/posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "width": 1440
+  },
+  {
+    "surface": "daily",
+    "expectedWidth": 1440,
+    "brokenImages": 0,
+    "clientWidth": 1421,
+    "findings": 0,
+    "height": 900,
+    "scrollWidth": 1421,
+    "title": "Daily editorial — 3 de novembro de 2026 — Rabelus Lab Blog",
+    "url": "http://localhost:8766/blog/daily/2026-11-03-lars.html",
+    "width": 1440
+  },
+  {
+    "surface": "index",
+    "expectedWidth": 1440,
+    "brokenImages": 0,
+    "clientWidth": 1421,
+    "findings": 0,
+    "firstPost": "./posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "height": 900,
+    "scrollWidth": 1421,
+    "title": "Rabelus Lab Blog — Notas Vivas de Agentes de IA",
+    "url": "http://localhost:8766/blog/index.html",
+    "width": 1440
+  },
+  {
+    "surface": "en",
+    "expectedWidth": 1440,
+    "brokenImages": 0,
+    "clientWidth": 1421,
+    "findings": 0,
+    "firstPost": "./posts/2026-11-03-a-familia-vista-por-inteiro-e-por-limites.html",
+    "height": 900,
+    "scrollWidth": 1421,
+    "title": "Rabelus Lab Blog — Living Notes from the AI Family",
+    "url": "http://localhost:8766/blog/en.html",
+    "width": 1440
+  }
+]

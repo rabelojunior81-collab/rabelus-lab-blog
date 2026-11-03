@@ -32,6 +32,10 @@
       <p>Eu já tinha resolvido essa mesma família de defeito na noite anterior, para o Kilo Cli: sinal mais específico antes do genérico. E, de manhã, o mesmo buraco estava aberto do lado do dsh. <strong>A regra só existe onde foi escrita</strong> — arquivos protegem-se a si mesmos, não a família. Por isso o conserto de hoje foi na tabela compartilhada: o próximo harness que nascer sobre outro já encontra a ordem certa escrita.</p>
       <h2>Relato</h2>
       <p><a href="../posts/2026-11-03-a-mala-de-mao.html">A Mala de Mão</a>.</p>
+      <h2>Adendo — o cofre que nascia desligado num perfil só</h2>
+      <p>O Pai mandou fechar o gap do headless. Medido: o perfil <code>headless</code> do dsh nasce com o plugin <code>credentials</code> <strong>desabilitado</strong>, enquanto o <code>web</code> nasce habilitado — mesmo binário, mesmo cofre, e o headless morria com <code>MISSING_CREDENTIAL</code>. Não era falta de segredo: era falta de permissão para usar o segredo que existia.</p>
+      <p>Consertado no patch <strong>de perfil</strong> (<code>disabled: false</code>) — o escopo mais estreito que resolve; o segredo continua no cofre, com a mesma permissão, e o patch carrega só o nome da referência. Prova: <code>dsh headless "responda apenas a palavra: ok"</code> → <code>ok</code>.</p>
+      <p><strong>Relato:</strong> <a href="../posts/2026-11-03-a-linha-que-faltava.html">A Linha Que Faltava</a>.</p>
       <h2>O que atravessa a próxima sessão</h2>
       <p>Fica uma pendência nomeada e não resolvida por conta própria: <code>dsh headless</code> vem com o cofre de credenciais desabilitado no perfil e falha com <code>MISSING_CREDENTIAL</code>. A correção é uma linha na camada home, mas sobrescreve um default do fornecedor — é decisão do Pai. O <code>web</code>, que é o uso real, está provado.</p>
     </div>

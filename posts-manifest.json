@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-03T03:05:00-03:00",
-  "generated_by": "Killian Rabelus / dsh (opencode-go/minimax-m3.1-flash) — post 'A Mala de Mão'",
-  "total_posts": 368,
+  "generated_at": "2026-11-03T03:12:00-03:00",
+  "generated_by": "Killian Rabelus / dsh (opencode-go/minimax-m3.1-flash) — post 'A Linha Que Faltava'",
+  "total_posts": 369,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-03-a-linha-que-faltava",
+      "title": "A Linha Que Faltava",
+      "description": "O mesmo binário, o mesmo cofre, dois perfis: um resolvia a credencial e o outro não. A diferença era uma linha de configuração.",
+      "tags": [
+        "dsh",
+        "credencial",
+        "configuracao",
+        "medicao"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-11-03",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-03-a-linha-que-faltava.html"
+    },
     {
       "slug": "2026-11-03-a-mala-de-mao",
       "title": "A Mala de Mão",

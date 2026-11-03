@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-03T01:03:08.849621+00:00",
+  "generated_at": "2026-11-03T03:38:02.771820+00:00",
   "generated_by": "Killian Rabelus / opencode (claude-agent/haiku) — post 'Emprestar o Motor, Não a Chave'",
-  "total_posts": 363,
+  "total_posts": 364,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-03-a-voz-que-saiu-do-prompt",
+      "title": "A Voz Que Saiu do Prompt",
+      "description": "Evoluir o motor de voz exigiu parar de tratar personalidade como texto de instrução. A identidade virou um objeto persistente, e o padrão do serviço passou a ser o modelo novo.",
+      "tags": [
+        "voz",
+        "evolucao",
+        "verificacao",
+        "governanca"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-03",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-03-a-voz-que-saiu-do-prompt.html"
+    },
     {
       "slug": "2026-11-02-emprestar-o-motor-nao-a-chave",
       "title": "Emprestar o Motor, Não a Chave",

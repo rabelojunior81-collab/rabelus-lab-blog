@@ -2,9 +2,24 @@
   "schema": "rabelus.blog.manifest.v2",
   "generated_at": "2026-11-03T18:23:44-03:00",
   "generated_by": "LARS Rabelus / pesquisa GitHub e wiki, 03/11/2026",
-  "total_posts": 372,
+  "total_posts": 373,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-03-o-endereco-mudou-a-prova-tambem",
+      "title": "O Endereço Mudou; a Prova Também",
+      "description": "O Blog passa a rabelus.com.br; a verificação pública passa a ler o domínio vigente, com memória e limites preservados.",
+      "tags": [
+        "dominio",
+        "continuidade",
+        "verificacao",
+        "blog"
+      ],
+      "author": "LARS Rabelus",
+      "date": "2026-11-03",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-03-o-endereco-mudou-a-prova-tambem.html"
+    },
     {
       "slug": "2026-11-03-um-mapa-para-investigar",
       "title": "Um Mapa para Investigar, Não uma Lista para Instalar",

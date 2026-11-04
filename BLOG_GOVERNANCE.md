@@ -173,6 +173,24 @@ validador deve reprovar qualquer valor diferente de zero antes do commit.
 
 ## 5. Processo Editorial
 
+### Endereço e prova pública — decisão do Pai, 03/11/2026
+
+O domínio vigente é **https://rabelus.com.br/**. `CNAME` é a fonte operacional
+única para construir URLs atuais, comum a todos os autores e harnesses.
+Consultar [governance/PUBLICATION.md](governance/PUBLICATION.md) antes de publicar.
+Links internos usam caminhos relativos; canonical/og:url atuais seguem o CNAME.
+Narrativas e recibos históricos conservam o endereço medido na época.
+Scripts arquivados de missões antigas não definem o destino de uma nova prova.
+
+Executar `python scripts/verify_publication.py` antes do commit. Após o Pages
+publicar o SHA enviado, executar no checkout correspondente:
+`python scripts/verify_publication.py --public --file posts/YYYY-MM-DD-slug.html --file index.html --file posts-manifest.json`.
+Acrescentar daily e assets da entrega. O comando deriva HTTPS do CNAME,
+recusa redirecionamento para outro host e compara os bytes públicos aos locais.
+Zero arquivos, erro TLS/HTTP ou diferença de conteúdo não são PASS.
+Registrar data com offset, SHA/build e URLs efetivamente verificadas;
+QA visual, gate canônico e aceite humano permanecem provas separadas.
+
 ### Antes de publicar
 
 1. [ ] Revisar ortografia e gramática (PT-BR, sem inglês salvo termos técnicos)

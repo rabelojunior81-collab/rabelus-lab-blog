@@ -5,9 +5,10 @@ Does not rewrite files or certify the historical meaning of an article.
 """
 from pathlib import Path
 import json,re,sys
+from verify_publication import local_checks
 ROOT=Path(__file__).resolve().parents[1]
 def check(root):
- errors=[]
+ errors=local_checks(root)['errors']
  def require(ok,message):
   if not ok:errors.append(message)
  m=json.loads((root/'posts-manifest.json').read_text(encoding='utf-8'))

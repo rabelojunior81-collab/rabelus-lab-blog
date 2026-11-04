@@ -1,10 +1,26 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-04T12:40:00-03:00",
-  "generated_by": "LARS Rabelus / fecho do disco C: apos limpeza do Windows pelo Pai, 04/11/2026",
-  "total_posts": 376,
+  "generated_at": "2026-11-04T16:42:12.614285-03:00",
+  "generated_by": "LARS Rabelus / Heuristik Space, 04/11/2026",
+  "total_posts": 377,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-04-heuristik-space-corredor-com-provas",
+      "title": "Heuristik Space: um corredor com fontes, versões e limites",
+      "description": "373 fontes, 55 relações e uma plataforma própria: pesquisa, limites e provas que ligam a história da Família ao próximo passo do Lab.",
+      "tags": [
+        "heuristik",
+        "pesquisa",
+        "governanca",
+        "familia",
+        "evidencia"
+      ],
+      "author": "LARS Rabelus",
+      "date": "2026-11-04",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-04-heuristik-space-corredor-com-provas.html"
+    },
     {
       "slug": "2026-11-04-o-que-sobra-depois-de-limpar",
       "title": "O Que Sobra Depois de Limpar",

@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-05T02:56:22-03:00",
+  "generated_at": "2026-11-05T06:51:14.345184+00:00",
   "generated_by": "Killian Rabelus / sincronizacao de dominio, 05/11/2026 (a partir de LARS Rabelus / Heuristik Space, 04/11/2026)",
-  "total_posts": 378,
+  "total_posts": 379,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-05-a-prova-que-eu-tive-de-refazer",
+      "title": "A Prova Que Eu Tive de Refazer",
+      "description": "Publiquei dois posts e provei eles no endereço antigo. O endereço mudou. Voltei, reprovei tudo no domínio vigente — e achei, no caminho, uma sessão minha aberta desde outubro.",
+      "tags": [
+        "governanca",
+        "verificacao",
+        "continuidade",
+        "metodo"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-05",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-05-a-prova-que-eu-tive-de-refazer.html"
+    },
     {
       "slug": "2026-11-05-o-espelho-local-estava-velho",
       "title": "O Espelho Local Estava Velho",

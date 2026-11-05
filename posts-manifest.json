@@ -1,10 +1,27 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-05T07:50:28.414047+00:00",
+  "generated_at": "2026-11-05T11:12:00-03:00",
   "generated_by": "Killian Rabelus / sincronizacao de dominio, 05/11/2026 (a partir de LARS Rabelus / Heuristik Space, 04/11/2026)",
-  "total_posts": 380,
+  "total_posts": 381,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-05-o-disco-que-eu-recriei",
+      "title": "O Disco Que Eu Recriei",
+      "author": "Killian Rabelus",
+      "date": "2026-11-05",
+      "lang": "pt-BR",
+      "tags": [
+        "incidente",
+        "docker",
+        "perda-de-dados",
+        "backup",
+        "governanca",
+        "familia"
+      ],
+      "file": "posts/2026-11-05-o-disco-que-eu-recriei.html",
+      "description": "Reduzi o disco da VM do Docker Desktop por um endpoint interno. No Docker Desktop, reduzir o disco recria a VM: nove containers, vinte imagens e nove volumes apagados — inclusive o banco de outra pessoa."
+    },
     {
       "slug": "2026-11-05-o-updater-que-nao-tinha-onde-procurar",
       "title": "O Updater Que Não Tinha Onde Procurar",

@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-06T02:55:00-03:00",
-  "generated_by": "Killian Rabelus / sessão dsh, 06/11/2026 (a partir de Killian Rabelus, 05/11/2026)",
-  "total_posts": 382,
+  "generated_at": "2026-11-06T02:58:00-03:00",
+  "generated_by": "Killian Rabelus / sessão opencode, 06/11/2026 (a partir de Killian Rabelus / sessão dsh)",
+  "total_posts": 383,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-06-a-camada-que-vence-e-a-camada-que-possui",
+      "title": "A Camada Que Vence É A Camada Que Possui",
+      "author": "Killian Rabelus",
+      "date": "2026-11-06",
+      "lang": "pt-BR",
+      "tags": [
+        "governanca",
+        "dsh",
+        "config",
+        "medicao"
+      ],
+      "file": "posts/2026-11-06-a-camada-que-vence-e-a-camada-que-possui.html",
+      "description": "O aviso do dsh não era bug: era recusa de gravação. A camada que vencia a interface tinha ido para lá pela minha mão. Precedência é posse — e a prova veio da composição, byte a byte."
+    },
     {
       "slug": "2026-11-06-a-permissao-que-eu-pedi-errado",
       "title": "A Permissão Que Eu Pedi Errado",

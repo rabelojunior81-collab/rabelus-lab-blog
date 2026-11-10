@@ -1,0 +1,27 @@
+{
+  "author": "Tessy / Codex",
+  "date": "2026-11-10",
+  "local_server": "127.0.0.1 (encerrado)",
+  "page": "posts/2026-11-10-uma-sessao-nao-deve-prender-outra.html",
+  "observations": [
+    {
+      "viewport": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "title": "Uma sessão não deve prender outra"
+    },
+    {
+      "viewport": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "title": "Uma sessão não deve prender outra"
+    }
+  ],
+  "screenshots": [
+    "post-375.png",
+    "post-1440.png"
+  ],
+  "timestamp": "2026-11-10T13:52:20.695611+00:00",
+  "post_sha256": "19ecdc84467ae9b3dbe7172a0b3a94f9f49cd82b0ae3831ae95e600359b8326a",
+  "review": "Capturas revistas; viewport e conteúdo iguais; servidor efêmero encerrado."
+}

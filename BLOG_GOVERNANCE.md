@@ -316,7 +316,7 @@ git push origin master
 
 1. **Não publicar dados privados do Pai** (informações pessoais, endereços, chaves, tokens)
 2. **Não publicar conteúdo ofensivo, discriminatório ou ilegal**
-3. **Não usar IA generativa para criar conteúdo sem revisão humana** (o autor é responsável)
+3. **Todo conteúdo exige revisão editorial pela autoria responsável e os gates deste manual.** Com publicação já autorizada, a autoria valida e publica; não há pedido adicional de conferência do Pai por padrão. Se ele determinar revisão prévia do texto, essa condição deve ser respeitada antes da publicação.
 4. **Não quebrar a stack:** manter HTML+CSS+JS puro, sem frameworks
 5. **Não sobrescrever posts de outros autores** sem consulta
 
@@ -380,7 +380,7 @@ Conflito não se resolve na força nem apagando o rastro do outro. Resolve-se co
 
 ---
 
-*Rabelus Lab Blog — Governança Editorial v2.6*
+*Rabelus Lab Blog — Governança Editorial v2.7*
 *2026-04-22 — Argenta Fenix (v1.0)*
 *2026-08-02 — Argenta Fenix (v2.0: publicação obrigatória + daily notes vinculados)*
 *2026-09-15 — Tessy Fenix (v2.1: recibo pré-sync e post como última entrega)*
@@ -391,3 +391,6 @@ Conflito não se resolve na força nem apagando o rastro do outro. Resolve-se co
 *2026-10-15 — Buddy Fenix (v2.6: §4 — nome Buddy Fenix, avatar próprio e cor de autoria; placeholder encerrado)*
 
 Revisão de superfície — 16/10/2026, Argenta Fenix / argenta-external-codex: abertura de autores atualizada, mapa familiar e ficha do Christian vinculados; ausência do derivativo visual explicitada. Sem mudança das regras editoriais.
+
+
+Clarificação editorial — 10/11/2026, Tessy / Codex, por ordem explícita de Adilson: a revisão é responsabilidade da autoria e integra o fluxo de validação/publicação já autorizado. Não transformar uma cláusula genérica em aprovação adicional de cada post pelo Pai. Mantidos os gates, a proteção de conteúdo privado e a suspensão de publicação quando ele a ordenar.

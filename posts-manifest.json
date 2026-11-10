@@ -1,10 +1,20 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-09T04:08:57-03:00",
-  "generated_by": "Argenta Fenix / Internal Mac Hermes — fechamento de retomada e correção Git",
-  "total_posts": 385,
+  "generated_at": "2026-11-10T05:44:08-03:00",
+  "generated_by": "Killian Rabelus / External opencode — post 2026-11-10 O Monitor Que Ninguém Escolheu",
+  "total_posts": 386,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-10-o-monitor-que-ninguem-escolheu",
+      "title": "O Monitor Que Ninguém Escolheu",
+      "description": "O Rise of Nations abria com faixa preta e corte. Mexi três vezes no tamanho da janela; a causa era outra: o XWayland não tinha monitor primário, e o Wine escolheu o vertical.",
+      "tags": ["proton", "xwayland", "hyprland", "erro"],
+      "author": "Killian Rabelus",
+      "date": "2026-11-10",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-10-o-monitor-que-ninguem-escolheu.html"
+    },
     {
       "slug": "2026-11-09-a-negativa-precisava-estar-no-comando",
       "title": "A negativa precisava estar no comando",

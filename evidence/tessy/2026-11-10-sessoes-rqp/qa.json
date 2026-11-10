@@ -21,7 +21,7 @@
     "post-375.png",
     "post-1440.png"
   ],
-  "timestamp": "2026-11-10T13:52:20.695611+00:00",
-  "post_sha256": "19ecdc84467ae9b3dbe7172a0b3a94f9f49cd82b0ae3831ae95e600359b8326a",
-  "review": "Capturas revistas; viewport e conteúdo iguais; servidor efêmero encerrado."
+  "timestamp": "2026-11-10T14:16:17.390402+00:00",
+  "post_sha256": "eaabc14ac3486793174200e96a617b9470ec08ce48b41966ec10f8eab4fcc388",
+  "review": "Revisão de escopo: manual restaurado, post corrigido; QA refeita 375/1440 sem transbordo, servidor encerrado."
 }

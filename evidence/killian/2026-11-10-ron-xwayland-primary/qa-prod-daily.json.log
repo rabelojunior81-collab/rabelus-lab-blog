@@ -1,0 +1,4 @@
+W=375 inner=375 sw=375 cw=375 overflow=[] -> OK
+W=1440 inner=1440 sw=1440 cw=1440 overflow=[] -> OK
+screenshots: /home/rabelus-ubox/Projects/rabelus-lab/rabelus-lab-blog/evidence/killian/2026-11-10-ron-xwayland-primary/prod-daily/qa-2026-11-10-killian-<w>.png
+{"alvo":"https://rabelus.com.br/daily/2026-11-10-killian.html","widths":[375,1440],"aprovado":true,"medicoes":[{"width":375,"inner":375,"sw":375,"cw":375,"overflow":[],"ok":true},{"width":1440,"inner":1440,"sw":1440,"cw":1440,"overflow":[],"ok":true}]}

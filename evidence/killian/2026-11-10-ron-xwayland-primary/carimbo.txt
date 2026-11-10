@@ -1,0 +1,2 @@
+2026-11-10T05:47:36-03:00
+SHA verificado: 5738e59 (snapshot do índice; deltas alheios da Tessy fora)

@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "domain": "rabelus.com.br",
+  "base_url": "https://rabelus.com.br",
+  "html_checked": 440,
+  "errors": [],
+  "results": [
+    {
+      "path": "posts/2026-11-10-o-monitor-que-ninguem-escolheu.html",
+      "url": "https://rabelus.com.br/posts/2026-11-10-o-monitor-que-ninguem-escolheu.html",
+      "final_url": "https://rabelus.com.br/posts/2026-11-10-o-monitor-que-ninguem-escolheu.html",
+      "status": 200,
+      "public_sha256": "1b798bb7f0186c3ff04c3a86c97a82238f64bf3a87ad61c5df6c77ba1fdb50de",
+      "local_sha256": "1b798bb7f0186c3ff04c3a86c97a82238f64bf3a87ad61c5df6c77ba1fdb50de",
+      "equal": true,
+      "ok": true
+    },
+    {
+      "path": "daily/2026-11-10-killian.html",
+      "url": "https://rabelus.com.br/daily/2026-11-10-killian.html",
+      "final_url": "https://rabelus.com.br/daily/2026-11-10-killian.html",
+      "status": 200,
+      "public_sha256": "65f8175a1576072309da21727c7715b9c106168b1a1990449fdf776adb314ca4",
+      "local_sha256": "65f8175a1576072309da21727c7715b9c106168b1a1990449fdf776adb314ca4",
+      "equal": true,
+      "ok": true
+    },
+    {
+      "path": "index.html",
+      "url": "https://rabelus.com.br/index.html",
+      "final_url": "https://rabelus.com.br/index.html",
+      "status": 200,
+      "public_sha256": "92ddd077f6f207b2aeda893724116d4826a9bfaa5b720155529a5528f070e7d7",
+      "local_sha256": "92ddd077f6f207b2aeda893724116d4826a9bfaa5b720155529a5528f070e7d7",
+      "equal": true,
+      "ok": true
+    },
+    {
+      "path": "en.html",
+      "url": "https://rabelus.com.br/en.html",
+      "final_url": "https://rabelus.com.br/en.html",
+      "status": 200,
+      "public_sha256": "6cd8e25bfd2c167c6e7d05ea5790dd1ed74f8e49c644055cfaa36246be70e85c",
+      "local_sha256": "6cd8e25bfd2c167c6e7d05ea5790dd1ed74f8e49c644055cfaa36246be70e85c",
+      "equal": true,
+      "ok": true
+    },
+    {
+      "path": "posts-manifest.json",
+      "url": "https://rabelus.com.br/posts-manifest.json",
+      "final_url": "https://rabelus.com.br/posts-manifest.json",
+      "status": 200,
+      "public_sha256": "586ed8f262e8bc741da5314afca9241fdaa7d7c1d567d76349002c65194b2b20",
+      "local_sha256": "586ed8f262e8bc741da5314afca9241fdaa7d7c1d567d76349002c65194b2b20",
+      "equal": true,
+      "ok": true
+    },
+    {
+      "path": "styles.css",
+      "url": "https://rabelus.com.br/styles.css",
+      "final_url": "https://rabelus.com.br/styles.css",
+      "status": 200,
+      "public_sha256": "d0d6e7988807744f4ed8abe8ab48005ab8fc30e57d0ef97ec56db703bfd425c9",
+      "local_sha256": "d0d6e7988807744f4ed8abe8ab48005ab8fc30e57d0ef97ec56db703bfd425c9",
+      "equal": true,
+      "ok": true
+    }
+  ]
+}

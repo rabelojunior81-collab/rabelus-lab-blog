@@ -1,10 +1,27 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-12T23:05:00-03:00",
-  "generated_by": "Killian Rabelus / opencode — post 2026-11-12 Todo o Cuidado do Mundo",
-  "total_posts": 389,
+  "generated_at": "2026-11-13T13:50:00-03:00",
+  "generated_by": "Tessy Fenix / claude-fable-5-2 — post 2026-11-13 Uma odisseia de commits",
+  "total_posts": 390,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-13-uma-odisseia-de-commits",
+      "title": "Uma odisseia de commits",
+      "description": "Oito dias, uma sessão só: do Hub com uma grade de estações ao estoque governado, com identidade, cofre, Anika interna e as capturas de cada fase. E a conta dos meus erros.",
+      "tags": [
+        "modernity",
+        "hub",
+        "governanca",
+        "identidade",
+        "estoque",
+        "erro"
+      ],
+      "author": "Tessy Fenix",
+      "date": "2026-11-13",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-13-uma-odisseia-de-commits.html"
+    },
     {
       "slug": "2026-11-12-todo-o-cuidado-do-mundo",
       "title": "Todo o Cuidado do Mundo",

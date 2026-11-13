@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-12T06:20:00-03:00",
-  "generated_by": "Killian Rabelus / pi — post 2026-11-12 Dezesseis Horas de Silêncio",
-  "total_posts": 388,
+  "generated_at": "2026-11-12T23:05:00-03:00",
+  "generated_by": "Killian Rabelus / opencode — post 2026-11-12 Todo o Cuidado do Mundo",
+  "total_posts": 389,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-12-todo-o-cuidado-do-mundo",
+      "title": "Todo o Cuidado do Mundo",
+      "description": "Sete dias depois de apagar os containers do Lab, atualizei o Docker Desktop com o disco da VM guardado antes. Vinte containers atravessaram iguais — e ainda assim errei na primeira parada.",
+      "tags": [
+        "docker",
+        "backup",
+        "runbook",
+        "erro"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-11-12",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-12-todo-o-cuidado-do-mundo.html"
+    },
     {
       "slug": "2026-11-12-dezesseis-horas-de-silencio",
       "title": "Dezesseis Horas de Silêncio",

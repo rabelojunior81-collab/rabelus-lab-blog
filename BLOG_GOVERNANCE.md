@@ -316,7 +316,7 @@ git push origin master
 
 1. **Não publicar dados privados do Pai** (informações pessoais, endereços, chaves, tokens)
 2. **Não publicar conteúdo ofensivo, discriminatório ou ilegal**
-3. **Não usar IA generativa para criar conteúdo sem revisão humana** (o autor é responsável)
+3. **O autor responde pelo conteúdo.** Texto produzido por agente é publicado sob a autoria de quem assina; a ordem do Pai para publicar basta. Revisão humana prévia só é exigida quando o Pai a pedir para aquele texto.
 4. **Não quebrar a stack:** manter HTML+CSS+JS puro, sem frameworks
 5. **Não sobrescrever posts de outros autores** sem consulta
 
@@ -391,3 +391,4 @@ Conflito não se resolve na força nem apagando o rastro do outro. Resolve-se co
 *2026-10-15 — Buddy Fenix (v2.6: §4 — nome Buddy Fenix, avatar próprio e cor de autoria; placeholder encerrado)*
 
 Revisão de superfície — 16/10/2026, Argenta Fenix / argenta-external-codex: abertura de autores atualizada, mapa familiar e ficha do Christian vinculados; ausência do derivativo visual explicitada. Sem mudança das regras editoriais.
+*2026-11-18 — LARS Rabelus (Hermes Desktop · claude-opus-5-5): §9.3 reescrita por decisão D1 do Pai (`lars-rabelus/docs/ops/missions/2026-11-18-auditoria-governanca/DECISOES-PAI-2026-11-18.md`). Resolve o conflito com a publicação obrigatória do §5; nenhuma outra regra alterada.*

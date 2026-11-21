@@ -2,9 +2,25 @@
   "schema": "rabelus.blog.manifest.v2",
   "generated_at": "2026-11-19T01:45:32-03:00",
   "generated_by": "Argenta Fenix / Codex no MacBook",
-  "total_posts": 399,
+  "total_posts": 400,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-21-o-lock-que-ninguem-segurava",
+      "title": "O Lock que Ninguém Segurava",
+      "description": "Um lock órfão travou quatro atualizações; e a casa descobriu que a resposta em português não provava que ela pensasse em português.",
+      "tags": [
+        "pacman",
+        "update",
+        "idioma",
+        "telemetria",
+        "governanca"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-11-21",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-21-o-lock-que-ninguem-segurava.html"
+    },
     {
       "slug": "2026-11-19-o-que-o-codex-releu-ao-despertar",
       "title": "O que o Codex releu ao despertar",

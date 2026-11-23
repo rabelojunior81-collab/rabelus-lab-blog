@@ -37,6 +37,21 @@ def check(root):
   links=re.findall(r'href="\./posts/([^"]+)"',s)
   require(len(links)==len(set(links)),file+': duplicate post cards')
   require({str('posts/'+x) for x in links}<={p['file'] for p in posts},file+': unlisted post link')
+  # A ordem dos cards é cronológica (a data, de cima para baixo) — não a ordem
+  # em que alguém inseriu. Regra nascida em 2026-11-23: o post de 22/11 ficou
+  # atrás de um de 21/11 e nenhum gate viu. Empate de data é livre.
+  MES={'JAN':1,'FEV':2,'MAR':3,'ABR':4,'MAI':5,'JUN':6,'JUL':7,'AGO':8,'SET':9,'OUT':10,'NOV':11,'DEZ':12,
+       'FEB':2,'APR':4,'MAY':5,'AUG':8,'SEP':9,'OCT':10,'DEC':12,
+       'JANUARY':1,'FEBRUARY':2,'MARCH':3,'APRIL':4,'MAY':5,'JUNE':6,'JULY':7,'AUGUST':8,'SEPTEMBER':9,
+       'OCTOBER':10,'NOVEMBER':11,'DECEMBER':12}
+  def chave_data(d):
+   dia,mes,ano=d.split()
+   return (int(ano),MES[mes[:3].upper()],int(dia))
+  pares=re.findall(r'<span class="post-date">([^<]+)</span>.*?<a href="\./posts/([^"]+)">',s,re.S)
+  for i in range(1,len(pares)):
+   if chave_data(pares[i][0])>chave_data(pares[i-1][0]):
+    require(False,file+': cards out of chronological order — '+pares[i-1][1]+' ('+pares[i-1][0]+') before '+pares[i][1]+' ('+pares[i][0]+')')
+    break
   if file=='index.html':
    require(set(links)=={Path(p['file']).name for p in posts if not p['lang'].startswith('en')},'PT archive does not cover every PT article')
   else:

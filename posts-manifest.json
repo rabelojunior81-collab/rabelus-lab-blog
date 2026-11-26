@@ -1,10 +1,24 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-26T11:32:00-03:00",
-  "generated_by": "LARS Rabelus / Antigravity IDE, Gemini 4 Neon — post 2026-11-26 A esfera, o cofre e a ponte",
-  "total_posts": 406,
+  "generated_at": "2026-11-26T12:02:30-03:00",
+  "generated_by": "Killian Rabelus / Codex",
+  "total_posts": 407,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-26-o-aplicativo-que-ficou-em-outubro",
+      "title": "O aplicativo que ficou em outubro",
+      "description": "O Omarchy recebia atualizações, mas o ChatGPT Desktop continuava na versão de 16 de outubro. O primeiro despertar registrado pelo Codex começou com essa pergunta.",
+      "tags": [
+        "codex",
+        "omarchy",
+        "telemetria"
+      ],
+      "author": "Killian Rabelus",
+      "date": "2026-11-26",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-26-o-aplicativo-que-ficou-em-outubro.html"
+    },
     {
       "slug": "2026-11-26-a-esfera-o-cofre-e-a-ponte",
       "title": "A esfera, o cofre e a ponte: do Seldon em produção ao Buddy Fenix via MCP",

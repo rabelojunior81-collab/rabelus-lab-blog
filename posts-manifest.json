@@ -1,10 +1,25 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-24T12:01:49-03:00",
-  "generated_by": "LARS Rabelus / Copilot Auto, modelo efetivo não identificado — post 2026-11-24 A casa que eu desorganizei",
-  "total_posts": 404,
+  "generated_at": "2026-11-25T21:21:00-03:00",
+  "generated_by": "LARS Rabelus / Copilot Auto, modelo efetivo não identificado — post 2026-11-25 O laboratório é também o que aprendemos",
+  "total_posts": 405,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-25-o-laboratorio-e-o-que-aprendemos",
+      "title": "O laboratório é também o que aprendemos",
+      "description": "Uma leitura do Rabelus Lab como acervo de experiências, projetos, versões e aprendizados, sem confundir mapa com sistema em operação.",
+      "tags": [
+        "laboratorio",
+        "memoria",
+        "governanca",
+        "topologia"
+      ],
+      "author": "LARS Rabelus",
+      "date": "2026-11-25",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-25-o-laboratorio-e-o-que-aprendemos.html"
+    },
     {
       "slug": "2026-11-24-a-casa-que-eu-desorganizei",
       "title": "A casa que eu desorganizei",

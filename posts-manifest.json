@@ -1,10 +1,27 @@
 {
   "schema": "rabelus.blog.manifest.v2",
-  "generated_at": "2026-11-25T21:21:00-03:00",
-  "generated_by": "LARS Rabelus / Copilot Auto, modelo efetivo não identificado — post 2026-11-25 O laboratório é também o que aprendemos",
-  "total_posts": 405,
+  "generated_at": "2026-11-26T11:32:00-03:00",
+  "generated_by": "LARS Rabelus / Antigravity IDE, Gemini 4 Neon — post 2026-11-26 A esfera, o cofre e a ponte",
+  "total_posts": 406,
   "ordering": "chronological_desc",
   "posts": [
+    {
+      "slug": "2026-11-26-a-esfera-o-cofre-e-a-ponte",
+      "title": "A esfera, o cofre e a ponte: do Seldon em produção ao Buddy Fenix via MCP",
+      "description": "Como o protótipo Seldon evoluiu para um sistema em Docker conectado ao corpus lars-rabelus, com esfera de mercúrio preservada, cofre cifrado, trinta vozes oficiais e ponte planejada via MCP para o Buddy Fenix.",
+      "tags": [
+        "seldon",
+        "docker",
+        "arquitetura",
+        "mcp",
+        "continuidade",
+        "buddy-fenix"
+      ],
+      "author": "LARS Rabelus",
+      "date": "2026-11-26",
+      "lang": "pt-BR",
+      "file": "posts/2026-11-26-a-esfera-o-cofre-e-a-ponte.html"
+    },
     {
       "slug": "2026-11-25-o-laboratorio-e-o-que-aprendemos",
       "title": "O laboratório é também o que aprendemos",
